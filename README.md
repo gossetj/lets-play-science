@@ -3,9 +3,13 @@
 Un petit repo pour aggréger les suggestions de **Lets Play Science** !  
 Vive l'intelligence collaborative !  
 
-**Pourquoi github?** Parce que cette application permet de faire des **révisions avec validation du propriétaire** d'un document collaboratif, cf le point suivant. 
+### Pourquoi github?
+Au même titre qu'un wiki, cette application permet de faire des **révisions avec validation du propriétaire** d'un document collaboratif, cf le point suivant.  
 
-**Pour faire une proposition d'édition**, *c'est pas sorcier* :  
+
+### Participer
+**Pour faire une proposition d'édition**, deux options 
+### Faire une requête (c'est le mieux)
 
 - [Créez un compte github](https://github.com/join)
 - Sélectionnez le fichier [README.MD](README.MD)
@@ -15,6 +19,13 @@ Vive l'intelligence collaborative !
   - renseignez une phrase qui décrit la modification
   - appuyez sur **propose file change**
 
+**Si vous ne savez pas écrire en markdown, utilisez cet éditeur : [stackedit](https://stackedit.io/)**  
+
+### Ouvrir une issue
+- [Créez un compte github](https://github.com/join)
+- [Ouvrez une issue](https://github.com/sveinburne/lets-play-science/issues)
+
+### Validation
 Je me chargerais de faire la validation des requêtes. Si d'autres veulent me pretter la main pour la modération, [laissez un message ici](https://github.com/sveinburne/lets-play-science/issues/1)! 
 
 ## Créer/Trouver une plateforme qui permettrait... 
