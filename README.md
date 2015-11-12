@@ -68,7 +68,7 @@ Avec notamment :
 - La proposition **1**
 - La possibiliter d'éditer collectivement les propositions (soumettre une édition à l'auteur du post, comme sur github^^)
 
-### **7** Utilisé la statistique pour évaluer la qualité des posts 
+### **7** Utiliser la statistique pour évaluer la qualité des posts 
 *[proposé par Fjellfrass ](https://www.youtube.com/user/Fjellfrass) et [par Sebastien Huet](https://www.youtube.com/user/huetse)*  
 
 Faire une analyse sémantique des commentaires google pour rapprocher les posts similaires en utilisant l'API de google. 
