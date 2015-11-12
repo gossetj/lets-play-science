@@ -7,6 +7,11 @@ Vive l'intelligence collaborative !
 ### Pourquoi github?
 Au même titre qu'un wiki, cette application permet de faire des **révisions avec validation du propriétaire** d'un document collaboratif, cf le point suivant.  
 
+### Sommaire 
+
+1. [Participer](#participer)
+2. [Créer/Trouver une plateforme qui permettrait...](#créertrouver-une-plateforme-qui-permettrait)
+3. [Candidats possibles](#candidats-possibles)
 
 ## Participer
 **Pour faire une proposition d'édition**, deux options 
