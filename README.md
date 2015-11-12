@@ -19,7 +19,7 @@ Au même titre qu'un wiki, cette application permet de faire des **révisions av
   - renseignez une phrase qui décrit la modification
   - appuyez sur **propose file change**
 
-**Si vous ne savez pas écrire en markdown, utilisez cet éditeur : [stackedit](https://stackedit.io/)**  
+**Si vous ne savez pas écrire en markdown, c'est un language de mise en forme très simple, [on l'apprend en cinq minutes](http://www.remarq.io/articles/five-minutes-to-markdown-mastery/)**  
 
 ### Ouvrir une issue
 - [Créez un compte github](https://github.com/join)
