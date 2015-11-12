@@ -12,7 +12,7 @@ Au même titre qu'un wiki, cette application permet de faire des **révisions av
 ### Faire une requête (c'est le mieux)
 
 - [Créez un compte github](https://github.com/join)
-- Sélectionnez le fichier [README.MD](README.MD)
+- Sélectionnez le fichier [README.md](README.md)
 - appuyez sur le symbole en forme de stylo *edit*
 - faites vos modifications 
 - en bas de la page, section **Propose file change** :
