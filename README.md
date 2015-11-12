@@ -54,7 +54,7 @@ Ainsi on peut basculer entre différentes vues suivant notre approche, "érudite
 #### **2** Une forme de modération
 *proposé par une vaste majorité*  
 
-- **a** Gestion du trolling et des contenus sans valeur ajouter
+- **a** Gestion du trolling et des contenus sans valeur ajoutée
 - **b** Influence sur l'algorithme de tri. Un modérateur peut marquer
   - houleux ( il ne sera plus favorisé dans l'algorithme de tri )
   - exceptionnel ( il sera mit en avant dans l'algorithme de tri )
