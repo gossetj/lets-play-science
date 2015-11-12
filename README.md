@@ -65,16 +65,18 @@ Faire une analyse sémantique des commentaires google pour rapprocher les posts 
 
 ## Candidats possibles 
 ### [Discourse](https://www.discourse.org/) 
-*proposé par [kokodroid](https://www.youtube.com/user/kokodroid*  
+*proposé par [kokodroid](https://www.youtube.com/user/kokodroid)*  
 **Pros**
 - Open source
 - Moderne
 
 **Cons**
 - Ne supporte pas la personnalisation des likes à ma connaissance
-- 
+ 
 ### [Stack Exchange](http://stackexchange.com/)
+
 *suggéré par [Josselin Massot](https://www.youtube.com/user/Dlul)*
 (à développer)
+
 > Une autre idée est celle proposée par des outils comme **StackOverFlow** (et toutes les versions propres à un domaine particulier qui en sont dérivés) qui consiste à poser une question (généralement l'exposition d'un problème informatique), un certain nombre de personnes répondent et on peut facilement aimer ou déprécier la réponse. En tout cas ce système de notation est beaucoup plus mis en avant et incité que sur Youtube. Donc le problème est peut-être la philosophie des communautés Youtube qui favorise les réponses courtes aux réponses longues (souvent plus complètes et constructives).
 
