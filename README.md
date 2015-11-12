@@ -1,6 +1,7 @@
 # lets-play-science
 
-Un petit repo pour aggréger les suggestions de **Lets Play Science** !  
+Un petit repo pour aggréger les suggestions sur l'épisode 3 de **Lets Play Science** !  
+**Problématique** :  **"Comment collaborer à 5000 cerveaux sur la même question ?".** 
 Vive l'intelligence collaborative !  
 
 ### Pourquoi github?
