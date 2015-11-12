@@ -62,7 +62,7 @@ Si on a ni liké, ni jugé le contenu extraordinaire, ni merdique, on peut le ma
 - Proposer à l'utilisateur un mode "évalutation" ou son travail est d'évaluer des posts qu'il n'a pas encore évalué. Grosso modo, ça lui permet de s'y retrouver facilement !  
 Dans ce mode, **seuls les contenus non marqué (comme "vu", "pas con", "spam" ou "drôle") seront visibles**.  
 
-### **6** S'insipirer de republique-numerique.fr 
+### **6** S'inspirer de republique-numerique.fr 
 *[proposé par hackedbrain17](https://www.youtube.com/user/hackedbrain17)*  
 Avec notamment : 
 - La proposition **1**
