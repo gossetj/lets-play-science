@@ -50,7 +50,7 @@ En dehors de la gestion des trolls, un moderateur pourra marquer un post comme :
 - exceptionnel ( il sera mit en avant dans l'algorithme de tri ) 
 
 ### **3** Des #hashtags 
-*proposé de nombreuses fois*
+*proposé de nombreuses fois*  
 Permet de filtrer rapidement le contenu, et d'avoir un accès facile aux posts relatifs
 
 ### **4** Possibilité de marquer un post comme "évalué"
