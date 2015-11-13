@@ -107,8 +107,9 @@ Comment transporter l'humanité dans l'espace ?
 - **d** Par une analyse syntaxique des posts (computationnellement très couteux !)
 
 #### **4** Possibilité de marquer un post comme "évalué"
+*proposé par [Jules Randolph](https://github.com/sveinburne/)*  
 Extension de la proposition **3** :
-Si on a ni liké, ni jugé le contenu extraordinaire, ni merdique, on peut le marquer comme "lu", cf la proposition **5.a**
+Si on a ni liké, ni jugé le contenu extraordinaire, ni merdique, on peut le marquer comme **"évalué"**, cf la proposition **5.a**
 
 #### **5** Une interface qui favorise l'évaluation entre pairs
 *Inspiré de la proposition de [koukaloukaki](https://www.youtube.com/user/koukaloukaki), proposé par [Jules Randolph](https://www.youtube.com/user/theswanted)*  
