@@ -122,7 +122,7 @@ Dans ce mode, **seuls les contenus non marqué (comme "vu", "pas con", "spam" ou
 *Proposé par [Takator LK](https://www.youtube.com/channel/UCKFNN9-FFfaN53BQc_ZF5Mw)*
 - **c** Obliger l'évaluation d'autres propositions avant de publier la sienne. Bien évidemment, cette obligation ne s'applique pas aux premiers posts.
 
-<a name="#clusters"></a>
+<a name="#clusters" id="#clusters"></a>
 *Insipiré de la proposition de [Takator LK](https://www.youtube.com/channel/UCKFNN9-FFfaN53BQc_ZF5Mw), proposé par [Jules Randolph](https://www.youtube.com/user/theswanted)*
 - **d** En accord avec **a**, **b** et **c**, et en référence à la **sagesse des foules**, créer des "clusters" d'évaluateurs, ou comment créer des posts collaboratifs de qualité :
   - Vocabulaire :
