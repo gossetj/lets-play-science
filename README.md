@@ -1,4 +1,4 @@
-# lets-play-science
+# lets-play-science, à la recherche de la sagesse des foules
 
 **Un petit repo** pour aggréger les suggestions sur l'épisode 3 de **Lets Play Science** !  
 **C'est un document collaboratif** ou chacun peut intégrer sa proposition de manière organisée, pas un projet de développement (par pour l'instant du moins)  
@@ -50,8 +50,12 @@ L'idée est de faire du filatrage collaboratif en catégorisant subjectivement l
 - pousse bleu ça veut dire "pas con"
 - pousse rouge ça veut dire "nul" ou "spam"
 
-... + d'autres catégories éventuellement, cf l'intervention de [Gaspard Garry-Gendre](https://www.youtube.com/channel/UCYEMyvlHvpJcYypXJZzF9zA)
+... + d'autres catégories éventuellement, cf :
+- l'intervention de [Gaspard Garry-Gendre](https://www.youtube.com/channel/UCYEMyvlHvpJcYypXJZzF9zA)
 > "troll" "pas con" "petit breton" "brillant" "genie ou stupide ?" "big up" "hater" "critique" "eloge" "random"
+
+- l'intervention de [bebertii](https://www.youtube.com/user/bebertii)
+> - first, content, pas content, utile, futile
 
 Ainsi on peut basculer entre différentes vues suivant notre approche, "érudite" ou "détente" !
 
@@ -66,8 +70,10 @@ Ainsi on peut basculer entre différentes vues suivant notre approche, "érudite
 **Remarque** Certains comme [PhilocrateV](https://www.youtube.com/user/PhilocrateV) émettent des réserves à la **2.b**, qui favorisait un "système de castes". Je trouve au contraire que le droit de modérer est acquis par mérite, par les contributeurs qui s'investissent le plus.
 
 #### **3** Association sémantique des posts
-*proposé de nombreuses fois*
+*proposé par [Gaspard Garry-Gendre](https://www.youtube.com/channel/UCYEMyvlHvpJcYypXJZzF9zA),
+ [bebertii](https://www.youtube.com/user/bebertii), [Panda Terroriste](https://www.youtube.com/channel/UCOSyst_PWE8-gwCxQmZBoUw), et d'autres...!*  
 - **a** Par des `#hashtags` : Permet de filtrer rapidement le contenu, et d'avoir un accès facile aux posts relatifs
+  - [Panda Terroriste](https://www.youtube.com/channel/UCOSyst_PWE8-gwCxQmZBoUw) suggère qu'on devrait avoir accès à tous les hashtags en cours pour éviter une profusion de tags sémantiquement proches.
 
 *proposé par [Seki Onudric](https://www.youtube.com/channel/UCJhOnkpjRbdL04tkfr46JhA)*
 - **b** Via une structure d'arbre :
@@ -100,7 +106,7 @@ Extension de la proposition **3** :
 Si on a ni liké, ni jugé le contenu extraordinaire, ni merdique, on peut le marquer comme "lu", cf la proposition **5.a**
 
 #### **5** Une interface qui favorise l'évaluation entre pairs
-*Inspiré de la proposition de [koukaloukaki](https://www.youtube.com/user/koukaloukaki)*  
+*Inspiré de la proposition de [koukaloukaki](https://www.youtube.com/user/koukaloukaki), proposé par [Jules Randolph](https://www.youtube.com/user/theswanted)*  
 - **a** Proposer à l'utilisateur un mode "évalutation" ou son travail est d'évaluer des posts qu'il n'a pas encore évalué. Grosso modo, ça lui permet de s'y retrouver facilement !  
 Dans ce mode, **seuls les contenus non marqué (comme "vu", "pas con", "spam" ou "drôle") seront visibles**.  
 
@@ -110,8 +116,8 @@ Dans ce mode, **seuls les contenus non marqué (comme "vu", "pas con", "spam" ou
 *Proposé par [Takator LK](https://www.youtube.com/channel/UCKFNN9-FFfaN53BQc_ZF5Mw)*
 - **c** Obliger l'évaluation d'autres propositions avant de publier la sienne. Bien évidemment, cette obligation ne s'applique pas aux premiers posts.
 
-*Insipiré de la proposition de [Takator LK](https://www.youtube.com/channel/UCKFNN9-FFfaN53BQc_ZF5Mw)*
-- **d** En accord avec **a**, **b** et **c**, créer des "clusters" d'évaluateurs :
+*Insipiré de la proposition de [Takator LK](https://www.youtube.com/channel/UCKFNN9-FFfaN53BQc_ZF5Mw), proposé par [Jules Randolph](https://www.youtube.com/user/theswanted)*
+- **d** En accord avec **a**, **b** et **c**, et en référence à la **sagesse des foules**, créer des "clusters" d'évaluateurs :
   - Dans chaque cluster, une équipe réduite prémache le tri
   - Les contributions les plus pertinentes deviennent visibles en dehors du cluster
   - Celà présuppose un processus itératif et séquentiel de l'évaluation :
