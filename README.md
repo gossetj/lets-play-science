@@ -81,6 +81,7 @@ Ainsi on peut basculer entre différentes vues suivant notre approche, "érudite
 
 *proposé par [Seki Onudric](https://www.youtube.com/channel/UCJhOnkpjRbdL04tkfr46JhA)*
 - **b** Via une structure d'arbre :
+
 >Le système de commentaire / mail / hashtag / etc c'est bien pour une conversation. Pas pour organiser des idées.
 Organiser les idées sous une forme d'arbre permettrait d'accroître la finesse de chaque argument. Puisqu'ainsi, chaque personne peut voir facilement et lisiblement la liste des arguments et entrer dans chaque branche pour apporter sa pierre à l'édifice.
 Comment transporter l'humanité dans l'espace ?  
