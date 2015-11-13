@@ -159,6 +159,7 @@ Avec notamment :
 #### [LaPrimaire.org](https://laprimaire.org/)
 *proposé par [Raphael Deschamps](https://plus.google.com/105449596471161531134)*  
 >  Ce qui est très intéressant dans leur système, c'est que les internautes ont un accès totalement aléatoire aux candidatures (donc un certain nombre de candidatures sont tirées au sort pour chaque internaute) et ces internautes sont chargés de faire un choix en fonction de la qualité des candidatures proposées. Les candidatures qui auront été les mieux notées / en tête du classement des internautes seront celles qui vont être retenues pour passer à l'étape suivante, ou les principales candidatures sont soumises au choix de l'ensemble des internautes.
+
 #### [republique-numerique.fr](republique-numerique.fr)
 *[proposé par hackedbrain17](https://www.youtube.com/user/hackedbrain17)*  
 
