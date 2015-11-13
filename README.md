@@ -136,6 +136,12 @@ Avec notamment :
 
 **6.b** aussi proposé par [luffyetgaara](https://www.youtube.com/user/luffyetgaara)
 
+#### **7** Organniser une comunauté qui prémache le filtrage
+*proposé par [pistachemolle](https://www.youtube.com/user/pistachemolle) et [cizalto](https://www.youtube.com/user/cizalto)*  
+> Peut etre qu'un groupe de personnes plus ou moins en affinité avec la thématique de la question pourrait fouiller au fur et à mesure le fil des réponses et à partir de là éditer et remettre à jour en permanence une sorte de résumé des réponses des spectateurs. En les regroupant et classant par similarité, en prenant en compte leur récurrences et leur pertinence, ( et surement plein d'autres facteurs ) dans le but d'arriver à un schéma en ramifications. Il s'en dégagerait sûrement des axes principaux avec leur subdivision selon les variantes, et quelques pistes moins denses d'idées plus originales. Ce schéma, cet sorte "d'arbre scénaristique" serait accessible ( pas au tout début du sondage biensur, après un premier tri ) et remis à jour régulièment, ainsi les gens qui souhaitent répondre pourraient déjà voir comment s'organisent les idées autours du sujet et dans quelles branche ranger leur réponse, ou carrément en créer une nouvelle.
+- Les premiers à répondre ne bénéficieraient donc pas du classement des réponses et se lanceraient donc un peu à l'aveugle comme actuellement sur les commentaires youtube.
+- Cette organisation n'est pas du tout horizontale, voire même carrément pyramidale, et ça me chiffonne un peu ( voire déprime carrément ) de n'avoir que ça comme idée en tête à proposer comme réponse ! ^_^
+
 
 ## Candidats possibles
 #### [Discourse](https://www.discourse.org/)
