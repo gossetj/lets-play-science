@@ -14,7 +14,8 @@ Au même titre qu'un wiki, cette application permet de faire des **révisions av
 1. [Participer](#participer)
 2. [Créer/Trouver une plateforme qui permettrait...](#créertrouver-une-plateforme-qui-permettrait)
 3. [Candidats possibles](#candidats-possibles)
-4. [On est des fous et on code le truc open source!](#on-est-des-fous-et-on-code-le-truc-open-source)
+4. [Sources d'inspiration](#sources-d-inspiration)
+5. [On est des fous et on code le truc open source!](#on-est-des-fous-et-on-code-le-truc-open-source)
 
 ## Participer
 **Pour faire une proposition d'édition**, deux options
@@ -66,14 +67,37 @@ Ainsi on peut basculer entre différentes vues suivant notre approche, "érudite
 
 #### **3** Association sémantique des posts
 *proposé de nombreuses fois*
-- **a** Par des #hashtags : Permet de filtrer rapidement le contenu, et d'avoir un accès facile aux posts relatifs
+- **a** Par des `#hashtags` : Permet de filtrer rapidement le contenu, et d'avoir un accès facile aux posts relatifs
+
+*proposé par [Seki Onudric](https://www.youtube.com/channel/UCJhOnkpjRbdL04tkfr46JhA)*
+- **b** Via une structure d'arbre :
+>Le système de commentaire / mail / hashtag / etc c'est bien pour une conversation. Pas pour organiser des idées.
+Organiser les idées sous une forme d'arbre permettrait d'accroître la finesse de chaque argument. Puisqu'ainsi, chaque personne peut voir facilement et lisiblement la liste des arguments et entrer dans chaque branche pour apporter sa pierre à l'édifice.
+Comment transporter l'humanité dans l'espace ?  
+├── Ascenceurs spatiaux  
+│   ├── Ascenseur  
+│   ├── Skyhook  
+│   └── …  
+├── Propulsion  
+│   ├── Capsules à explosions nucléaire  
+│   ├── Fusées  
+│   │   ├── Explosion  
+│   │   ├── Hydrogène  
+│   │   └── …  
+│   └── …  
+└── …  
+
+*proposé par [Jules Randolph](https://www.youtube.com/user/theswanted)*
+- **c** Fusion de **a** et **b** : un hashtag avec domaine de noms, séparés par des `:`
+  - Exemple : `#Ascenceurs Spaciaux:Skyhook`
+
 
 *[proposé par Fjellfrass ](https://www.youtube.com/user/Fjellfrass), [ Sebastien Huet](https://www.youtube.com/user/huetse), [heyhoo yoo](https://www.youtube.com/channel/UCfKFZIdjzeti_fbmDH4uIvg)*
-- **b** Par une analyse syntaxique des posts (computationnellement très couteux !)
+- **d** Par une analyse syntaxique des posts (computationnellement très couteux !)
 
 #### **4** Possibilité de marquer un post comme "évalué"
 Extension de la proposition **3** :
-Si on a ni liké, ni jugé le contenu extraordinaire, ni merdique, on peut le marquer comme "lu", cf la proposition **5**
+Si on a ni liké, ni jugé le contenu extraordinaire, ni merdique, on peut le marquer comme "lu", cf la proposition **5.a**
 
 #### **5** Une interface qui favorise l'évaluation entre pairs
 *Inspiré de la proposition de [koukaloukaki](https://www.youtube.com/user/koukaloukaki)*  
@@ -123,6 +147,17 @@ Avec notamment :
 (à développer)
 
 > Une autre idée est celle proposée par des outils comme **StackOverFlow** (et toutes les versions propres à un domaine particulier qui en sont dérivés) qui consiste à poser une question (généralement l'exposition d'un problème informatique), un certain nombre de personnes répondent et on peut facilement aimer ou déprécier la réponse. En tout cas ce système de notation est beaucoup plus mis en avant et incité que sur Youtube. Donc le problème est peut-être la philosophie des communautés Youtube qui favorise les réponses courtes aux réponses longues (souvent plus complètes et constructives).
+
+## Sources d'inspiration
+
+#### [LaPrimaire.org](https://laprimaire.org/)
+*proposé par [Raphael Deschamps](https://plus.google.com/105449596471161531134)*  
+>  Ce qui est très intéressant dans leur système, c'est que les internautes ont un accès totalement aléatoire aux candidatures (donc un certain nombre de candidatures sont tirées au sort pour chaque internaute) et ces internautes sont chargés de faire un choix en fonction de la qualité des candidatures proposées. Les candidatures qui auront été les mieux notées / en tête du classement des internautes seront celles qui vont être retenues pour passer à l'étape suivante, ou les principales candidatures sont soumises au choix de l'ensemble des internautes.
+#### [republique-numerique.fr](republique-numerique.fr)
+*[proposé par hackedbrain17](https://www.youtube.com/user/hackedbrain17)*  
+
+
+
 
 ## On est des fous et on code le truc open source!
 Des développeur qui ont signalé leur souhait de s'investir (merci de vous rajouter à la main avec votre lien github)
