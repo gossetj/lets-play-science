@@ -123,12 +123,30 @@ Dans ce mode, **seuls les contenus non marqué (comme "vu", "pas con", "spam" ou
 - **c** Obliger l'évaluation d'autres propositions avant de publier la sienne. Bien évidemment, cette obligation ne s'applique pas aux premiers posts.
 
 *Insipiré de la proposition de [Takator LK](https://www.youtube.com/channel/UCKFNN9-FFfaN53BQc_ZF5Mw), proposé par [Jules Randolph](https://www.youtube.com/user/theswanted)*
-- **d** En accord avec **a**, **b** et **c**, et en référence à la **sagesse des foules**, créer des "clusters" d'évaluateurs :
-  - Dans chaque cluster, une équipe réduite prémache le tri
-  - Les contributions les plus pertinentes deviennent visibles en dehors du cluster
+- **d** En accord avec **a**, **b** et **c**, et en référence à la **sagesse des foules**, créer des "clusters" d'évaluateurs, ou comment créer des posts collaboratifs de qualité :
+  - Vocabulaire :
+    - **post** : une réponse directe au problème posé, distinct des
+     **commentaires**
+    - **cluster** : un groupe restreint de contributeurs participants à un **run**
+    - **run** : phase d'évaluation collective
+    - **commentaire** : un commentaire à un **post**
+  - Dans chaque cluster, une équipe réduite de, par exemple, 50 personnes intérragit, sans visibilité directe sur les autres clusters. **Ça permet à chacun d'avoir une quantité limitée d'évaluations à réaliser.**
   - Celà présuppose un processus itératif et séquentiel de l'évaluation :
-    - pendant un 'run' d'une semaine, les clusters sont isolés les uns des autres, mais les posts sémantiquement proches (cf **3**) sont visibles entre clusters.
-    - dans un deuxième run, les clusters 'publient' les propositions les plus pertientes
+    - Phase de **pre run** : On propose un lien aux collaborateurs qui veulent s'inscrire dans le **run**
+      - Les inscrits *peuvent* commencer à rédiger des posts, mais ils ne sont pas visibles pour les autres! L'auteur doit proposer au moins 3 tags / post
+      - Les inscrits ont accès à l'arbre de tags (cf **3.c**)
+    - Phase de **run** sur X jours : des clusters (groupes) **isolés** les uns des autres élaborent des posts. L'isolation n'est pas stricte car **les posts sémantiquement proches (cf 3) sont visibles entre clusters et peuvent être fusionnés (cf 6.b).**. De plus, **les hashtag avec nom de domaine (3.c) sont visibles de tous.**
+    Ainsi les clusters fusionnent progressivement les idées redondantes, et créent des révisions (cf **6.b**). Pendant ce temps, l'équipe de modération se charge d'éditer l'arbre de tags pour le rendre cohérant. Elle s'assure aussi que des clusters avec une trop grande proportion de gens inactifs fusionnent. Le **run** tourne jusqu'à ce qu'une des trois conditions soient vérifiée :
+      - le jour X (échéance) est atteint
+      - tous les posts ont été évalués par au moins **10** personnes (arbitraire) dans chaque cluster
+      - l'équipe de modération décide d'arrêter le run
+   - Phase de **publication** :
+      - tous les posts sont visibles, mais leur poids est normalisé suivant leur nombre d'évaluations.
+      - quiconque peut créer un post, mais **à condition d'avoir soumis au moins 3 évaluations ** (cf **b** et **c**). Il a accès à l'arbre de tag, et doit fournir 3 tags à son post!
+      - les contributeurs sont incités à évaluer les nouveaux posts
+      - les posts sont toujours révisionnables et fusionnables. Seul l'auteur peut autoriser des demandes de fusion / révision
+      -  un **run** peut être relancé n'importe quand par l'équipe de modération ou par un vote de volontaires pour trier les nouveaux posts peu visibles (vues < 10 )
+  - Le nombre de vues n'a qu'une influence marginale sur l'évaluation de qualité d'un post. On peut imaginer une fonction racine cubique par exemple.
 
 
 *Proposé par [Jean Baptiste Dallara](https://www.youtube.com/user/a46production)*
