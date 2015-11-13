@@ -202,3 +202,4 @@ Avec notamment :
 Des développeur qui ont signalé leur souhait de s'investir (merci de vous rajouter à la main avec votre lien github)
 
 - [Jules Randolph](https://github.com/sveinburne/)
+- [Monnet Julien](https://github.com/Roxtarmy)
