@@ -15,25 +15,40 @@ Au même titre qu'un wiki, cette application permet de faire des **révisions av
 
 ### Sommaire
 
-I. [Participer](#participer)
-  -  [Ouvrir une issue](#I.a)
-  -  [Faire une requête](#I.b)
+I. [Participer](#I)
+  1.  [Ouvrir une issue](#I.1)
+  2.  [Faire une requête](#I.2)
 
-II. [Créer/Trouver une plateforme qui permettrait...](#créertrouver-une-plateforme-qui-permettrait)  
-III. [Candidats possibles](#candidats-possibles)  
-IV. [Sources d'inspiration](#sources-dinspiration)  
-V. [On est des fous et on code le truc open source!](#on-est-des-fous-et-on-code-le-truc-open-source)  
+II. [Créer/Trouver une plateforme qui permettrait...](#II)  
+  1. [Différents types de likes](#II.1)
+  2. [Une forme de modération](#II.2)
+  3. [Association sémantique des posts](#II.3)
+  4. [Possibilité de marquer un post comme "évalué"](#II.4)
+  5. [Une interface qui favorise l'évaluation entre pairs](#II.5)
+  6. [S'inspirer de republique-numerique.fr](#II.6)
+  7. [Organniser une comunauté qui prémache le filtrage](#II.7)
 
-## Participer
+III. [Candidats possibles](#III)  
+  1. [Discourse](#III.1)
+  2. [Stack Exchange](#III.2)
+
+IV. [Sources d'inspiration](#IV)  
+  1. [LaPrimaire.org](#IV.1)
+  2. [republique-numerique.fr](#IV.2)
+
+V. [On est des fous et on code le truc open source!](#V)  
+
+<a name="I"></a>
+## I. Participer
 **Pour faire une proposition d'édition**, deux options
 
-<a name="I.a"></a>
-#### a Ouvrir une issue
+<a name="I.1"></a>
+#### 1. Ouvrir une issue
 - [Créez un compte github](https://github.com/join)
 - [Ouvrez une issue](https://github.com/sveinburne/lets-play-science/issues) avec **le point concerné** (ex [2.b] : influence sur l'algorithme de tri )
 
-<a name="I.b"></a>
-#### b Faire une requête
+<a name="I.2"></a>
+#### 2. Faire une requête
 
 - [Créez un compte github](https://github.com/join)
 - Sélectionnez le fichier [README.md](README.md)
@@ -45,15 +60,14 @@ V. [On est des fous et on code le truc open source!](#on-est-des-fous-et-on-code
 
 **Si vous ne savez pas écrire en markdown, c'est un language de mise en forme très simple, [on l'apprend en cinq minutes](http://www.remarq.io/articles/five-minutes-to-markdown-mastery/)**  
 
+**Validation** : Je me chargerais de faire la validation des requêtes. Si d'autres veulent me pretter la main pour la modération, [laissez un message ici](https://github.com/sveinburne/lets-play-science/issues/1)!
 
-
-#### Validation
-Je me chargerais de faire la validation des requêtes. Si d'autres veulent me pretter la main pour la modération, [laissez un message ici](https://github.com/sveinburne/lets-play-science/issues/1)!
-
-## Créer/Trouver une plateforme qui permettrait...
+<a name="II"></a>
+## II. Créer/Trouver une plateforme qui permettrait...
 
 **Un nombre très majoritaire de contributeurs s'accordent sur la nécessité de déplacer la discussion sur une plateforme 'augmentée' qui améliorerait de façon drastique la circulation des idées et favoriserait l'évaluation des propositions peu exposées**
-#### **1** Différents types de likes
+<a name="II.1"></a>
+#### 1. Différents types de likes
 *proposé par  [koukaloukaki](https://www.youtube.com/user/koukaloukaki)*  
 
 L'idée est de faire du filatrage collaboratif en catégorisant subjectivement l'intérêt
@@ -71,7 +85,8 @@ L'idée est de faire du filatrage collaboratif en catégorisant subjectivement l
 
 Ainsi on peut basculer entre différentes vues suivant notre approche, "érudite" ou "détente" !
 
-#### **2** Une forme de modération
+<a name="II.2"></a>
+#### 2. Une forme de modération
 *proposé par une vaste majorité*  
 
 - **a** Gestion du trolling et des contenus sans valeur ajoutée
@@ -81,7 +96,8 @@ Ainsi on peut basculer entre différentes vues suivant notre approche, "érudite
 
 **Remarque** Certains comme [PhilocrateV](https://www.youtube.com/user/PhilocrateV) émettent des réserves à la **2.b**, qui favorisait un "système de castes". Je trouve au contraire que le droit de modérer est acquis par mérite, par les contributeurs qui s'investissent le plus.
 
-#### **3** Association sémantique des posts
+<a name="II.3"></a>
+#### 3. Association sémantique des posts
 *proposé par [Gaspard Garry-Gendre](https://www.youtube.com/channel/UCYEMyvlHvpJcYypXJZzF9zA),
  [bebertii](https://www.youtube.com/user/bebertii), [Panda Terroriste](https://www.youtube.com/channel/UCOSyst_PWE8-gwCxQmZBoUw), et d'autres...!*  
 - **a** Par des `#hashtags` : Permet de filtrer rapidement le contenu, et d'avoir un accès facile aux posts relatifs
@@ -119,12 +135,14 @@ Comment transporter l'humanité dans l'espace ?
 
 ![CC BY-SA 3.0 Graham Burnett](https://upload.wikimedia.org/wikipedia/commons/4/42/Mindmap.gif)
 
-#### **4** Possibilité de marquer un post comme "évalué"
+<a name="II.4"></a>
+#### 4. Possibilité de marquer un post comme "évalué"
 *proposé par [Jules Randolph](https://github.com/sveinburne/)*  
 Extension de la proposition **3** :
 Si on a ni liké, ni jugé le contenu extraordinaire, ni merdique, on peut le marquer comme **"évalué"**, cf la proposition **5.a**
 
-#### **5** Une interface qui favorise l'évaluation entre pairs
+<a name="II.5"></a>
+#### 5. Une interface qui favorise l'évaluation entre pairs
 *Inspiré de la proposition de [koukaloukaki](https://www.youtube.com/user/koukaloukaki), proposé par [Jules Randolph](https://www.youtube.com/user/theswanted)*  
 - **a** Proposer à l'utilisateur un mode "évalutation" ou son travail est d'évaluer des posts qu'il n'a pas encore évalué. Grosso modo, ça lui permet de s'y retrouver facilement !  
 Dans ce mode, **seuls les contenus non marqué (comme "vu", "pas con", "spam" ou "drôle") seront visibles**.  
@@ -164,10 +182,12 @@ Dans ce mode, **seuls les contenus non marqué (comme "vu", "pas con", "spam" ou
   - Ca reste une structure souple, par exemple on est pas obligé de commencer tout de suite par un pre-run, on peut commencer par une phase de publication vide.
 
 
+
 *Proposé par [Jean Baptiste Dallara](https://www.youtube.com/user/a46production)*
 - **e** Un peu à la facemash, proposer des paires de propositions et demander à l'évaluateur celle qu'il trouve la plus pertinente.  
 
-#### **6** S'inspirer de republique-numerique.fr
+<a name="II.6"></a>
+#### 6. S'inspirer de republique-numerique.fr
 *[proposé par hackedbrain17](https://www.youtube.com/user/hackedbrain17)*  
 Avec notamment :
 - **a** La proposition **1**
@@ -175,15 +195,17 @@ Avec notamment :
 
 **6.b** aussi proposé par [luffyetgaara](https://www.youtube.com/user/luffyetgaara)
 
+<a name="II.7"></a>
 #### **7** Organniser une comunauté qui prémache le filtrage
 *proposé par [pistachemolle](https://www.youtube.com/user/pistachemolle) et [cizalto](https://www.youtube.com/user/cizalto)*  
 > Peut etre qu'un groupe de personnes plus ou moins en affinité avec la thématique de la question pourrait fouiller au fur et à mesure le fil des réponses et à partir de là éditer et remettre à jour en permanence une sorte de résumé des réponses des spectateurs. En les regroupant et classant par similarité, en prenant en compte leur récurrences et leur pertinence, ( et surement plein d'autres facteurs ) dans le but d'arriver à un schéma en ramifications. Il s'en dégagerait sûrement des axes principaux avec leur subdivision selon les variantes, et quelques pistes moins denses d'idées plus originales. Ce schéma, cet sorte "d'arbre scénaristique" serait accessible ( pas au tout début du sondage biensur, après un premier tri ) et remis à jour régulièment, ainsi les gens qui souhaitent répondre pourraient déjà voir comment s'organisent les idées autours du sujet et dans quelles branche ranger leur réponse, ou carrément en créer une nouvelle.
 - Les premiers à répondre ne bénéficieraient donc pas du classement des réponses et se lanceraient donc un peu à l'aveugle comme actuellement sur les commentaires youtube.
 - Cette organisation n'est pas du tout horizontale, voire même carrément pyramidale, et ça me chiffonne un peu ( voire déprime carrément ) de n'avoir que ça comme idée en tête à proposer comme réponse ! ^_^
 
-
-## Candidats possibles
-#### [Discourse](https://www.discourse.org/)
+<a name="III"></a>
+## III. Candidats possibles
+<a name="III.1">
+#### 1. [Discourse](https://www.discourse.org/)
 *proposé par [kokodroid](https://www.youtube.com/user/kokodroid)*  
 **Pros**
 - Open source
@@ -192,25 +214,29 @@ Avec notamment :
 **Cons**
 - Ne supporte pas la personnalisation des likes à ma connaissance
 
-#### [Stack Exchange](http://stackexchange.com/)
+<a name="III.2"></a>
+#### 2. [Stack Exchange](http://stackexchange.com/)
 
 *suggéré par [Josselin Massot](https://www.youtube.com/user/Dlul)*
 (à développer)
 
 > Une autre idée est celle proposée par des outils comme **StackOverFlow** (et toutes les versions propres à un domaine particulier qui en sont dérivés) qui consiste à poser une question (généralement l'exposition d'un problème informatique), un certain nombre de personnes répondent et on peut facilement aimer ou déprécier la réponse. En tout cas ce système de notation est beaucoup plus mis en avant et incité que sur Youtube. Donc le problème est peut-être la philosophie des communautés Youtube qui favorise les réponses courtes aux réponses longues (souvent plus complètes et constructives).
 
+<a name="IV"></a>
 ## Sources d'inspiration
 
-#### [LaPrimaire.org](https://laprimaire.org/)
+<a name="IV.1"></a>
+#### 1. [LaPrimaire.org](https://laprimaire.org/)
 *proposé par [Raphael Deschamps](https://plus.google.com/105449596471161531134)*  
 >  Ce qui est très intéressant dans leur système, c'est que les internautes ont un accès totalement aléatoire aux candidatures (donc un certain nombre de candidatures sont tirées au sort pour chaque internaute) et ces internautes sont chargés de faire un choix en fonction de la qualité des candidatures proposées. Les candidatures qui auront été les mieux notées / en tête du classement des internautes seront celles qui vont être retenues pour passer à l'étape suivante, ou les principales candidatures sont soumises au choix de l'ensemble des internautes.
 
-#### [republique-numerique.fr](republique-numerique.fr)
+<a name="IV.2"></a>
+#### 2. [republique-numerique.fr](republique-numerique.fr)
 *[proposé par hackedbrain17](https://www.youtube.com/user/hackedbrain17)*  
 
 
 
-
+<a name="V"></a>
 ## On est des fous et on code le truc open source!
 Des développeur qui ont signalé leur souhait de s'investir (merci de vous rajouter à la main avec votre lien github)
 
