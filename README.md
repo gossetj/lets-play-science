@@ -132,21 +132,22 @@ Dans ce mode, **seuls les contenus non marqué (comme "vu", "pas con", "spam" ou
     - **commentaire** : un commentaire à un **post**
   - Dans chaque cluster, une équipe réduite de, par exemple, 50 personnes intérragit, sans visibilité directe sur les autres clusters. **Ça permet à chacun d'avoir une quantité limitée d'évaluations à réaliser.**
   - Celà présuppose un processus itératif et séquentiel de l'évaluation :
-    - Phase de **pre run** : On propose un lien aux collaborateurs qui veulent s'inscrire dans le **run**
-      - Les inscrits *peuvent* commencer à rédiger des posts, mais ils ne sont pas visibles pour les autres! L'auteur doit proposer au moins 3 tags / post
+    - **Phase de pre run** : On propose un lien aux collaborateurs qui veulent s'inscrire dans le **run**
+      - Les inscrits *peuvent* commencer à rédiger des posts, mais ils ne sont pas visibles pour les autres, à moins d'être sémantiquement proches (cf **3.c**)! L'auteur doit proposer au moins 3 tags / post
       - Les inscrits ont accès à l'arbre de tags (cf **3.c**)
-    - Phase de **run** sur X jours : des clusters (groupes) **isolés** les uns des autres élaborent des posts. L'isolation n'est pas stricte car **les posts sémantiquement proches (cf 3) sont visibles entre clusters et peuvent être fusionnés (cf 6.b).**. De plus, **les hashtag avec nom de domaine (3.c) sont visibles de tous.**
+    - **Phase de run** sur X jours : des clusters (groupes) **isolés** les uns des autres élaborent des posts. L'isolation n'est pas stricte car **les posts sémantiquement proches (cf 3) sont visibles entre clusters et peuvent être fusionnés (cf 6.b).**. De plus, **les hashtag avec nom de domaine (3.c) sont visibles de tous.**
     Ainsi les clusters fusionnent progressivement les idées redondantes, et créent des révisions (cf **6.b**). Pendant ce temps, l'équipe de modération se charge d'éditer l'arbre de tags pour le rendre cohérant. Elle s'assure aussi que des clusters avec une trop grande proportion de gens inactifs fusionnent. Le **run** tourne jusqu'à ce qu'une des trois conditions soient vérifiée :
       - le jour X (échéance) est atteint
       - tous les posts ont été évalués par au moins **10** personnes (arbitraire) dans chaque cluster
       - l'équipe de modération décide d'arrêter le run
-   - Phase de **publication** :
+    - **Phase de publication** :
       - tous les posts sont visibles, mais leur poids est normalisé suivant leur nombre d'évaluations.
       - quiconque peut créer un post, mais **à condition d'avoir soumis au moins 3 évaluations ** (cf **b** et **c**). Il a accès à l'arbre de tag, et doit fournir 3 tags à son post!
       - les contributeurs sont incités à évaluer les nouveaux posts
       - les posts sont toujours révisionnables et fusionnables. Seul l'auteur peut autoriser des demandes de fusion / révision
       -  un **run** peut être relancé n'importe quand par l'équipe de modération ou par un vote de volontaires pour trier les nouveaux posts peu visibles (vues < 10 )
   - Le nombre de vues n'a qu'une influence marginale sur l'évaluation de qualité d'un post. On peut imaginer une fonction racine cubique par exemple.
+  - Ca reste une structure souple, par exemple on est pas obligé de commencer tout de suite par un pre-run, on peut commencer par une phase de publication vide. 
 
 
 *Proposé par [Jean Baptiste Dallara](https://www.youtube.com/user/a46production)*
