@@ -14,7 +14,7 @@ Au même titre qu'un wiki, cette application permet de faire des **révisions av
 1. [Participer](#participer)
 2. [Créer/Trouver une plateforme qui permettrait...](#créertrouver-une-plateforme-qui-permettrait)
 3. [Candidats possibles](#candidats-possibles)
-4. [Sources d'inspiration](#sources-d-inspiration)
+4. [Sources d'inspiration](#sources-dinspiration)
 5. [On est des fous et on code le truc open source!](#on-est-des-fous-et-on-code-le-truc-open-source)
 
 ## Participer
