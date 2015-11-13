@@ -106,6 +106,11 @@ Comment transporter l'humanité dans l'espace ?
 *[proposé par Fjellfrass ](https://www.youtube.com/user/Fjellfrass), [ Sebastien Huet](https://www.youtube.com/user/huetse), [heyhoo yoo](https://www.youtube.com/channel/UCfKFZIdjzeti_fbmDH4uIvg)*
 - **d** Par une analyse syntaxique des posts (computationnellement très couteux !)
 
+*[proposé par fsamin ](https://github.com/fsamin)*
+- **e** Par l'organisation des posts sous la forme d'un carte mentale i.e. [mind-mapping](https://fr.wikipedia.org/wiki/Carte_heuristique). Pour permettre au modérateur d'organiser, regrouper et visualier les contributions.
+
+![CC BY-SA 3.0 Graham Burnett](https://upload.wikimedia.org/wikipedia/commons/4/42/Mindmap.gif)
+
 #### **4** Possibilité de marquer un post comme "évalué"
 *proposé par [Jules Randolph](https://github.com/sveinburne/)*  
 Extension de la proposition **3** :
@@ -203,3 +208,4 @@ Des développeur qui ont signalé leur souhait de s'investir (merci de vous rajo
 
 - [Jules Randolph](https://github.com/sveinburne/)
 - [Monnet Julien](https://github.com/Roxtarmy)
+- [François Samin](https://github.com/fsamin/)
