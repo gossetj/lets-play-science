@@ -15,15 +15,25 @@ Au même titre qu'un wiki, cette application permet de faire des **révisions av
 
 ### Sommaire
 
-1. [Participer](#participer)
-2. [Créer/Trouver une plateforme qui permettrait...](#créertrouver-une-plateforme-qui-permettrait)
-3. [Candidats possibles](#candidats-possibles)
-4. [Sources d'inspiration](#sources-dinspiration)
-5. [On est des fous et on code le truc open source!](#on-est-des-fous-et-on-code-le-truc-open-source)
+I. [Participer](#participer)
+  -  [Ouvrir une issue](#I.a)
+  -  [Faire une requête](#I.b)
+
+II. [Créer/Trouver une plateforme qui permettrait...](#créertrouver-une-plateforme-qui-permettrait)  
+III. [Candidats possibles](#candidats-possibles)  
+IV. [Sources d'inspiration](#sources-dinspiration)  
+V. [On est des fous et on code le truc open source!](#on-est-des-fous-et-on-code-le-truc-open-source)  
 
 ## Participer
 **Pour faire une proposition d'édition**, deux options
-#### [1] Faire une requête (c'est le mieux)
+
+<a name="I.a"></a>
+#### a Ouvrir une issue
+- [Créez un compte github](https://github.com/join)
+- [Ouvrez une issue](https://github.com/sveinburne/lets-play-science/issues) avec **le point concerné** (ex [2.b] : influence sur l'algorithme de tri )
+
+<a name="I.b"></a>
+#### b Faire une requête
 
 - [Créez un compte github](https://github.com/join)
 - Sélectionnez le fichier [README.md](README.md)
@@ -35,9 +45,7 @@ Au même titre qu'un wiki, cette application permet de faire des **révisions av
 
 **Si vous ne savez pas écrire en markdown, c'est un language de mise en forme très simple, [on l'apprend en cinq minutes](http://www.remarq.io/articles/five-minutes-to-markdown-mastery/)**  
 
-#### [2] Ouvrir une issue (c'est moins bien)
-- [Créez un compte github](https://github.com/join)
-- [Ouvrez une issue](https://github.com/sveinburne/lets-play-science/issues)
+
 
 #### Validation
 Je me chargerais de faire la validation des requêtes. Si d'autres veulent me pretter la main pour la modération, [laissez un message ici](https://github.com/sveinburne/lets-play-science/issues/1)!
