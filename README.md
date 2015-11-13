@@ -3,6 +3,10 @@
 **Un petit repo** pour aggréger les suggestions sur l'épisode 3 de **Lets Play Science** !  
 **C'est un document collaboratif** ou chacun peut intégrer sa proposition de manière organisée, pas un projet de développement (par pour l'instant du moins)  
 **Problématique** :  **"Comment collaborer à 5000 cerveaux sur la même question ?".**  
+- Les commentaires les plus pertinents ne sont pas forcément les plus likés
+- Aller à la recherche des commentaires pertinents est une tâche laborieuse!
+- Cette *navigation en eaux troubles* limite la circulation des idées, et cause de nombreux doublons
+
 Vive l'intelligence collaborative !  
 
 
