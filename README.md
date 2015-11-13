@@ -142,12 +142,12 @@ Dans ce mode, **seuls les contenus non marqué (comme "vu", "pas con", "spam" ou
       - l'équipe de modération décide d'arrêter le run
     - **Phase de publication** :
       - tous les posts sont visibles, mais leur poids est normalisé suivant leur nombre d'évaluations.
-      - quiconque peut créer un post, mais **à condition d'avoir soumis au moins 3 évaluations ** (cf **b** et **c**). Il a accès à l'arbre de tag, et doit fournir 3 tags à son post!
+      - quiconque peut créer un post, mais **à condition d'avoir soumis au moins 3 évaluations** (cf **b** et **c**). Il a accès à l'arbre de tag, et doit fournir 3 tags à son post!
       - les contributeurs sont incités à évaluer les nouveaux posts
       - les posts sont toujours révisionnables et fusionnables. Seul l'auteur peut autoriser des demandes de fusion / révision
       -  un **run** peut être relancé n'importe quand par l'équipe de modération ou par un vote de volontaires pour trier les nouveaux posts peu visibles (vues < 10 )
   - Le nombre de vues n'a qu'une influence marginale sur l'évaluation de qualité d'un post. On peut imaginer une fonction racine cubique par exemple.
-  - Ca reste une structure souple, par exemple on est pas obligé de commencer tout de suite par un pre-run, on peut commencer par une phase de publication vide. 
+  - Ca reste une structure souple, par exemple on est pas obligé de commencer tout de suite par un pre-run, on peut commencer par une phase de publication vide.
 
 
 *Proposé par [Jean Baptiste Dallara](https://www.youtube.com/user/a46production)*
