@@ -45,7 +45,7 @@ V. [On est des fous et on code le truc open source!](#V)
 <a name="I.1"></a>
 #### 1. Ouvrir une issue
 - [Créez un compte github](https://github.com/join)
-- [Ouvrez une issue](https://github.com/sveinburne/lets-play-science/issues) avec **le point concerné** (ex [2.b] : influence sur l'algorithme de tri )
+- [Ouvrez une issue](https://github.com/sveinburne/lets-play-science/issues) avec **le point concerné** (ex [II.2.b] : influence sur l'algorithme de tri )
 
 <a name="I.2"></a>
 #### 2. Faire une requête
