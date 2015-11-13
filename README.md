@@ -223,7 +223,7 @@ Avec notamment :
 > Une autre idée est celle proposée par des outils comme **StackOverFlow** (et toutes les versions propres à un domaine particulier qui en sont dérivés) qui consiste à poser une question (généralement l'exposition d'un problème informatique), un certain nombre de personnes répondent et on peut facilement aimer ou déprécier la réponse. En tout cas ce système de notation est beaucoup plus mis en avant et incité que sur Youtube. Donc le problème est peut-être la philosophie des communautés Youtube qui favorise les réponses courtes aux réponses longues (souvent plus complètes et constructives).
 
 <a name="IV"></a>
-## Sources d'inspiration
+## IV. Sources d'inspiration
 
 <a name="IV.1"></a>
 #### 1. [LaPrimaire.org](https://laprimaire.org/)
@@ -237,7 +237,7 @@ Avec notamment :
 
 
 <a name="V"></a>
-## On est des fous et on code le truc open source!
+## V. On est des fous et on code le truc open source!
 Des développeur qui ont signalé leur souhait de s'investir (merci de vous rajouter à la main avec votre lien github)
 
 - [Jules Randolph](https://github.com/sveinburne/)
