@@ -1,8 +1,10 @@
 # lets-play-science
 
-Un petit repo pour aggréger les suggestions sur l'épisode 3 de **Lets Play Science** !  
+**Un petit repo** pour aggréger les suggestions sur l'épisode 3 de **Lets Play Science** !  
+**C'est un document collaboratif** ou chacun peut intégrer sa proposition de manière organisée, pas un projet de développement (par pour l'instant du moins)  
 **Problématique** :  **"Comment collaborer à 5000 cerveaux sur la même question ?".**  
 Vive l'intelligence collaborative !  
+
 
 ### Pourquoi github?
 Au même titre qu'un wiki, cette application permet de faire des **révisions avec validation du propriétaire** d'un document collaboratif, cf le point suivant.  
