@@ -11,7 +11,9 @@ Vive l'intelligence collaborative !
 
 
 ### Pourquoi github?
-Au même titre qu'un wiki, cette application permet de faire des **révisions avec validation du propriétaire** d'un document collaboratif, cf le point suivant.  
+Au même titre qu'un wiki, cette application permet de faire des **révisions avec validation du propriétaire** d'un document collaboratif.
+
+**NB** Pour suivre le projet et être notifié des mises à jour et interventions sur [le forum associé](https://github.com/sveinburne/lets-play-science/issues), cliquez sur le bouton `Watch` en haut à droite. 
 
 ### Sommaire
 
