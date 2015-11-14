@@ -1,7 +1,10 @@
 # lets-play-science, à la recherche de la sagesse des foules
 
 **Un petit repo** pour aggréger les suggestions sur l'épisode 3 de **Lets Play Science** !  
-**C'est un document collaboratif** ou chacun peut intégrer sa proposition de manière organisée, pas un projet de développement (par pour l'instant du moins)  
+**C'est un document collaboratif** ou chacun peut intégrer sa proposition de manière organisée.
+- Ce n'est **pas** un projet de développement ( [par pour l'instant du moins](#V) )  
+- Ce n'est **pas** une solution en tant que tel à la question posée, mais un outil pour y parvenir.
+
 **Problématique** :  **"Comment collaborer à 5000 cerveaux sur la même question ?".**  
 - Les commentaires les plus pertinents ne sont pas forcément les plus likés
 - Aller à la recherche des commentaires pertinents est une tâche laborieuse!
@@ -11,9 +14,9 @@ Vive l'intelligence collaborative !
 
 
 ### Pourquoi github?
-Au même titre qu'un wiki, cette application permet de faire des **révisions avec validation du propriétaire** d'un document collaboratif.
-
-**NB** Pour suivre le projet et être notifié des mises à jour et interventions sur [le forum associé](https://github.com/sveinburne/lets-play-science/issues), cliquez sur le bouton `Watch` en haut à droite. 
+Au même titre qu'un wiki, cette application permet de faire des **révisions avec validation [des responsables](#help)** d'un document collaboratif.
+- Pour suivre le projet et être notifié des mises à jour et interventions sur [le forum associé](https://github.com/sveinburne/lets-play-science/issues), cliquez sur le bouton ![Watch](img/watch.png) en haut à droite.
+- **Pour ne voir que les ajouts récents, et pas se refarcir tout le document à chaque fois**, faites un tour [du côté des *commits*](https://github.com/sveinburne/lets-play-science/commits/master)
 
 ### Sommaire
 
@@ -47,22 +50,25 @@ V. [On est des fous et on code le truc open source!](#V)
 <a name="I.1"></a>
 #### 1. Ouvrir une issue
 - [Créez un compte github](https://github.com/join)
-- [Ouvrez une issue](https://github.com/sveinburne/lets-play-science/issues) avec **le point concerné** (ex [II.2.b] : influence sur l'algorithme de tri )
+- Ouvrez une issue avec **le point concerné** (ex [II.2.b] : influence sur l'algorithme de tri ), en vous rendant [à cette adresse](https://github.com/sveinburne/lets-play-science/issues) puis en cliquant sur ![New Issue](img/new_issue.png)
 
 <a name="I.2"></a>
 #### 2. Faire une requête
 
 - [Créez un compte github](https://github.com/join)
 - Sélectionnez le fichier [README.md](README.md)
-- appuyez sur le symbole en forme de stylo *edit*
+- appuyez sur ![le symbole en forme de stylo *edit*](img/edit.png)
 - faites vos modifications
 - en bas de la page, section **Propose file change** :
   - renseignez une phrase qui décrit la modification
-  - appuyez sur **propose file change**
+  - appuyez sur ![Propose file change](img/propose.png)
+- Une *Pull Request* apparait alors [dans le forum](https://github.com/sveinburne/lets-play-science/pulls?utf8=%E2%9C%93&q=is%3Apr+) et **les gens peuvent commenter cette proposition**
+- L'[équipe de validation](https://github.com/sveinburne/lets-play-science/issues/1) confirme l'édition.
 
 **Si vous ne savez pas écrire en markdown, c'est un language de mise en forme très simple, [on l'apprend en cinq minutes](http://www.remarq.io/articles/five-minutes-to-markdown-mastery/)**  
 
-**Validation** : Je me chargerais de faire la validation des requêtes. Si d'autres veulent me pretter la main pour la modération, [laissez un message ici](https://github.com/sveinburne/lets-play-science/issues/1)!
+<a name="help"></a>
+**Si d'autres veulent me pretter la main pour la validation, [laissez un message ici](https://github.com/sveinburne/lets-play-science/issues/1)!**
 
 <a name="II"></a>
 ## II. Créer/Trouver une plateforme qui permettrait...
@@ -161,7 +167,7 @@ Dans ce mode, **seuls les contenus non marqué (comme "vu", "pas con", "spam" ou
 
 <h6 name="#clusters" id="#clusters"></h6>
 *Insipiré de la proposition de [Takator LK](https://www.youtube.com/channel/UCKFNN9-FFfaN53BQc_ZF5Mw), proposé par [Jules Randolph](https://www.youtube.com/user/theswanted)*
-- **d** En accord avec **a**, **b** et **c**, et en référence à la **sagesse des foules**, créer des "clusters" d'évaluateurs, ou comment créer des posts collaboratifs de qualité :
+- **d** En accord avec **a**, **b** et **c**, et en référence à la **sagesse des foules**, créer des "clusters" d'évaluateurs, ou comment créer des posts collaboratifs de qualité. Bon c'est un peu barré ce machin :
   - Vocabulaire :
     - **post** : une réponse directe au problème posé, distinct des
      **commentaires**
