@@ -123,13 +123,6 @@ Comment transporter l'humanité dans l'espace ?
 └── …  
 
 *proposé par [Jules Randolph](https://www.youtube.com/user/theswanted)*
-
-Au moment de valider son commentaire, on peut choisir si on **pour** ou **contre** (ou bien **neutre** par défaut) vis-à-vis de l'hypothèse à laquelle on répond : si je commente dans la section *Propulsion* pour dire que ça ne marchera jamais, je me rangerais du coté **contre**.
-Le but à terme est de voir instantanément les commentaires qui ont des arguements favorables ou défavorables au sein de chaque catégorie. L'affichage serait semblable à une discussion sms : les commentaires **pour** l'hypothèse de la propulsion alignés à gauche, et ceux **contre** à droite (et les **neutre** au milieu).
-On pourrait également proposer un filtre sur ce nouveau critère.
-
-*proposé par [Monnet Julien](https://github.com/Roxtarmy)*
-
 - **c** Fusion de **a** et **b** : un hashtag avec domaine de noms, séparés par des `:`
   - Exemple : `#Ascenceurs Spaciaux:Skyhook`
 
@@ -139,6 +132,12 @@ On pourrait également proposer un filtre sur ce nouveau critère.
 
 *[proposé par fsamin ](https://github.com/fsamin)*
 - **e** Par l'organisation des posts sous la forme d'un carte mentale i.e. [mind-mapping](https://fr.wikipedia.org/wiki/Carte_heuristique). Pour permettre au modérateur d'organiser, regrouper et visualier les contributions.
+
+
+*proposé par [Monnet Julien](https://github.com/Roxtarmy)*
+- **f** Extension de **b**. Au moment de valider son commentaire, on peut choisir si on **pour** ou **contre** (ou bien **neutre** par défaut) vis-à-vis de l'hypothèse à laquelle on répond : si je commente dans la section *Propulsion* pour dire que ça ne marchera jamais, je me rangerais du coté **contre**.
+Le but à terme est de voir instantanément les commentaires qui ont des arguements favorables ou défavorables au sein de chaque catégorie. L'affichage serait semblable à une discussion sms : les commentaires **pour** l'hypothèse de la propulsion alignés à gauche, et ceux **contre** à droite (et les **neutre** au milieu).
+On pourrait également proposer un filtre sur ce nouveau critère.
 
 ![CC BY-SA 3.0 Graham Burnett](https://upload.wikimedia.org/wikipedia/commons/4/42/Mindmap.gif)
 
