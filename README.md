@@ -234,6 +234,10 @@ Avec notamment :
 
 > Une autre idée est celle proposée par des outils comme **StackOverFlow** (et toutes les versions propres à un domaine particulier qui en sont dérivés) qui consiste à poser une question (généralement l'exposition d'un problème informatique), un certain nombre de personnes répondent et on peut facilement aimer ou déprécier la réponse. En tout cas ce système de notation est beaucoup plus mis en avant et incité que sur Youtube. Donc le problème est peut-être la philosophie des communautés Youtube qui favorise les réponses courtes aux réponses longues (souvent plus complètes et constructives).
 
+*suggéré par [Maxime Pacary](https://github.com/Frosty-Z)*
+
+> Un outil de "vote social" dans la lignée de **StackOverflow** qui a retenu mon attention : [Tricider](www.tricider.com). Système question/réponse habituel, avec en plus une colonne permettant de donner des arguments pour/contre également soumis à vote et classement automatique par vote décroissant. En anglais only par contre, et un peu lent... Une bonne source d'inspiration ?
+
 <a name="III.3"></a>
 #### 3. [LaPrimaire.org](https://laprimaire.org/)
 *proposé par [Raphael Deschamps](https://plus.google.com/105449596471161531134)*  
@@ -257,3 +261,4 @@ Des développeur qui ont signalé leur souhait de s'investir (merci de vous rajo
 - [Jules Randolph](https://github.com/sveinburne/)
 - [Monnet Julien](https://github.com/Roxtarmy)
 - [François Samin](https://github.com/fsamin/)
+- [Maxime Pacary](https://github.com/Frosty-Z)
