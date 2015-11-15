@@ -31,7 +31,7 @@ II. [Créer/Trouver une plateforme qui permettrait...](#II)
   4. [Possibilité de marquer un post comme "évalué"](#II.4)
   5. [Une interface qui favorise l'évaluation entre pairs](#II.5)
   6. [S'inspirer de republique-numerique.fr](#II.6)
-  7. [Organniser une comunauté qui prémache le filtrage](#II.7)
+  7. [Organiser une comunauté qui prémache le filtrage](#II.7)
 
 III. [Candidats possibles](#III)  
   1. [Discourse](#III.1)
@@ -208,7 +208,7 @@ Avec notamment :
 **6.b** aussi proposé par [luffyetgaara](https://www.youtube.com/user/luffyetgaara)
 
 <a name="II.7"></a>
-#### **7** Organniser une comunauté qui prémache le filtrage
+#### **7** Organiser une comunauté qui prémache le filtrage
 *proposé par [pistachemolle](https://www.youtube.com/user/pistachemolle) et [cizalto](https://www.youtube.com/user/cizalto)*  
 > Peut etre qu'un groupe de personnes plus ou moins en affinité avec la thématique de la question pourrait fouiller au fur et à mesure le fil des réponses et à partir de là éditer et remettre à jour en permanence une sorte de résumé des réponses des spectateurs. En les regroupant et classant par similarité, en prenant en compte leur récurrences et leur pertinence, ( et surement plein d'autres facteurs ) dans le but d'arriver à un schéma en ramifications. Il s'en dégagerait sûrement des axes principaux avec leur subdivision selon les variantes, et quelques pistes moins denses d'idées plus originales. Ce schéma, cet sorte "d'arbre scénaristique" serait accessible ( pas au tout début du sondage biensur, après un premier tri ) et remis à jour régulièment, ainsi les gens qui souhaitent répondre pourraient déjà voir comment s'organisent les idées autours du sujet et dans quelles branche ranger leur réponse, ou carrément en créer une nouvelle.
 - Les premiers à répondre ne bénéficieraient donc pas du classement des réponses et se lanceraient donc un peu à l'aveugle comme actuellement sur les commentaires youtube.
