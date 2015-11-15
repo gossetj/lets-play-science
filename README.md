@@ -3,7 +3,7 @@ lets-play-science, à la recherche de la sagesse des foules
 
 **Un petit repo** pour aggréger les suggestions sur l'épisode 3 de **Lets Play Science** !  
 **C'est un document collaboratif** ou chacun peut intégrer sa proposition de manière organisée.
-- Ce n'est **pas** un projet de développement ( [pas pour l'instant du moins](#V) )  
+- Ce n'est **pas** un projet de développement ( [pas pour l'instant du moins](#IV) )  
 - Ce n'est **pas** une solution en tant que tel à la question posée, mais un outil pour y parvenir.
 
 **Problématique** :  **"Comment collaborer à 5000 cerveaux sur la même question ?".**  
@@ -34,15 +34,13 @@ II. [Créer/Trouver une plateforme qui permettrait...](#II)
   6. [S'inspirer de republique-numerique.fr](#II.6)
   7. [Organiser une comunauté qui prémache le filtrage](#II.7)
 
-III. [Candidats possibles](#III)  
+III. [Candidats possibles et sources d'inspiration](#III)  
   1. [Discourse](#III.1)
   2. [Stack Exchange](#III.2)
+  3. [LaPrimaire.org](#III.3)
+  4. [republique-numerique.fr](#III.4)
 
-IV. [Sources d'inspiration](#IV)  
-  1. [LaPrimaire.org](#IV.1)
-  2. [republique-numerique.fr](#IV.2)
-
-V. [On est des fous et on code le truc open source!](#V)  
+IV. [On est des fous et on code le truc open source!](#IV)  
 
 <a name="I"></a>
 ## I. Participer
@@ -216,7 +214,7 @@ Avec notamment :
 - Cette organisation n'est pas du tout horizontale, voire même carrément pyramidale, et ça me chiffonne un peu ( voire déprime carrément ) de n'avoir que ça comme idée en tête à proposer comme réponse ! ^_^
 
 <a name="III"></a>
-## III. Candidats possibles
+## III. Candidats possibles et sources d'inspiration
 <a name="III.1">
 #### 1. [Discourse](https://www.discourse.org/)
 *proposé par [kokodroid](https://www.youtube.com/user/kokodroid)*  
@@ -235,22 +233,17 @@ Avec notamment :
 
 > Une autre idée est celle proposée par des outils comme **StackOverFlow** (et toutes les versions propres à un domaine particulier qui en sont dérivés) qui consiste à poser une question (généralement l'exposition d'un problème informatique), un certain nombre de personnes répondent et on peut facilement aimer ou déprécier la réponse. En tout cas ce système de notation est beaucoup plus mis en avant et incité que sur Youtube. Donc le problème est peut-être la philosophie des communautés Youtube qui favorise les réponses courtes aux réponses longues (souvent plus complètes et constructives).
 
-<a name="IV"></a>
-## IV. Sources d'inspiration
-
-<a name="IV.1"></a>
-#### 1. [LaPrimaire.org](https://laprimaire.org/)
+<a name="III.3"></a>
+#### 3. [LaPrimaire.org](https://laprimaire.org/)
 *proposé par [Raphael Deschamps](https://plus.google.com/105449596471161531134)*  
 >  Ce qui est très intéressant dans leur système, c'est que les internautes ont un accès totalement aléatoire aux candidatures (donc un certain nombre de candidatures sont tirées au sort pour chaque internaute) et ces internautes sont chargés de faire un choix en fonction de la qualité des candidatures proposées. Les candidatures qui auront été les mieux notées / en tête du classement des internautes seront celles qui vont être retenues pour passer à l'étape suivante, ou les principales candidatures sont soumises au choix de l'ensemble des internautes.
 
-<a name="IV.2"></a>
-#### 2. [republique-numerique.fr](republique-numerique.fr)
-*[proposé par hackedbrain17](https://www.youtube.com/user/hackedbrain17)*  
+<a name="III.4"></a>
+#### 4. [republique-numerique.fr](republique-numerique.fr)
+*[proposé par hackedbrain17](https://www.youtube.com/user/hackedbrain17)*
 
-
-
-<a name="V"></a>
-## V. On est des fous et on code le truc open source!
+<a name="IV"></a>
+## IV. On est des fous et on code le truc open source!
 Des développeur qui ont signalé leur souhait de s'investir (merci de vous rajouter à la main avec votre lien github)
 
 - [Jules Randolph](https://github.com/sveinburne/)
