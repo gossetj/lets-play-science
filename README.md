@@ -39,6 +39,7 @@ III. [Candidats possibles et sources d'inspiration](#III)
   2. [Stack Exchange](#III.2)
   3. [LaPrimaire.org](#III.3)
   4. [republique-numerique.fr](#III.4)
+  5. [authorea.com](#III.5)
 
 IV. [On est des fous et on code le truc open source!](#IV)  
 
@@ -241,6 +242,13 @@ Avec notamment :
 <a name="III.4"></a>
 #### 4. [republique-numerique.fr](republique-numerique.fr)
 *[proposé par hackedbrain17](https://www.youtube.com/user/hackedbrain17)*
+
+<a name="III.5"></a>
+#### 5. [authorea.com](https://www.authorea.com/)
+*proposé par [Jules Randolph]()*
+
+> authorea.com est une plateforme anglaise de rédaction d'articles collaboratifs pour étudiants et chercheurs du monde entier, lancée il y a un an à peine.... je trouve que ça rejoint pas mal de propositions allant dans le sens de "posts édités collaborativement"
+
 
 <a name="IV"></a>
 ## IV. On est des fous et on code le truc open source!
