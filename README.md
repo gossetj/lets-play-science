@@ -236,7 +236,7 @@ Avec notamment :
 
 *suggéré par [Maxime Pacary](https://github.com/Frosty-Z)*
 
-> Un outil de "vote social" dans la lignée de **StackOverflow** qui a retenu mon attention : [Tricider](http://www.tricider.com). Système question/réponse habituel, avec en plus une colonne permettant de donner des arguments pour/contre également soumis à vote et classement automatique par vote décroissant. En anglais only par contre, et un peu lent... Une bonne source d'inspiration ?
+> Un outil de "vote social" dans la lignée de **StackOverflow** qui a retenu mon attention : [Tricider](http://www.tricider.com). Pour chaque réponse fournie, une colonne permet de donner des arguments pour ou contre, également soumis à vote et triés automatiquement. Service gratuit et sans obligation d'être inscrit pour participer aux questions/argumentations/votes. Par contre : anglais only, un peu lent.
 
 <a name="III.3"></a>
 #### 3. [LaPrimaire.org](https://laprimaire.org/)
