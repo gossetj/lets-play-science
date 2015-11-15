@@ -3,7 +3,7 @@ lets-play-science, à la recherche de la sagesse des foules
 
 **Un petit repo** pour aggréger les suggestions sur l'épisode 3 de **Lets Play Science** !  
 **C'est un document collaboratif** ou chacun peut intégrer sa proposition de manière organisée.
-- Ce n'est **pas** un projet de développement ( [par pour l'instant du moins](#V) )  
+- Ce n'est **pas** un projet de développement ( [pas pour l'instant du moins](#V) )  
 - Ce n'est **pas** une solution en tant que tel à la question posée, mais un outil pour y parvenir.
 
 **Problématique** :  **"Comment collaborer à 5000 cerveaux sur la même question ?".**  
@@ -14,7 +14,7 @@ lets-play-science, à la recherche de la sagesse des foules
 Pourquoi github?
 ----------------------------------------------------------
 Au même titre qu'un wiki, cette application permet de faire des **révisions avec validation [des responsables](https://github.com/sveinburne/lets-play-science/issues/1)** d'un document collaboratif.
-- L'idée est que chacun puisse éditer ce document en apportant des propositions (commentaires youtube) qui n'on pas encore été référencées dans la synthèse. Se rendre à la section [I. Participer](#I). 
+- L'idée est que chacun puisse éditer ce document en apportant des propositions (commentaires youtube) qui n'on pas encore été référencées dans la synthèse. Se rendre à la section [I. Participer](#I).
 - Pour suivre le projet et être notifié des mises à jour et interventions sur [le forum associé](https://github.com/sveinburne/lets-play-science/issues), cliquez sur le bouton ![Watch](img/watch.png) en haut à droite.
 - **Pour ne voir que les ajouts récents, et pas se refarcir tout le document à chaque fois**, faites un tour [du côté des *commits*](https://github.com/sveinburne/lets-play-science/commits/master)
 
