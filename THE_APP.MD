@@ -25,7 +25,6 @@ Sommaire
 - III. [Associations sémantiques](#III)
 - IV. [Versionnement](#IV)
 - V. [Rôles](#V)
----------------------------------------------------
 
 <a name="I"></a>
 ## I. Définitions & Concepts
@@ -117,7 +116,7 @@ Question soumise pour l'organisateur de l'évênement, ici Léo, et par extensio
 
 <a name="II"></a>
 ### II. Cycle de vie d'un défi
-*Description détaillée du cycle de vie d'un défi*
+*Description détaillée du cycle de vie d'un [défi](#I.13)*
 
 <a name="III"></a>
 ## III. Associations sémantiques
