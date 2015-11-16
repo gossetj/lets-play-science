@@ -25,14 +25,14 @@ I. [Participer](#I)
   1.  [Ouvrir une issue](#I.1)
   2.  [Faire une requête](#I.2)
 
-II. [Créer/Trouver une plateforme qui permettrait...](#II)  
-  1. [Différents types de likes](#II.1)
+II. [Créer/Trouver une plateforme qui offrirait...](#II)  
+  1. [Un choix entre différents types de likes](#II.1)
   2. [Une forme de modération](#II.2)
-  3. [Association sémantique des posts](#II.3)
-  4. [Possibilité de marquer un post comme "évalué"](#II.4)
+  3. [Une association sémantique des posts](#II.3)
+  4. [La possibilité de marquer un post comme "évalué"](#II.4)
   5. [Une interface qui favorise l'évaluation entre pairs](#II.5)
-  6. [S'inspirer de republique-numerique.fr](#II.6)
-  7. [Organiser une comunauté qui prémache le filtrage](#II.7)
+  6. [L'édition collaborative des posts](#II.6)
+  7. [L'organisation une comunauté qui prémache le filtrage](#II.7)
 
 III. [Candidats possibles et sources d'inspiration](#III)  
   1. [Discourse](#III.1)
@@ -72,11 +72,11 @@ IV. [On est des fous et on code le truc open source!](#IV)
 **Si d'autres veulent me pretter la main pour la validation, [laissez un message ici](https://github.com/sveinburne/lets-play-science/issues/1)!**
 
 <a name="II"></a>
-## II. Créer/Trouver une plateforme qui permettrait...
+## II. Créer/Trouver une plateforme qui offrirait...
 
 **Un nombre très majoritaire de contributeurs s'accordent sur la nécessité de déplacer la discussion sur une plateforme 'augmentée' qui améliorerait de façon drastique la circulation des idées et favoriserait l'évaluation des propositions peu exposées**
 <a name="II.1"></a>
-#### 1. Différents types de likes
+#### 1. Un choix entre différents types de likes
 *proposé par  [koukaloukaki](https://www.youtube.com/user/koukaloukaki)*  
 
 L'idée est de faire du filatrage collaboratif en catégorisant subjectivement l'intérêt
@@ -106,7 +106,7 @@ Ainsi on peut basculer entre différentes vues suivant notre approche, "érudite
 **Remarque** Certains comme [PhilocrateV](https://www.youtube.com/user/PhilocrateV) émettent des réserves à la **2.b**, qui favorisait un "système de castes". Je trouve au contraire que le droit de modérer est acquis par mérite, par les contributeurs qui s'investissent le plus.
 
 <a name="II.3"></a>
-#### 3. Association sémantique des posts
+#### 3. Une association sémantique des posts
 *proposé par [Gaspard Garry-Gendre](https://www.youtube.com/channel/UCYEMyvlHvpJcYypXJZzF9zA),
  [bebertii](https://www.youtube.com/user/bebertii), [Panda Terroriste](https://www.youtube.com/channel/UCOSyst_PWE8-gwCxQmZBoUw), et d'autres...!*  
 - **a** Par des `#hashtags` : Permet de filtrer rapidement le contenu, et d'avoir un accès facile aux posts relatifs
@@ -149,10 +149,10 @@ Le but à terme est de voir instantanément les commentaires qui ont des argueme
 On pourrait également proposer un filtre sur ce nouveau critère.
 
 <a name="II.4"></a>
-#### 4. Possibilité de marquer un post comme "évalué"
+#### 4. La possibilité de marquer un post comme "évalué"
 *proposé par [Jules Randolph](https://github.com/sveinburne/)*  
 Extension de la proposition **3** :
-Si on a ni liké, ni jugé le contenu extraordinaire, ni merdique, on peut le marquer comme **"évalué"**, cf la proposition **5.a**
+Si on a ni liké, ni jugé le contenu extraordinaire, ni merdique, on peut le marquer comme **"évalué"**, cf la proposition **5.a**. L'objectif est de favoriser la navigation entre ce qui a été lu / pas lu.
 
 <a name="II.5"></a>
 #### 5. Une interface qui favorise l'évaluation entre pairs
@@ -200,7 +200,7 @@ Dans ce mode, **seuls les contenus non marqué (comme "vu", "pas con", "spam" ou
 - **e** Un peu à la facemash, proposer des paires de propositions et demander à l'évaluateur celle qu'il trouve la plus pertinente.  
 
 <a name="II.6"></a>
-#### 6. S'inspirer de republique-numerique.fr
+#### 6. L'édition collaborative des posts
 *[proposé par hackedbrain17](https://www.youtube.com/user/hackedbrain17)*  
 Avec notamment :
 - **a** La proposition **1**
@@ -209,7 +209,7 @@ Avec notamment :
 **6.b** aussi proposé par [luffyetgaara](https://www.youtube.com/user/luffyetgaara)
 
 <a name="II.7"></a>
-#### **7** Organiser une comunauté qui prémache le filtrage
+#### **7** L'organisation une comunauté qui prémache le filtrage
 *proposé par [pistachemolle](https://www.youtube.com/user/pistachemolle) et [cizalto](https://www.youtube.com/user/cizalto)*  
 > Peut etre qu'un groupe de personnes plus ou moins en affinité avec la thématique de la question pourrait fouiller au fur et à mesure le fil des réponses et à partir de là éditer et remettre à jour en permanence une sorte de résumé des réponses des spectateurs. En les regroupant et classant par similarité, en prenant en compte leur récurrences et leur pertinence, ( et surement plein d'autres facteurs ) dans le but d'arriver à un schéma en ramifications. Il s'en dégagerait sûrement des axes principaux avec leur subdivision selon les variantes, et quelques pistes moins denses d'idées plus originales. Ce schéma, cet sorte "d'arbre scénaristique" serait accessible ( pas au tout début du sondage biensur, après un premier tri ) et remis à jour régulièment, ainsi les gens qui souhaitent répondre pourraient déjà voir comment s'organisent les idées autours du sujet et dans quelles branche ranger leur réponse, ou carrément en créer une nouvelle.
 - Les premiers à répondre ne bénéficieraient donc pas du classement des réponses et se lanceraient donc un peu à l'aveugle comme actuellement sur les commentaires youtube.
