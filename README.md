@@ -3,7 +3,7 @@ lets-play-science, à la recherche de la sagesse des foules
 
 **Un petit repo** pour aggréger les suggestions sur l'épisode 3 de **Lets Play Science** !  
 **C'est un document collaboratif** ou chacun peut intégrer sa proposition de manière organisée.
-- Ce n'est **pas** un projet de développement ( [pas pour l'instant du moins](#IV) )  
+- Ce n'est **pas** un projet de développement ( [pas pour l'instant du moins, mais vous pouvez tous soumettre des idées](#IV) )  
 - Ce n'est **pas** une solution en tant que tel à la question posée, mais un outil pour y parvenir.
 
 **Problématique** :  **"Comment collaborer à 5000 cerveaux sur la même question ?".**  
@@ -266,6 +266,18 @@ Un bon nombre des participants ont proposé un wiki, sans donner de nom. Alors j
 
 <a name="IV"></a>
 ## IV. On est des fous et on code le truc open source!
+
+#### 1. Faire des suggestions sur l'application, pas besoin d'être dev'
+*Sans nécessairement voir le projet se lancer, ça peut être une excellente expérience de pensée de se représenter l'application "idéale".*
+
+- Consultez l'ébauche de spécifications : [THE_APP.MD](THE_APP.MD)
+- Lisez [ce billet](https://github.com/sveinburne/lets-play-science/issues/11)
+- Consulter les issues avec le [`label:enhancement`](https://github.com/sveinburne/lets-play-science/issues?q=label%3Aenhancement)
+
+
+
+#### 2. Se signaler comme intéressé pour le developpement
+
 Des développeur qui ont signalé leur souhait de s'investir (merci de vous rajouter à la main avec votre lien github)
 
 - [Jules Randolph](https://github.com/sveinburne/)
