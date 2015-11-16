@@ -36,7 +36,7 @@ II. [Créer/Trouver une plateforme qui offrirait...](#II)
 
 III. [Candidats possibles et sources d'inspiration](#III)  
   1. [Discourse](#III.1)
-  2. [Stack Exchange](#III.2)
+  2. [Sites Q&A](#III.2)
   3. [LaPrimaire.org](#III.3)
   4. [republique-numerique.fr](#III.4)
   5. [authorea.com](#III.5)
@@ -228,13 +228,16 @@ Avec notamment :
 - Ne supporte pas la personnalisation des likes à ma connaissance
 
 <a name="III.2"></a>
-#### 2. [Stack Exchange](http://stackexchange.com/)
+#### 2. Sites Q&A
 
+**a** [StackExchange](http://stackexchange.com/)  
 *suggéré par [Josselin Massot](https://www.youtube.com/user/Dlul)*
 (à développer)
 
 > Une autre idée est celle proposée par des outils comme **StackOverFlow** (et toutes les versions propres à un domaine particulier qui en sont dérivés) qui consiste à poser une question (généralement l'exposition d'un problème informatique), un certain nombre de personnes répondent et on peut facilement aimer ou déprécier la réponse. En tout cas ce système de notation est beaucoup plus mis en avant et incité que sur Youtube. Donc le problème est peut-être la philosophie des communautés Youtube qui favorise les réponses courtes aux réponses longues (souvent plus complètes et constructives).
 
+
+**b** [Tricider](http://www.tricider.com)  
 *suggéré par [Maxime Pacary](https://github.com/Frosty-Z)*
 
 > Un outil de "vote social" dans la lignée de **StackOverflow** qui a retenu mon attention : [Tricider](http://www.tricider.com). Pour chaque réponse fournie, une colonne permet de donner des arguments pour ou contre, également soumis à vote et triés automatiquement. Service gratuit et sans obligation d'être inscrit pour participer aux questions/argumentations/votes. Par contre : anglais only, un peu lent.
