@@ -40,6 +40,7 @@ III. [Candidats possibles et sources d'inspiration](#III)
   3. [LaPrimaire.org](#III.3)
   4. [republique-numerique.fr](#III.4)
   5. [authorea.com](#III.5)
+  6. [MediaWiki](#III.6)
 
 IV. [On est des fous et on code le truc open source!](#IV)  
 
@@ -248,6 +249,12 @@ Avec notamment :
 *proposé par [Jules Randolph]()*
 
 > authorea.com est une plateforme anglaise de rédaction d'articles collaboratifs pour étudiants et chercheurs du monde entier, lancée il y a un an à peine.... je trouve que ça rejoint pas mal de propositions allant dans le sens de "posts édités collaborativement"
+
+<a name="III.6"></a>
+#### 6. [MediaWiki](https://www.mediawiki.org/wiki/MediaWiki)
+
+Un bon nombre des participants ont proposé un wiki, sans donner de nom. Alors je propose ici le plus courant.
+
 
 
 <a name="IV"></a>
