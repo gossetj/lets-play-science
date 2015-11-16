@@ -1,10 +1,9 @@
 lets-play-science, à la recherche de la sagesse des foules
 ----------------------------------------------------------
 
-**Un petit repo** pour aggréger les suggestions sur l'épisode 3 de **Lets Play Science** !  
-**C'est un document collaboratif** ou chacun peut intégrer sa proposition de manière organisée.
+**Un petit repo** pour agréger les suggestions sur l'épisode 3 de **Lets Play Science** !  
+**C'est un document collaboratif** où chacun peut intégrer sa proposition de manière organisée.
 - Ce n'est **pas** un projet de développement ( [pas pour l'instant du moins, mais vous pouvez tous soumettre des idées](#IV) )  
-- Ce n'est **pas** une solution en tant que tel à la question posée, mais un outil pour y parvenir.
 
 **Problématique** :  **"Comment collaborer à 5000 cerveaux sur la même question ?".**  
 - Les commentaires les plus pertinents ne sont pas forcément les plus likés
@@ -51,7 +50,7 @@ IV. [On est des fous et on code le truc open source!](#IV)
 <a name="I.1"></a>
 #### 1. Ouvrir une issue
 - [Créez un compte github](https://github.com/join)
-- Ouvrez une issue avec **le point concerné** (ex [II.2.b] : influence sur l'algorithme de tri ), en vous rendant [à cette adresse](https://github.com/sveinburne/lets-play-science/issues) puis en cliquant sur ![New Issue](img/new_issue.png)
+- Ouvrez une issue avec **le point concerné** (ex [II.2.b] : influence sur l'algorithme de tri), en vous rendant [à cette adresse](https://github.com/sveinburne/lets-play-science/issues) puis en cliquant sur ![New Issue](img/new_issue.png)
 
 <a name="I.2"></a>
 #### 2. Faire une requête
@@ -69,7 +68,7 @@ IV. [On est des fous et on code le truc open source!](#IV)
 **Si vous ne savez pas écrire en markdown, c'est un language de mise en forme très simple, [on l'apprend en cinq minutes](http://www.remarq.io/articles/five-minutes-to-markdown-mastery/)**  
 
 <a name="help"></a>
-**Si d'autres veulent me pretter la main pour la validation, [laissez un message ici](https://github.com/sveinburne/lets-play-science/issues/1)!**
+**Si d'autres veulent me prêter la main pour la validation, [laissez un message ici](https://github.com/sveinburne/lets-play-science/issues/1)!**
 
 <a name="II"></a>
 ## II. Créer/Trouver une plateforme qui offrirait...
@@ -77,13 +76,13 @@ IV. [On est des fous et on code le truc open source!](#IV)
 **Un nombre très majoritaire de contributeurs s'accordent sur la nécessité de déplacer la discussion sur une plateforme 'augmentée' qui améliorerait de façon drastique la circulation des idées et favoriserait l'évaluation des propositions peu exposées**
 <a name="II.1"></a>
 #### 1. Un choix entre différents types de likes
-*proposé par  [koukaloukaki](https://www.youtube.com/user/koukaloukaki)*  
+*proposé par [koukaloukaki](https://www.youtube.com/user/koukaloukaki)*  
 
-L'idée est de faire du filatrage collaboratif en catégorisant subjectivement l'intérêt
+L'idée est de faire du filtrage collaboratif en catégorisant subjectivement l'intérêt
 
-- pousse vert ça veut dire "bonne blague"
-- pousse bleu ça veut dire "pas con"
-- pousse rouge ça veut dire "nul" ou "spam"
+- pouce vert ça veut dire "bonne blague"
+- pouce bleu ça veut dire "pas con"
+- pouce rouge ça veut dire "nul" ou "spam"
 
 ... + d'autres catégories éventuellement, cf :
 - l'intervention de [Gaspard Garry-Gendre](https://www.youtube.com/channel/UCYEMyvlHvpJcYypXJZzF9zA)
@@ -100,8 +99,8 @@ Ainsi on peut basculer entre différentes vues suivant notre approche, "érudite
 
 - **a** Gestion du trolling et des contenus sans valeur ajoutée
 - **b** Influence sur l'algorithme de tri. Un modérateur peut marquer
-  - houleux ( il ne sera plus favorisé dans l'algorithme de tri )
-  - exceptionnel ( il sera mit en avant dans l'algorithme de tri )
+  - houleux (il ne sera plus favorisé dans l'algorithme de tri)
+  - exceptionnel (il sera mis en avant dans l'algorithme de tri)
 
 **Remarque** Certains comme [PhilocrateV](https://www.youtube.com/user/PhilocrateV) émettent des réserves à la **2.b**, qui favorisait un "système de castes". Je trouve au contraire que le droit de modérer est acquis par mérite, par les contributeurs qui s'investissent le plus.
 
@@ -158,7 +157,7 @@ Si on a ni liké, ni jugé le contenu extraordinaire, ni merdique, on peut le ma
 #### 5. Une interface qui favorise l'évaluation entre pairs
 *Inspiré de la proposition de [koukaloukaki](https://www.youtube.com/user/koukaloukaki), proposé par [Jules Randolph](https://www.youtube.com/user/theswanted)*  
 - **a** Proposer à l'utilisateur un mode "évalutation" ou son travail est d'évaluer des posts qu'il n'a pas encore évalué. Grosso modo, ça lui permet de s'y retrouver facilement !  
-Dans ce mode, **seuls les contenus non marqué (comme "vu", "pas con", "spam" ou "drôle") seront visibles**.  
+Dans ce mode, **seuls les contenus non marqués (comme "vu", "pas con", "spam" ou "drôle") seront visibles**.  
 
 *Proposé par [Yrtiop](https://www.youtube.com/user/Yrtiop)*
 - **b** Provoquer la sérendipité et limiter le copinage en obligeant les gens à commenter (évaluer) des solutions tirées au hasard
@@ -175,13 +174,13 @@ Dans ce mode, **seuls les contenus non marqué (comme "vu", "pas con", "spam" ou
     - **cluster** : un groupe restreint de contributeurs participants à un **run**
     - **run** : phase d'évaluation collective
     - **commentaire** : un commentaire à un **post**
-  - Dans chaque cluster, une équipe réduite de, par exemple, 50 personnes intérragit, sans visibilité directe sur les autres clusters. **Ça permet à chacun d'avoir une quantité limitée d'évaluations à réaliser.**
+  - Dans chaque cluster, une équipe réduite de, par exemple, 50 personnes interagit, sans visibilité directe sur les autres clusters. **Ça permet à chacun d'avoir une quantité limitée d'évaluations à réaliser.**
   - Celà présuppose un processus itératif et séquentiel de l'évaluation :
     - **Phase de pre run** : On propose un lien aux collaborateurs qui veulent s'inscrire dans le **run**
       - Les inscrits *peuvent* commencer à rédiger des posts, mais ils ne sont pas visibles pour les autres, à moins d'être sémantiquement proches (cf **3.c**)! L'auteur doit proposer au moins 3 tags / post
       - Les inscrits ont accès à l'arbre de tags (cf **3.c**)
     - **Phase de run** sur X jours : des clusters (groupes) **isolés** les uns des autres élaborent des posts. L'isolation n'est pas stricte car **les posts sémantiquement proches (cf 3) sont visibles entre clusters et peuvent être fusionnés (cf 6.b).**. De plus, **les hashtag avec nom de domaine (3.c) sont visibles de tous.**
-    Ainsi les clusters fusionnent progressivement les idées redondantes, et créent des révisions (cf **6.b**). Pendant ce temps, l'équipe de modération se charge d'éditer l'arbre de tags pour le rendre cohérant. Elle s'assure aussi que des clusters avec une trop grande proportion de gens inactifs fusionnent. Le **run** tourne jusqu'à ce qu'une des trois conditions soient vérifiée :
+    Ainsi les clusters fusionnent progressivement les idées redondantes, et créent des révisions (cf **6.b**). Pendant ce temps, l'équipe de modération se charge d'éditer l'arbre de tags pour le rendre cohérent. Elle s'assure aussi que des clusters avec une trop grande proportion de gens inactifs fusionnent. Le **run** tourne jusqu'à ce qu'une des trois conditions soient vérifiée :
       - le jour X (échéance) est atteint
       - tous les posts ont été évalués par au moins **10** personnes (arbitraire) dans chaque cluster
       - l'équipe de modération décide d'arrêter le run
@@ -211,9 +210,9 @@ Avec notamment :
 <a name="II.7"></a>
 #### **7** L'organisation une comunauté qui prémache le filtrage
 *proposé par [pistachemolle](https://www.youtube.com/user/pistachemolle) et [cizalto](https://www.youtube.com/user/cizalto)*  
-> Peut etre qu'un groupe de personnes plus ou moins en affinité avec la thématique de la question pourrait fouiller au fur et à mesure le fil des réponses et à partir de là éditer et remettre à jour en permanence une sorte de résumé des réponses des spectateurs. En les regroupant et classant par similarité, en prenant en compte leur récurrences et leur pertinence, ( et surement plein d'autres facteurs ) dans le but d'arriver à un schéma en ramifications. Il s'en dégagerait sûrement des axes principaux avec leur subdivision selon les variantes, et quelques pistes moins denses d'idées plus originales. Ce schéma, cet sorte "d'arbre scénaristique" serait accessible ( pas au tout début du sondage biensur, après un premier tri ) et remis à jour régulièment, ainsi les gens qui souhaitent répondre pourraient déjà voir comment s'organisent les idées autours du sujet et dans quelles branche ranger leur réponse, ou carrément en créer une nouvelle.
+> Peut-être qu'un groupe de personnes plus ou moins en affinité avec la thématique de la question pourrait fouiller au fur et à mesure le fil des réponses et à partir de là éditer et remettre à jour en permanence une sorte de résumé des réponses des spectateurs. En les regroupant et classant par similarité, en prenant en compte leur récurrences et leur pertinence, (et surement plein d'autres facteurs) dans le but d'arriver à un schéma en ramifications. Il s'en dégagerait sûrement des axes principaux avec leur subdivision selon les variantes, et quelques pistes moins denses d'idées plus originales. Ce schéma, cet sorte "d'arbre scénaristique" serait accessible (pas au tout début du sondage bien sûr, après un premier tri) et remis à jour régulièment, ainsi les gens qui souhaitent répondre pourraient déjà voir comment s'organisent les idées autours du sujet et dans quelles branche ranger leur réponse, ou carrément en créer une nouvelle.
 - Les premiers à répondre ne bénéficieraient donc pas du classement des réponses et se lanceraient donc un peu à l'aveugle comme actuellement sur les commentaires youtube.
-- Cette organisation n'est pas du tout horizontale, voire même carrément pyramidale, et ça me chiffonne un peu ( voire déprime carrément ) de n'avoir que ça comme idée en tête à proposer comme réponse ! ^_^
+- Cette organisation n'est pas du tout horizontale, voire même carrément pyramidale, et ça me chiffonne un peu (voire déprime carrément) de n'avoir que ça comme idée en tête à proposer comme réponse ! ^_^
 
 <a name="III"></a>
 ## III. Candidats possibles et sources d'inspiration
@@ -278,10 +277,10 @@ Un bon nombre des participants ont proposé un wiki, sans donner de nom. Alors j
 
 #### 2. Se signaler comme intéressé pour le developpement
 
-Des développeur qui ont signalé leur souhait de s'investir (merci de vous rajouter à la main avec votre lien github)
+Des développeurs qui ont signalé leur souhait de s'investir (merci de vous rajouter à la main avec votre lien github)
 
 - [Jules Randolph](https://github.com/sveinburne/)
-- [Monnet Julien](https://github.com/Roxtarmy)
+- [Julien Monnet](https://github.com/Roxtarmy)
 - [François Samin](https://github.com/fsamin/)
 - [Maxime Pacary](https://github.com/Frosty-Z)
 - [Thibaud Chominot](https://github.com/Phacocherman/)
