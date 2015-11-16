@@ -8,19 +8,19 @@ Sommaire
 --------------------------------------------------
 
 - I. [Définitions](#I)
-  1. [Post](#I.1)
-  2. [Commentaire](#I.2)
-  3. [Carte Heuristique / Mind map](#I.3)
-  4. [Arbre sémantique](#I.4)
-  5. [Hash sémantique](#I.5)
-  6. [Filtre sémantique](#I.6)
-  7. [Fusion](#I.7)
-  8. [Soumission](#I.8)
-  9. [Version](#I.9)
-  10. [Post cible](#I.10)
-  11. [Post source](#I.11)
-  12. [Référence](#I.12)
-  13. [Défi](#I.13)
+    1. [Post](#I.1)
+    2. [Commentaire](#I.2)
+    3. [Carte Heuristique / Mind map](#I.3)
+    4. [Arbre sémantique](#I.4)
+    5. [Hash sémantique](#I.5)
+    6. [Filtre sémantique](#I.6)
+    7. [Fusion](#I.7)
+    8. [Soumission](#I.8)
+    9. [Version](#I.9)
+    10. [Post cible](#I.10)
+    11. [Post source](#I.11)
+    12. [Référence](#I.12)
+    13. [Défi](#I.13)
 - II. [Cycle de vie d'un défi](#II)
 - III. [Associations sémantiques](#III)
 - IV. [Versionnement](#IV)
@@ -33,8 +33,8 @@ Sommaire
 
 <a name="I.1"></a>
 #### 1. Post
-Document collaboratif qui propose une approche de réponse possible.
-- Problème : comment correctement circoncir le périmètre de la réponse ?
+Document collaboratif qui propose une approche de réponse possible.  
+**Problème** : comment correctement circoncir le périmètre de la réponse ?
 
 <a name="I.2"></a>
 #### 2. Commentaire
@@ -69,18 +69,18 @@ Ex :
 Chemin de l'arbre sémantique exprimé sous forme de hashtag, chaque feuille est séparée de son noeud par un `:`
 
 Ex :
-> #Propulsion:Fusées:Explosion
+> `#Propulsion:Fusées:Explosion`
 
 <a name="I.6"></a>
 #### 6. Filtre sémantique
 Expression textuelle permettant de filtrer les posts suivant les noeuds sélectionnés
 Ex :
-> #Propulsion:Fusées
+> `#Propulsion:Fusées`
 
 Affiche tous les posts référés dans le chemin `Propulsion:Fusées`.  
 
 **Remarque** :  
-> #Fusées
+> `#Fusées`
 
 Va aggréger (fusionner) tous les noeuds appellés `Fusées`
 
