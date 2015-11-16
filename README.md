@@ -285,3 +285,4 @@ Des développeur qui ont signalé leur souhait de s'investir (merci de vous rajo
 - [François Samin](https://github.com/fsamin/)
 - [Maxime Pacary](https://github.com/Frosty-Z)
 - [Thibaud Chominot](https://github.com/Phacocherman/)
+- [Sylvain Berthaud](https://github.com/akrib/)
