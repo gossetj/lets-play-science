@@ -74,8 +74,11 @@ IV. [On est des fous et on code le truc open source!](#IV)
 ## II. Créer/Trouver une plateforme qui offrirait...
 
 **Un nombre très majoritaire de contributeurs s'accordent sur la nécessité de déplacer la discussion sur une plateforme 'augmentée' qui améliorerait de façon drastique la circulation des idées et favoriserait l'évaluation des propositions peu exposées**
+
+**[Voter pour les fonctionnalités les plus prioritaires](http://www.tricider.com/brainstorming/34O75F4FgG7)** [(lien admin)](https://www.tricider.com/admin/34O75F4FgG7/CN8kK1IcbOt)
+
 <a name="II.1"></a>
-#### 1. Un choix entre différents types de likes
+#### 1. Un choix entre différents types de likes pour les posts
 *proposé par [koukaloukaki](https://www.youtube.com/user/koukaloukaki)*  
 
 L'idée est de faire du filtrage collaboratif en catégorisant subjectivement l'intérêt
@@ -216,6 +219,9 @@ Avec notamment :
 
 <a name="III"></a>
 ## III. Candidats possibles et sources d'inspiration
+
+**[Voter pour les outils les plus pertinents](http://www.tricider.com/brainstorming/2kR2A9QuQLR)** [(lien admin)](https://www.tricider.com/admin/2kR2A9QuQLR/6XC6fCOD7p)
+
 <a name="III.1">
 #### 1. [Discourse](https://www.discourse.org/)
 *proposé par [kokodroid](https://www.youtube.com/user/kokodroid)*  
