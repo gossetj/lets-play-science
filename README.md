@@ -1,4 +1,4 @@
-lets-play-science, à la recherche de la sagesse des foules
+﻿lets-play-science, à la recherche de la sagesse des foules
 ----------------------------------------------------------
 
 **Un petit repo** pour agréger les suggestions sur l'épisode 3 de **Lets Play Science** !  
@@ -284,3 +284,4 @@ Des développeurs qui ont signalé leur souhait de s'investir (merci de vous raj
 - [François Samin](https://github.com/fsamin/)
 - [Maxime Pacary](https://github.com/Frosty-Z)
 - [Thibaud Chominot](https://github.com/Phacocherman/)
+- [Aelerinya](https://github.com/Aelerinya)
