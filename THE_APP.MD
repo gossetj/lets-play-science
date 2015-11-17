@@ -25,6 +25,7 @@ Sommaire
 - III. [Associations sémantiques](#III)
 - IV. [Versionnement](#IV)
 - V. [Rôles](#V)
+- VI. [Sources de données](#VI)
 ---------------------------------------------------
 
 <a name="I"></a>
@@ -130,3 +131,23 @@ Question soumise pour l'organisateur de l'évênement, ici Léo, et par extensio
 <a name="V"></a>
 ### V. Rôles
 *Déscription détaillée des rôles endossés par les participants*
+
+<a name="VI"></a>
+### VI. Sources de données
+Les sources de données mentionnées sont les sources techniques constituant l'ensemble des entités présentées [ci-dessus](#I).
+Catégorisons de types de données : 
+ - les données primaires :
+  - Post [cf I.1](#I.1)
+  - Commentaire [cf I.2](#I.2)
+ - les données d'associations sémantiques
+  - Tags [cf I.5](#I.5)
+  - Structure d'arbre ou de graphe ([cf I.3](#I.3), [I.4](#I.4))
+  - ...
+
+#### Solution 1 : 
+Créer une source de données spécifique et propre, une nouvelle base de donnée. Cela permettrai la mise en oeuvre de certains cas d'utilisation comme la fusion, les gestions des cycles de vies, la gestion des versions, etc...
+
+#### Solution 2 : 
+Utiliser pour les données primaires les commentaires de Youtube et leurs réponses. Cela limitera certain cas d'utilisation, mais cela permettra de ne pas perturber les utilisateurs de Youtube, qui pourront continuer à faire des propositions, faire leurs réponses comme d'habitude ! Les utilisateurs qui voudrons prendre du recul pourrons alors passer sur la présente application pour gérer ces commentaires, les regrouper, les tagger, etc... Les données d'associations sémantiques seraient, quant à elle, stockées spécifiquement. Ce qui est interessant c'est que cette mécanique serait accessible alors pour toutes les chaines Youtube.
+
+
