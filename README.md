@@ -285,3 +285,4 @@ Des développeurs qui ont signalé leur souhait de s'investir (merci de vous raj
 - [Maxime Pacary](https://github.com/Frosty-Z)
 - [Thibaud Chominot](https://github.com/Phacocherman/)
 - [Aelerinya](https://github.com/Aelerinya)
+- [Sylvain Berthaud](https://github.com/akrib/)
