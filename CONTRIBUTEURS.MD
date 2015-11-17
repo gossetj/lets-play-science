@@ -5,8 +5,5 @@ contributeurs
 | contributeur | Front-end | SGBD | Web-design & graphismes | Frameworks | Langages | Serveur |
 |--------------|-----------|------|-------------------------|------------|----------|----------|
 | [Jules Randolph](https://github.com/sveinburne/) | html, css, scss | Mongodb, postgresql | - | Meteorjs, durandaljs | ECMA5, ECMA6, coffee, java | J2EE, Nodejs |
-<<<<<<< HEAD
 | [Julien Monnet](https://github.com/roxtarmy/) | html, css, svg | mysql | - | - | PHP, C, C++ | PHP, Nodejs |
-=======
-|[Sylvain Berthaud](https://github.com/akrib/)|html|HSQLDB,mysql|photoshop,gimp,blender,aseprite|Phaser.js,libgdx|javascript,java,PHP,vb.net|J2EE|
->>>>>>> f606363e6dcc44fa6db368dbb0d6ab2b809d1fef
+| [Sylvain Berthaud](https://github.com/akrib/) | html | HSQLDB, mysql | photoshop, gimp, blender, aseprite | Phaser.js, libgdx | javascript, java, PHP, vb.net | J2EE |
