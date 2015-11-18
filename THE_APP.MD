@@ -158,11 +158,11 @@ Utiliser pour les données primaires les commentaires de Youtube et leurs répon
 
 On pourrait aussi imaginer une syntaxe pour que l'application "filtre" les messages qui ont un rapport, permettant par exemple une intégration avec les hashs sémantiques!
 
-
 **pros**
 - Pas de changement brutal des habitudes pour les participants
+- Ouverture de la plateforme à toutes les chaines youtube
+- Authentification par youtube ou google+, c'est un parti pris
 
 **cons**
 - Authentification par youtube ou google+, c'est un parti pris
 - Versionnement des posts rendu plus compliqué
-- Dispersion de la discussion sur deux plateformes
