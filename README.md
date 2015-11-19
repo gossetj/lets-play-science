@@ -161,6 +161,9 @@ Si on a ni liké, ni jugé le contenu extraordinaire, ni merdique, on peut le ma
 
 <a name="II.5"></a>
 #### 5. Une interface qui favorise l'évaluation entre pairs
+
+**[Voter pour les différentes options](http://www.tricider.com/brainstorming/3QOMxjuDJBZ)** [(lien admin)](https://www.tricider.com/admin/3QOMxjuDJBZ/3mqN5RRaZa7)
+
 *Inspiré de la proposition de [koukaloukaki](https://www.youtube.com/user/koukaloukaki), proposé par [Jules Randolph](https://www.youtube.com/user/theswanted)*  
 - **a** Proposer à l'utilisateur un mode "évalutation" ou son travail est d'évaluer des posts qu'il n'a pas encore évalué. Grosso modo, ça lui permet de s'y retrouver facilement !  
 Dans ce mode, **seuls les contenus non marqués (comme "vu", "pas con", "spam" ou "drôle") seront visibles**.  
