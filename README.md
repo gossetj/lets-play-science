@@ -109,6 +109,9 @@ Ainsi on peut basculer entre différentes vues suivant notre approche, "érudite
 
 <a name="II.3"></a>
 #### 3. Une association sémantique des posts
+
+**[Voter pour les différentes options](http://www.tricider.com/brainstorming/2wLfQJ6DBuN)** [(lien admin)](https://www.tricider.com/admin/2wLfQJ6DBuN/20cLRM1Jdav)
+
 *proposé par [Gaspard Garry-Gendre](https://www.youtube.com/channel/UCYEMyvlHvpJcYypXJZzF9zA),
  [bebertii](https://www.youtube.com/user/bebertii), [Panda Terroriste](https://www.youtube.com/channel/UCOSyst_PWE8-gwCxQmZBoUw), et d'autres...!*  
 - **a** Par des `#hashtags` : Permet de filtrer rapidement le contenu, et d'avoir un accès facile aux posts relatifs
