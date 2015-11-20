@@ -2,51 +2,152 @@ Les specs collectives de l'application hypo-thétique
 ---------------------------------------------------
 *Avant de concevoir une application, c'est une bonne idée de savoir à quoi elle ressemble, d'analyser quels sont les enjeux techniques de sa réalisation*
 
-**Ce document n'est pas du tout déstiné spécifiquement aux développeurs, bien au contraire. On a tous une expérience utilisateur.**
+- Ce document n'est pas du tout déstiné spécifiquement aux développeurs, bien au contraire. On a tous une expérience utilisateur.
+- Sont répertoriées ici
+  - les **définitions** qui nous permettent de savoir de quoi on parle
+  - les **visions d'ensemble** (VE)
 
 Sommaire
 --------------------------------------------------
 
 - I. [Définitions](#I)
-    1. [Post](#I.1)
-    2. [Commentaire](#I.2)
-    3. [Carte Heuristique / Mind map](#I.3)
-    4. [Arbre sémantique](#I.4)
-    5. [Hash sémantique](#I.5)
-    6. [Filtre sémantique](#I.6)
-    7. [Fusion](#I.7)
-    8. [Soumission](#I.8)
-    9. [Version](#I.9)
-    10. [Post cible](#I.10)
-    11. [Post source](#I.11)
-    12. [Référence](#I.12)
-    13. [Défi](#I.13)
-- II. [Cycle de vie d'un défi](#II)
-- III. [Associations sémantiques](#III)
-- IV. [Versionnement](#IV)
-- V. [Rôles](#V)
-- VI. [Sources de données](#VI)
+    1. [Optique](#I.1)
+      - a [Défi](#I.1.a)
+      - b [Communauté](#I.1.b)
+      - c [Qualité](#I.1.c)
+      - d [Référence](#I.1.d)
+      - e [Cycle de vie](#I.1.e)
+
+    2. [Coordination](#I.2)
+      - a [Post Simple](#I.2.a)
+      - b [Post Versionné](#I.2.b)
+      - c [Commentaire](#I.2.c)  
+
+    3. [Politique](#I.3)
+      - a [Modération Oligarchique](#I.3.a)
+      - b [Modération Méritocratique](#I.3.b)
+      - c [Modération Démocratique](#I.3.c)
+      - d [Réputation](#I.3.d)
+      - e [Élection](#I.3.e)
+      - f [Vote Simple](#I.3.f)
+      - g [Vote Catégorique](#I.3.g)
+      - h [Filtre Catégorique](#I.3.h)
+      - i [Rôle](#I.3.i)
+
+    4. [Sémantique](#I.4)
+      - a [Carte Heuristique / Mind map](#I.4.a)
+      - b [Arbre sémantique](#I.4.b)
+      - c [Hash sémantique](#I.4.c)
+      - d [Filtre sémantique](#I.4.d)
+
+    5. [Versionnement](#I.5)
+      - a [Version](#I.5.a)
+      - b [Fusion](#I.5.b)
+      - c [Soumission](#I.5.c)
+      - d [Post Cible](#I.5.d)
+      - e [Post Source](#I.5.e)
+
+    6. [Sources de données](#I.6)
+      - a [Application Souveraine](#I.6.a)
+      - b [Application Intégrée](#I.6.b)
+
+
+- II. [Visions d'ensemble (VE)](#II)
+  1. [Critères de soumission d'une VE](#II.1)
+  2. [Référencement des VE](#II.2)
 
 <a name="I"></a>
-## I. Définitions & Concepts
-*On va p'tet commencer par s'accorder sur le sens des mots nan?*
+## I. Définitions
+Ce corpus de définitions est là pour faciliter la communication autour du projet et se prémunir contre les discussions à périmètre flou et autres dialogues de sours.  
+**Ce n'est pas un dictionnaire participant d'une solution cohérante, contrairement aux [Visions d'ensemble](#II).**
 
 <a name="I.1"></a>
-#### 1. Post
-Document collaboratif qui propose une approche de réponse possible.  
-**Problème** : comment correctement circoncir le périmètre de la réponse ?
+#### 1. Optique
+*L'optique c'est l'analyse des buts de la collaboration, "dans quelle direction regardons-nous"*
+<a name="I.1.a"></a>
+##### a. Défi
+Question soumise pour l'organisateur de l'évênement, ici Léo, et par extension, tous le processus d'élaboration de réponses par les participants.
+
+<a name="I.1.b"></a>
+##### b. Communauté
+Ensemble des participants à un défi.
+
+<a name="I.1.c"></a>
+##### c. Qualité
+La qualité, c'est dans le contexte d'un défi, notre capacité à
+- **Structurer** la réponse offerte par la communauté
+- Eviter autant que possible **l'éccueil du nombrilisme**, qui consiste à ne pas regarder les interventions des autres participants (parfois pour plein de raisons légitimes)
+- **Sourcer** un maximum les faits et théories que nous avançons avec des *références*.
+
+##### d. Référence
+<a name="I.1.d"></a>
+C'est une source littéraire ou culturelle, logiquement associée à un post.
+<a name="I.1.e"></a>
+##### e. Cycle de vie
+C'est l'ensemble des étapes aboutissant à la réponse de la *communauté* au *défi* posé par Léo. Cette définition est au coeur des différentes approches possible, les [visions d'ensemble](#II)
 
 <a name="I.2"></a>
-#### 2. Commentaire
+#### 2. Coordination
+*La coordination en vue d'atteindre les objectifs de la collaboration*
+<a name="I.2.a"></a>
+##### a. Post Simple
+Texte structurée qui répond au *défi*, éditable par son auteur seulement.
+<a name="I.2.b"></a>
+##### b. Post Versionné
+Document collaboratif qui offre une réponse possible au *défi*. Se référer à [versionnement](#V) pour plus de détails.
+**Problème** : comment correctement circoncir le périmètre de la réponse ?
+
+<a name="I.2.c"></a>
+##### c. Commentaire
 Observation, critique, avis fait sur un post. Ce n'est pas un document collaboratif.
 
+
 <a name="I.3"></a>
-#### 3. Carte Heuristique / Mind map
-Vue en 2D sous forme de diagramme de graphe ordonné des liens sémantiques *entre posts*
+#### 3. Politique
+*La politique, c'est le filtrage des contenus produits par la communauté pour qu'ils s'alignent avec certains impératifs comme le respect de la loi ou l'exigence de qualité tout en garantissant une libre expression de ses membres.*  
+**Remarque** : les définitions qui suivent ne s'excluent pas les unes des autres.
+
+<a name="I.3.a"></a>
+##### a. Modération Oligarchique
+Le choix des modérateurs se fait par l'ultime souverain : Léo.
+<a name="I.3.b"></a>
+##### b. Modération Méritocratique
+Le choix des modérateurs se fait par *réputation*.
+<a name="I.3.c"></a>
+##### c. Modération Démocratique
+Le choix des modérateurs se fait par *élection*.  
+<a name="I.2.d"></a>
+##### d. Réputation
+La réputation, c'est une métrique (un score) qui est d'autant plus grand que le membre est apprécié de la communauté, ce sont les *votes* qui affectent cette métrique.
+<a name="I.2.e"></a>
+##### e. Élection
+Une élection est l'attribution d'un rôle (ex modérateur) par le résultat d'un vote de la communauté, pour une durée finie (mandat).
+<a name="I.2.f"></a>
+##### f. Vote Simple
+Un vote simple est exactement comme lorsqu'on donne un pouce sur facebook ou youtube.
+<a name="I.2.g"></a>
+##### g. Vote Catégorique
+Un vote catégorique est comme un vote simple à la différence prês que le votant a plusieurs choix. Il donne l'avantage de pouvoir créer des *filtres catégoriques* et d'avoir un système de réputation plus fin.  
+> Ex : Pas bête, Drôle, Impertinent, Spam, Troll ...
+
+<a name="I.2.h"></a>
+##### h. Filtre Catégorique
+Un filtre catégorique permet à l'utilisateur de l'application de ne sélectionner que les posts "Pas bêtes", "Drôle", "Impertinent"... etc
+<a name="I.2.i"></a>
+##### i. Rôle
+Un *Rôle* est une mission assumée par un membre le temps d'un *défi*.
+> Ex : Aggrégateur de [*références*](#I.1.d)
 
 <a name="I.4"></a>
-#### 4. Arbre sémantique
-*[README.md#II.3.b](README.md#II.3.b)*  
+#### 4. Sémantique
+*La sémantique, c'est l'étude du sens. Dans le contexte d'une application web, l'exemple le plus parlant est l'utilisation de hash tags `#` dans twitter pour regrouper un ensemble de publications qui partagent un même thème lexical.*
+<a name="I.4.a"></a>
+##### a. Carte Heuristique / Mind map
+Vue en 2D sous forme de diagramme de graphe ordonné des liens sémantiques *entre posts*
+
+<a name="I.4.b"></a>
+##### b. Arbre sémantique
+*[README.md#II.3.b](README.md#II.3)*  
 Vue sous forme d'arbre des liens sémantiques *entre posts*  
 **Remarque** : Une feuille peut être dupliquée sur différents noeuds !
 Ex :
@@ -63,16 +164,16 @@ Ex :
 │   └── …  
 └── …
 
-<a name="I.5"></a>
-#### 5. Hash sémantique
-*[README.md#II.3.c](README.md#II.3.c)*  
+<a name="I.4.c"></a>
+##### c. Hash sémantique
+*[README.md#II.3.c](README.md#II.3)*  
 Chemin de l'arbre sémantique exprimé sous forme de hashtag, chaque feuille est séparée de son noeud par un `:`
 
 Ex :
 > `#Propulsion:Fusées:Explosion`
 
-<a name="I.6"></a>
-#### 6. Filtre sémantique
+<a name="I.4.d"></a>
+##### d. Filtre sémantique
 Expression textuelle permettant de filtrer les posts suivant les noeuds sélectionnés
 Ex :
 > `#Propulsion:Fusées`
@@ -84,66 +185,48 @@ Affiche tous les posts référés dans le chemin `Propulsion:Fusées`.
 
 Va aggréger (fusionner) tous les noeuds appellés `Fusées`
 
-<a name="I.7"></a>
-#### 7. Fusion
-Action de fusionner deux posts sémantiquement proches.
-- Questions : qui propose la fusion ? Un utilisateur peut-il suggérer la fusion de deux posts qu'il trouve proches? P'tet une option "proposer une fusion", cette dernière devant être validée par les deux auteurs...
+<a name="I.5"></a>
+#### 5. Versionnement
+*Le [versionnement](https://fr.wikipedia.org/wiki/Gestion_de_versions), c'est une démarche pour organiser l'élaboration continue d'un texte avec un certain contrôle de la qualité produite afin de tendre progressivement vers un texte optimal. L'exemple le plus connu est **wikipedia***
 
-<a name="I.8"></a>
-#### 8. Soumission
-*Non, pas le machin de Houellebecq*
+
+<a name="I.5.a"></a>
+#### a. Version
+Une version figée d'un [*post versionné*](#I.2.b), qu'on peut rétablir plus tard.
+**Remarque** : Une *fusion* créée automatiquement une nouvelle version du *post cible*.
+
+<a name="I.5.b"></a>
+##### b. Fusion
+Action de fusionner deux posts sémantiquement proches.  
+*Questions* : qui propose la fusion ? Un utilisateur peut-il suggérer la fusion de deux posts qu'il trouve proches? P'tet une option "proposer une fusion", cette dernière devant être validée par les deux auteurs...
+
+<a name="I.5.c"></a>
+#### c. Soumission
+*Non, pas le machin de Houellebecq*  
 Action de soumettre à l'auteur d'un post une nouvelle **version** du document.
 
-<a name="I.9"></a>
-#### 9. Version
-Une version figée d'un post, qu'on peut rétablir plus tard.
-**Remarque** : Une fusion créée automatiquement une nouvelle version du **post cible**.
-
-<a name="I.10"></a>
-#### 10. Post cible
+<a name="I.5.d"></a>
+#### d. Post Cible
 C'est la destination (reçu par l'hôte) de la fusion
 
-<a name="I.11"></a>
-#### 11. Post source
+<a name="I.5.e"></a>
+#### e. Post Source
 C'est l'origine (proposé par l'offreur) de la fusion
 
-<a name="I.12"></a>
-#### 12. Référence
-Référence (source littéraire, culturelle) associée à un post.
-
-<a name="I.13"></a>
-#### 13. Défi
-Question soumise pour l'organisateur de l'évênement, ici Léo, et par extension, tous le processus d'élaboration de réponses par les participants.
-
-<a name="II"></a>
-### II. Cycle de vie d'un défi
-*Description détaillée du cycle de vie d'un [défi](#I.13)*
-
-<a name="III"></a>
-### III. Associations sémantiques
-*Aspects techniques des associations sémantiques*
-
-<a name="IV"></a>
-### IV. Versionnement
-*Aspects techniques sur le versionnement des posts*
-
-<a name="V"></a>
-### V. Rôles
-*Déscription détaillée des rôles endossés par les participants*
-
-<a name="VI"></a>
-### VI. Sources de données
-Les sources de données mentionnées sont les sources techniques constituant l'ensemble des entités présentées [ci-dessus](#I).
+<a name="I.6"></a>
+#### 6. Sources de données
+*Les sources de données mentionnées sont les sources techniques constituant l'ensemble des entités présentées [ci-dessus](#I).
 Catégorisons de types de données :
  - les données primaires :
-  - Post [cf I.1](#I.1)
-  - Commentaire [cf I.2](#I.2)
+  - Post Simple [cf I.2.a](#I.2.a)
+  - Commentaire [cf I.2.c](#I.2.c)
  - les données d'associations sémantiques
-  - Tags [cf I.5](#I.5)
-  - Structure d'arbre ou de graphe ([cf I.3](#I.3), [I.4](#I.4))
-  - ...
+  - Tags [cf I.4.c](#I.4.c)
+  - Structure d'arbre ou de graphe ([cf I.4.a](#I.4.a), [I.4](#I.4.b))
+  - ...*
 
-#### Solution 1 :
+<a name="I.6.a"></a>
+##### a. Application Souveraine
 Créer une source de données spécifique et propre, une nouvelle base de donnée. Cela permettrai la mise en oeuvre de certains cas d'utilisation comme la fusion, les gestions des cycles de vies, la gestion des versions, etc...
 
 **pros**
@@ -153,7 +236,8 @@ Créer une source de données spécifique et propre, une nouvelle base de donné
 **cons**
 - Séparé de youtube, effort pour le participant
 
-#### Solution 2 :
+<a name="I.6.b"></a>
+#### b. Application Intégrée
 Utiliser pour les données primaires les commentaires de Youtube et leurs réponses. Cela limitera certain cas d'utilisation, mais cela permettra de ne pas perturber les utilisateurs de Youtube, qui pourront continuer à faire des propositions, faire leurs réponses comme d'habitude ! Les utilisateurs qui voudrons prendre du recul pourrons alors passer sur la présente application pour gérer ces commentaires, les regrouper, les tagger, etc... Les données d'associations sémantiques seraient, quant à elle, stockées spécifiquement. Ce qui est interessant c'est que cette mécanique serait accessible alors pour toutes les chaines Youtube.
 
 On pourrait aussi imaginer une syntaxe pour que l'application "filtre" les messages qui ont un rapport, permettant par exemple une intégration avec les hashs sémantiques!
@@ -166,3 +250,33 @@ On pourrait aussi imaginer une syntaxe pour que l'application "filtre" les messa
 **cons**
 - Authentification par youtube ou google+, c'est un parti pris
 - Versionnement des posts rendu plus compliqué
+
+<a name="II"></a>
+## II. Visions d'ensemble (VE)
+*Une vision d'ensemble, **VE**, est un ensemble de propositions qui offre une solution applicative cohérante.*
+<a name="II.1"></a>
+#### 1. Critères de soumission d'une VE
+Une **vision d'ensemble** se présente sous la forme d'un fichier markdown situé dans le répertoire **VE** depuis la racine du projet. Voici **les critères** pour qu'une pull request de VE soit acceptée :
+- elle doit être sensiblement différente d'une VE existante
+- elle doit s'appuyez rigoureusement sur le vocabulaire définit en [**I**](#I)
+- elle doit être rédigée avec **concision** et esprit de **synthèse**
+- elle doit offrir une **perspective** à minima sur les points suivants :
+  1. Application Souveraine vs Application intégrée ?
+  2. Posts Versionnés vs posts simples
+  3. Type de modération
+  4. Choix technologique sur la sémantique
+  5. Vote simple vs vote catégorique
+  6. Politique de rôles ?
+- elle doit expliciter un cycle de vie d'un défi
+- elle doit proposer une priorisation de ses fonctionnalité
+- elle doit offrir un titre qui explicite le parti pris de cette vision
+- le nom du fichier markdown doit être `VE-nomAuteur.MD`, elle sera renommée lors du merge.
+
+Remarques importantes :
+- Une solution ne s'oppose pas nécessairement à sa concurrente, elle peut être offerte provisoirement en attendant le développement de fonctionnalités plus avancées, cf priorités.
+- Si des **définitions** manquent ou des nuances sont nécessaires à apporter, merci de **soumettre une issue** ou une **pull request** en exprimant clairement votre besoin.
+- Une fois acceptée, l'auteur de la **pull request** doit créer une issue portant le titre de la PR. Ce sera le fil de discussion officiel autour de cette VE. Des critiques et des propositions d'amandemants pourront être soumises.
+
+<a name="II.2"></a>
+#### 2. Référencement des VE
+*Voici la liste des VE et de leur issue associée sur le forum*
