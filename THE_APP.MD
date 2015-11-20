@@ -2,7 +2,7 @@ Les specs collectives de l'application hypo-thétique
 ---------------------------------------------------
 *Avant de concevoir une application, c'est une bonne idée de savoir à quoi elle ressemble, d'analyser quels sont les enjeux techniques de sa réalisation*
 
-- Ce document n'est pas du tout déstiné spécifiquement aux développeurs, bien au contraire. On a tous une expérience utilisateur.
+- Ce document n'est pas du tout destiné spécifiquement aux développeurs, bien au contraire. On a tous une expérience utilisateur.
 - Sont répertoriées ici
   - les **définitions** qui nous permettent de savoir de quoi on parle
   - les **visions d'ensemble** (VE)
@@ -58,15 +58,15 @@ Sommaire
 
 <a name="I"></a>
 ## I. Définitions
-Ce corpus de définitions est là pour faciliter la communication autour du projet et se prémunir contre les discussions à périmètre flou et autres dialogues de sours.  
-**Ce n'est pas un dictionnaire participant d'une solution cohérante, contrairement aux [Visions d'ensemble](#II).**
+Ce corpus de définitions est là pour faciliter la communication autour du projet et se prémunir contre les discussions à périmètre flou et autres dialogues de sourds.  
+**Ce n'est pas un dictionnaire participant d'une solution cohérente, contrairement aux [Visions d'ensemble](#II).**
 
 <a name="I.1"></a>
 #### 1. Optique
 *L'optique c'est l'analyse des buts de la collaboration, "dans quelle direction regardons-nous"*
 <a name="I.1.a"></a>
 ##### a. Défi
-Question soumise pour l'organisateur de l'évênement, ici Léo, et par extension, tous le processus d'élaboration de réponses par les participants.
+Question soumise pour l'organisateur de l'événement, ici Léo, et par extension, tous le processus d'élaboration de réponses par les participants.
 
 <a name="I.1.b"></a>
 ##### b. Communauté
@@ -76,7 +76,7 @@ Ensemble des participants à un défi.
 ##### c. Qualité
 La qualité, c'est dans le contexte d'un défi, notre capacité à
 - **Structurer** la réponse offerte par la communauté
-- Eviter autant que possible **l'éccueil du nombrilisme**, qui consiste à ne pas regarder les interventions des autres participants (parfois pour plein de raisons légitimes)
+- Eviter autant que possible **l'écueil du nombrilisme**, qui consiste à ne pas regarder les interventions des autres participants (parfois pour plein de raisons légitimes)
 - **Sourcer** un maximum les faits et théories que nous avançons avec des *références*.
 
 ##### d. Référence
@@ -84,18 +84,18 @@ La qualité, c'est dans le contexte d'un défi, notre capacité à
 C'est une source littéraire ou culturelle, logiquement associée à un post.
 <a name="I.1.e"></a>
 ##### e. Cycle de vie
-C'est l'ensemble des étapes aboutissant à la réponse de la *communauté* au *défi* posé par Léo. Cette définition est au coeur des différentes approches possible, les [visions d'ensemble](#II)
+C'est l'ensemble des étapes aboutissant à la réponse de la *communauté* au *défi* posé par Léo. Cette définition est au coeur des différentes approches possibles, les [visions d'ensemble](#II)
 
 <a name="I.2"></a>
 #### 2. Coordination
 *La coordination en vue d'atteindre les objectifs de la collaboration*
 <a name="I.2.a"></a>
 ##### a. Post Simple
-Texte structurée qui répond au *défi*, éditable par son auteur seulement.
+Texte structuré qui répond au *défi*, éditable par son auteur seulement.
 <a name="I.2.b"></a>
 ##### b. Post Versionné
 Document collaboratif qui offre une réponse possible au *défi*. Se référer à [versionnement](#V) pour plus de détails.
-**Problème** : comment correctement circoncir le périmètre de la réponse ?
+**Problème** : comment correctement circonscrire le périmètre de la réponse ?
 
 <a name="I.2.c"></a>
 ##### c. Commentaire
@@ -127,7 +127,7 @@ Une élection est l'attribution d'un rôle (ex modérateur) par le résultat d'u
 Un vote simple est exactement comme lorsqu'on donne un pouce sur facebook ou youtube.
 <a name="I.2.g"></a>
 ##### g. Vote Catégorique
-Un vote catégorique est comme un vote simple à la différence prês que le votant a plusieurs choix. Il donne l'avantage de pouvoir créer des *filtres catégoriques* et d'avoir un système de réputation plus fin.  
+Un vote catégorique est comme un vote simple à la différence près que le votant a plusieurs choix. Il donne l'avantage de pouvoir créer des *filtres catégoriques* et d'avoir un système de réputation plus fin.  
 > Ex : Pas bête, Drôle, Impertinent, Spam, Troll ...
 
 <a name="I.2.h"></a>
@@ -183,7 +183,7 @@ Affiche tous les posts référés dans le chemin `Propulsion:Fusées`.
 **Remarque** :  
 > `#Fusées`
 
-Va aggréger (fusionner) tous les noeuds appellés `Fusées`
+Va agréger (fusionner) tous les noeuds appellés `Fusées`
 
 <a name="I.5"></a>
 #### 5. Versionnement
@@ -215,7 +215,8 @@ C'est l'origine (proposé par l'offreur) de la fusion
 
 <a name="I.6"></a>
 #### 6. Sources de données
-*Les sources de données mentionnées sont les sources techniques constituant l'ensemble des entités présentées [ci-dessus](#I).
+*Les sources de données mentionnées sont les sources techniques constituant l'ensemble des entités présentées [ci-dessus](#I).*
+
 Catégorisons de types de données :
  - les données primaires :
   - Post Simple [cf I.2.a](#I.2.a)
@@ -230,11 +231,11 @@ Catégorisons de types de données :
 Créer une source de données spécifique et propre, une nouvelle base de donnée. Cela permettrai la mise en oeuvre de certains cas d'utilisation comme la fusion, les gestions des cycles de vies, la gestion des versions, etc...
 
 **pros**
-- Permet l'édition colaborative, versionnement et fusion
+- Permet l'édition collaborative, versionnement et fusion
 - Donne globalement plus de marge de manoeuvre à la gestion des contenus par l'application
 
 **cons**
-- Séparé de youtube, effort pour le participant
+- Séparé de Youtube, effort pour le participant
 
 <a name="I.6.b"></a>
 #### b. Application Intégrée
@@ -244,16 +245,16 @@ On pourrait aussi imaginer une syntaxe pour que l'application "filtre" les messa
 
 **pros**
 - Pas de changement brutal des habitudes pour les participants
-- Ouverture de la plateforme à toutes les chaines youtube
-- Authentification par youtube ou google+, c'est un parti pris
+- Ouverture de la plateforme à toutes les chaines Youtube
+- Authentification par Youtube ou Google+, c'est un parti pris
 
 **cons**
-- Authentification par youtube ou google+, c'est un parti pris
+- Authentification par Youtube ou Google+, c'est un parti pris
 - Versionnement des posts rendu plus compliqué
 
 <a name="II"></a>
 ## II. Visions d'ensemble (VE)
-*Une vision d'ensemble, **VE**, est un ensemble de propositions qui offre une solution applicative cohérante.*
+*Une vision d'ensemble, **VE**, est un ensemble de propositions qui offre une solution applicative cohérente.*
 <a name="II.1"></a>
 #### 1. Critères de soumission d'une VE
 Une **vision d'ensemble** se présente sous la forme d'un fichier markdown situé dans le répertoire **VE** depuis la racine du projet. Voici **les critères** pour qu'une pull request de VE soit acceptée :
@@ -268,14 +269,14 @@ Une **vision d'ensemble** se présente sous la forme d'un fichier markdown situ�
   5. Vote simple vs vote catégorique
   6. Politique de rôles ?
 - elle doit expliciter un cycle de vie d'un défi
-- elle doit proposer une priorisation de ses fonctionnalité
+- elle doit proposer une priorisation de ses fonctionnalités
 - elle doit offrir un titre qui explicite le parti pris de cette vision
 - le nom du fichier markdown doit être `VE-nomAuteur.MD`, elle sera renommée lors du merge.
 
 Remarques importantes :
-- Une solution ne s'oppose pas nécessairement à sa concurrente, elle peut être offerte provisoirement en attendant le développement de fonctionnalités plus avancées, cf priorités.
+- Une solution ne s'oppose pas nécessairement à sa concurrente, elle peut être offerte provisoirement en attendant le développement de fonctionnalités plus avancées, cf. priorités.
 - Si des **définitions** manquent ou des nuances sont nécessaires à apporter, merci de **soumettre une issue** ou une **pull request** en exprimant clairement votre besoin.
-- Une fois acceptée, l'auteur de la **pull request** doit créer une issue portant le titre de la PR. Ce sera le fil de discussion officiel autour de cette VE. Des critiques et des propositions d'amandemants pourront être soumises.
+- Une fois acceptée, l'auteur de la **pull request** doit créer une issue portant le titre de la PR. Ce sera le fil de discussion officiel autour de cette VE. Des critiques et des propositions d'amendements pourront être soumises.
 
 <a name="II.2"></a>
 #### 2. Référencement des VE
