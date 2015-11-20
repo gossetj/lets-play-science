@@ -116,24 +116,24 @@ Le choix des modérateurs se fait par *réputation*.
 <a name="I.3.c"></a>
 ##### c. Modération Démocratique
 Le choix des modérateurs se fait par *élection*.  
-<a name="I.2.d"></a>
+<a name="I.3.d"></a>
 ##### d. Réputation
 La réputation, c'est une métrique (un score) qui est d'autant plus grand que le membre est apprécié de la communauté, ce sont les *votes* qui affectent cette métrique.
-<a name="I.2.e"></a>
+<a name="I.3.e"></a>
 ##### e. Élection
 Une élection est l'attribution d'un rôle (ex modérateur) par le résultat d'un vote de la communauté, pour une durée finie (mandat).
-<a name="I.2.f"></a>
+<a name="I.3.f"></a>
 ##### f. Vote Simple
 Un vote simple est exactement comme lorsqu'on donne un pouce sur facebook ou youtube.
-<a name="I.2.g"></a>
+<a name="I.3.g"></a>
 ##### g. Vote Catégorique
 Un vote catégorique est comme un vote simple à la différence près que le votant a plusieurs choix. Il donne l'avantage de pouvoir créer des *filtres catégoriques* et d'avoir un système de réputation plus fin.  
 > Ex : Pas bête, Drôle, Impertinent, Spam, Troll ...
 
-<a name="I.2.h"></a>
+<a name="I.3.h"></a>
 ##### h. Filtre Catégorique
 Un filtre catégorique permet à l'utilisateur de l'application de ne sélectionner que les posts "Pas bêtes", "Drôle", "Impertinent"... etc
-<a name="I.2.i"></a>
+<a name="I.3.i"></a>
 ##### i. Rôle
 Un *Rôle* est une mission assumée par un membre le temps d'un *défi*.
 > Ex : Aggrégateur de [*références*](#I.1.d)
