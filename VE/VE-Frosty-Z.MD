@@ -25,7 +25,7 @@ Fonctionnalités qui seraient disponibles en plus du **cas 1** : *à détailler*
 Coût certainement sensiblement plus élevé que le **cas 1**.
 
 <a name="II"></a>
-Espace Q&A + écriture collaborative
+II. Espace Q&A + écriture collaborative
 -
 
 Inspiré de StackOverflow, Yahoo Q&A, Tricider... ou [autre](http://web.appstorm.net/roundups/18-awesome-survey-poll-apps/), ou "fait maison" si on ne trouve rien qui correspond aux fonctionnalités que l'on souhaite en gratuit.
@@ -39,6 +39,9 @@ Fonctionnalités *à détailler*
 * Structuration sémantique (tags, sous-questions...)
 
 
+
+
+***
 
 
 **Rappel des guidelines restant à suivre**
