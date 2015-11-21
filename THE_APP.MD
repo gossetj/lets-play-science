@@ -187,7 +187,7 @@ Va agréger (fusionner) tous les noeuds appellés `Fusées`
 
 <a name="I.5"></a>
 #### 5. Versionnement
-*Le [versionnement](https://fr.wikipedia.org/wiki/Gestion_de_versions), c'est une démarche pour organiser l'élaboration continue d'un texte avec un certain contrôle de la qualité produite afin de tendre progressivement vers un texte optimal. L'exemple le plus connu est **wikipedia***
+*Le [versionnement](https://fr.wikipedia.org/wiki/Gestion_de_versions), c'est une démarche pour organiser l'élaboration continue d'un texte avec un certain contrôle de la qualité produite afin de tendre progressivement vers un texte optimal. L'exemple le plus connu est wikipedia*
 
 
 <a name="I.5.a"></a>
@@ -254,7 +254,7 @@ On pourrait aussi imaginer une syntaxe pour que l'application "filtre" les messa
 
 <a name="II"></a>
 ## II. Visions d'ensemble (VE)
-*Une vision d'ensemble, **VE**, est un ensemble de propositions qui offre une solution applicative cohérente.*
+*Une vision d'ensemble, VE, est un ensemble de propositions qui offre une solution applicative cohérente.*
 <a name="II.1"></a>
 #### 1. Critères de soumission d'une VE
 Une **vision d'ensemble** se présente sous la forme d'un fichier markdown situé dans le répertoire **VE** depuis la racine du projet. Voici **les critères** pour qu'une pull request de VE soit acceptée :
