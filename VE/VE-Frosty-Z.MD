@@ -19,12 +19,14 @@ I. Espace de discussion (fil de commentaires, forum...)
 
 Implique que Léo doit bloquer les commentaires Youtube, et indiquer sur Youtube et Facebook un lien vers la plateforme de collaboration pour Let's Play Science (par ex. page d'accueil du défi en cours).
 
-**Fonctionnalités** qui seraient disponibles en plus du **cas 1**, correspondant autant que possible au [**II.1** du `Readme`](https://github.com/sveinburne/lets-play-science/blob/master/README.md#II), et *à prioriser* :
+**Fonctionnalités** qui seraient disponibles en plus du cas de l'[application intégrée](#I.1), correspondant autant que possible au [**II.1** du `Readme`](https://github.com/sveinburne/lets-play-science/blob/master/README.md#II), et *à prioriser* :
 * Votes par catégorie sur chaque post
 * Hashtags (avec éventuellement gestion de namespaces : Hashtags sémantiques)
 * etc.
 
-Coût certainement sensiblement plus élevé que le **cas 1**.
+Excepté la notion de [posts versionnés](https://github.com/sveinburne/lets-play-science/blob/master/THE_APP.MD#b-post-versionné) car déjà présente dans [l'espace Q&A](#II). Les posts seraient tout de même éditables par l'auteur + les modos, mais sans gestion d'historique de versions.
+
+Coût certainement sensiblement plus élevé que le cas de l'[application intégrée](#I.1).
 
 <a name="II"></a>
 II. Espace Q&A + écriture collaborative
