@@ -234,6 +234,8 @@ Avec notamment :
 <a name="II.2"></a>
 #### **2** Un espace Q&A
 
+*proposé par [Frosty-Z](https://github.com/Frosty-Z)*
+
 Inspiré de StackOverflow, Yahoo Q&A, Tricider... Où au moins la question principale (défi) serait posée.
 
 Dès qu'il l'estime nécessaire, tout utilisateur pourrait créer une ou plusieurs sous-questions ("sous-défis"), permettant d'affiner les "propositions principales" (par ex. *"Quel est le meilleur système de propulsion pour une fusée ?"*).
@@ -244,6 +246,8 @@ Dès qu'il l'estime nécessaire, tout utilisateur pourrait créer une ou plusieu
 Etherpad, Wiki, Github, "fait maison"...
 
 Permet d'effectuer une synthèse et rassembler des références de manière collaborative sur chaque proposition offrant une réponse (même partielle) au défi.
+
+*proposé par [Frosty-Z](https://github.com/Frosty-Z)*
 
 Dans l'éventualité d'un *espace Q&A*, on peut envisager que chaque proposition (et sous-proposition) soit modifiable de manière collaborative. L'*espace Q&A* et l'*espace d'écriture collaborative* seraient donc confondus.
 
