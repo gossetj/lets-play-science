@@ -1,6 +1,9 @@
 Vision d'Ensemble de [Frosty-Z](https://github.com/Frosty-Z)
 ==
 
+**TODO INTRO A REDIGER**
+
+
 <a name="I"></a>
 I. Espace de discussion (fil de commentaires, forum...)
 -
@@ -39,23 +42,37 @@ II. Espace Q&A + écriture collaborative
 
 Inspiré de StackOverflow, Yahoo Q&A, Tricider... ou [autre](http://web.appstorm.net/roundups/18-awesome-survey-poll-apps/), ou "fait maison" si on ne trouve rien qui correspond aux fonctionnalités que l'on souhaite en gratuit.
 
+### Avantages
+
+* Permet de **structurer les propositions de manière arborescente**, s'apparentant à un **"mind map"** en temps réel (un "mind map" succinct peut également être envisagé en ne retenant que les *titres* des sous-propositions, sous-défis, sous-sous-propositions, etc. et pourrait très bien faire office de page d'accueil)
+
+* **Tous nouveaux élements** (références, arguments, etc.) **sont agrégés au fil des participations** (modification, ou proposition de modification possible par tous, Wiki-like) **et visibles facilement par tous** (vs. revue fastidieuse de posts souvent redondants, hors sujet, d'une file de discussion)
+ * Constitue une expérience d'écriture collaborative
+ * Favorise la revue entre pairs
+
+
 ### Fonctionnalités
 
 #### Questions/Réponses
 * Au départ, seule la question principale (correspondant au défi) serait posée.
 * Chaque participant peut formuler une ou plusieurs propositions
+* Les propositions sont classées par "score" (nb. votes positifs + nb. votes négatifs) décroissant
 * Tout participant, dès qu'il l'estime nécessaire, peut créer une ou plusieurs sous-questions ("sous-défis"), permettant d'affiner les "propositions principales" (par ex. défi *"Peut-on envoyer l'humanité dans l'espace ?"*, une proposition est formulée sur l'idée de fusée, un participant peut créer la question associée : *"Quel est le meilleur système de propulsion pour une fusée ?"*).
 
 #### Votes
 * Chaque participant peut donner un seul vote positif ou négatif pour une réponse (proposition) donnée. Authentification obligatoire pour réduire les risques de votes automatiques.
 
 #### Réputation *(proposition)*
+Valorisant, motivant, reflète le niveau de confiance accordé à un participant par la communauté.
+
+Peut permettre à terme de "débloquer" certaines fonctionnalités avancées (alerter un modo, modifier une définition de hashtag...), par défaut inacessibles.
+
 * +1 par contribution (proposition, création de sous-défi, édition approuvée par un modo...)
 * +3 par vote positif reçu sur sa propre proposition
 * -1 par vote négatif donné ou reçu
 * *[Dev de priorité moindre]* +1 par vote positif reçu sur une proposition à laquelle on a participé (par ex. édition d'au moins 100 caractères, approuvée par un modo)
 
-Peut être combiné à des participations sur la *plateforme de discussion*, notamment en cas de vote par catégorie
+Ce mécanisme de réputation peut être combiné à des participations sur la *plateforme de discussion*, notamment en cas de vote par catégorie
 * +3 pour un vote "intéressant" reçu
 
 #### Modération
@@ -68,7 +85,7 @@ Peut être combiné à des participations sur la *plateforme de discussion*, not
 #### Structuration sémantique (tags, sous-questions...)
 * Chaque (sous-)défi et (sous-)proposition peut être associé à des hashtags.
 * Si possible, ces hashtags et la gestion de leurs définitions seront partagés avec les autres espaces d'échange sur la plateforme (interface de gestion commune).
-* Il devra être possible de rechercher les défis/propositions correspondant à un ou plusieurs hashtags, mots clés, etc. via un moteur de recherche succinct
+* Il devra être possible à tout moment de rechercher les défis/propositions correspondant à un ou plusieurs hashtags, mots clés, etc. via un moteur de recherche
 * En consultant un défi, pouvoir accéder facilement :
  * Aux sous-défis associés à chaque proposition
  * Au "défi parent" s'il existe
