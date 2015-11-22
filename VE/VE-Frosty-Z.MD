@@ -8,6 +8,11 @@ I. Espace de discussion (fil de commentaires, forum...)
 <a name="I.1"></a>
 ### I.1. Cas 1 : Application intégrée (Youtube + Facebook + interface de "suivi")
 
+**Fonctionnalités** disponibles sur la "plateforme externe"
+* Soumettre un commentaire/post
+* Cliquer sur les boutons :+1: / :-1: (selon plateforme)
+* Répondre spécifiquement à un commentaire (=> arborescence de commentaires)
+
 **Fonctionnalités** disponibles sur la *plateforme Let's Play Science* suite à un traitement des commentaires "bruts" :
 * Exploitation de données type metrics (nombre de posts, occurrences de mots...)
 * Possibilité d'une structuration sémantique automatique ?
@@ -26,7 +31,7 @@ Implique que Léo doit bloquer les commentaires Youtube, et indiquer sur Youtube
 
 Excepté la notion de [posts versionnés](https://github.com/sveinburne/lets-play-science/blob/master/THE_APP.MD#b-post-versionné) car déjà présente dans [l'espace Q&A](#II). Les posts seraient tout de même éditables par l'auteur + les modos, mais sans gestion d'historique de versions.
 
-Coût certainement sensiblement plus élevé que le cas de l'[application intégrée](#I.1).
+Coût global certainement sensiblement plus élevé que le cas de l'[application intégrée](#I.1).
 
 <a name="II"></a>
 II. Espace Q&A + écriture collaborative
@@ -39,26 +44,25 @@ Inspiré de StackOverflow, Yahoo Q&A, Tricider... ou [autre](http://web.appstorm
 #### Questions/Réponses
 * Au départ, seule la question principale (correspondant au défi) serait posée.
 * Chaque participant peut formuler une ou plusieurs propositions
-* Tout participant, dès qu'il l'estime nécessaire, peut créer une ou plusieurs sous-questions ("sous-défis"), permettant d'affiner les "propositions principales" (par ex. défi *"Peut-on envoyer l'humanité dans l'espace ?"*, une proposition est formulée sur l'idée de fusée, un participant peut créer la question *"Quel est le meilleur système de propulsion pour une fusée ?"*).
+* Tout participant, dès qu'il l'estime nécessaire, peut créer une ou plusieurs sous-questions ("sous-défis"), permettant d'affiner les "propositions principales" (par ex. défi *"Peut-on envoyer l'humanité dans l'espace ?"*, une proposition est formulée sur l'idée de fusée, un participant peut créer la question associée : *"Quel est le meilleur système de propulsion pour une fusée ?"*).
 
 #### Votes
 * Chaque participant peut donner un seul vote positif ou négatif pour une réponse (proposition) donnée. Authentification obligatoire pour réduire les risques de votes automatiques.
 
 #### Réputation *(proposition)*
 * +1 par contribution (proposition, création de sous-défi, édition approuvée par un modo...)
-* +5 par vote positif reçu
+* +3 par vote positif reçu sur sa propre proposition
 * -1 par vote négatif donné ou reçu
+* *[Dev de priorité moindre]* +1 par vote positif reçu sur une proposition à laquelle on a participé (par ex. édition d'au moins 100 caractères, approuvée par un modo)
 
 Peut être combiné à des participations sur la *plateforme de discussion*, notamment en cas de vote par catégorie
 * +3 pour un vote "intéressant" reçu
 
 #### Modération
 * Possibilité de modifier tout (sous-)défi, et (sous-)proposition, avec versionnage
-* Dans un premier temps, Léo + les développeurs de la plateforme seraient modos.
-* Ensuite si nécessaire des fonctionnalités permettant l'élection des modérateurs (durée de mandat à définir), pourraient être envisagées.
 
 #### Possibilité d'éditer les questions et réponses de manière collaborative (= [posts versionnés](https://github.com/sveinburne/lets-play-science/blob/master/THE_APP.MD#b-post-versionné))
-* L'auteur de la question/proposition, un modo, ou un participant authentifié (avec validation par modo), peut modifier son contenu (titre, description, hashtags...), avec versionnage.
+* L'auteur de la question/proposition, un modo, ou un participant authentifié (avec validation par modo), peut modifier son contenu (titre, description, hashtags...), avec versionnage, permettant ainsi une *rédaction collaborative* des (sous-)propositions.
 * Modifications concurrentes : dans un premier temps, je propose un simple "c'est le dernier commit qui gagne" étant donné qu'on aurait le versionnage d'entrée de jeu. A voir dans le temps et selon le succès de la plateforme, pour une gestion plus poussée.
 
 #### Structuration sémantique (tags, sous-questions...)
@@ -74,6 +78,18 @@ Peut être combiné à des participations sur la *plateforme de discussion*, not
 * Support authentification via Google+ / Facebook souhaitable, plus simple pour de nombreux utilisateurs.
 
 
+<a name="III"></a>
+III. Modération
+-
+
+Considérations d'ordre général :
+
+* Dans un premier temps, Léo + les développeurs de la plateforme seraient modos, tous espaces confondus.
+* Ensuite si nécessaire des fonctionnalités permettant l'élection des modérateurs (durée de mandat à définir), pourraient être envisagées.
+
+
+
+
 ***
 
 
@@ -83,12 +99,12 @@ Peut être combiné à des participations sur la *plateforme de discussion*, not
 #### 1. Critères de soumission d'une VE
 Voici **les critères** pour qu'une pull request de VE soit acceptée :
 //- elle doit être sensiblement différente d'une VE existante
-- elle doit s'appuyez rigoureusement sur le vocabulaire définit en [**I**](#I)
-- elle doit être rédigée avec **concision** et esprit de **synthèse**
-- elle doit offrir une **perspective** à minima sur les points suivants :
+//- elle doit s'appuyez rigoureusement sur le vocabulaire définit en [**I**](#I)
+//- elle doit être rédigée avec **concision** et esprit de **synthèse**
+//- elle doit offrir une **perspective** à minima sur les points suivants :
 //  1. Application Souveraine vs Application intégrée ?
-  2. Posts Versionnés vs posts simples
-  3. Type de modération
+//  2. Posts Versionnés vs posts simples
+//  3. Type de modération
   4. Choix technologique sur la sémantique
   5. Vote simple vs vote catégorique
   6. Politique de rôles ?
