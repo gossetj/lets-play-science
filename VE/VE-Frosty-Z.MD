@@ -1,5 +1,7 @@
 Vision d'Ensemble de [Frosty-Z](https://github.com/Frosty-Z)
 ==
+Titre : Mieux exploiter les espaces de discussion existants + proposer un espace Q&A adapté
+-
 
 Principe
 -
@@ -16,12 +18,12 @@ I. Espace de discussion (fil de commentaires, forum...)
 <a name="I.1"></a>
 ### I.1. Application intégrée (Youtube + Facebook + interface de "suivi")
 
-**Fonctionnalités** disponibles sur la "plateforme externe"
+**Fonctionnalités disponibles sur la "plateforme externe"**
 * Soumettre un commentaire/post
 * Cliquer sur les boutons :+1: / :-1: (selon plateforme)
 * Répondre spécifiquement à un commentaire (=> arborescence de commentaires)
 
-**Fonctionnalités** disponibles sur la *plateforme Let's Play Science* suite à un traitement des commentaires "bruts" :
+**Fonctionnalités disponibles sur la *plateforme Let's Play Science* suite à un traitement des commentaires "bruts" :**
 * Exploitation de données type metrics (nombre de posts, occurrences de mots...)
 * Moteur de recherche de commentaires simple
 * Toute autre fonctionnalité simple à mettre en oeuvre (analyseurs syntaxiques existants...) qui peuvent apporter une information générale sur la masse de commentaires bruts sans être trop coûteux.
@@ -49,9 +51,10 @@ II. Espace Q&A + écriture collaborative
 
 Inspiré de StackOverflow, Yahoo Q&A, Tricider... ou [autre](http://web.appstorm.net/roundups/18-awesome-survey-poll-apps/), ou "fait maison" si on ne trouve rien qui correspond aux fonctionnalités que l'on souhaite en gratuit.
 
-### Avantages
+<a name="II.1"></a>
+### II.1. Avantages
 
-* Permet de **structurer les propositions de manière arborescente**, s'apparentant à un **"mind map"** en temps réel (un "mind map" succinct peut également être envisagé en ne retenant que les *titres* des sous-propositions, sous-défis, sous-sous-propositions, etc. et pourrait très bien faire office de page d'accueil)
+* Permet de [**structurer les propositions de manière arborescente**](#II.2.1), s'apparentant à un **"mind map"** en temps réel (un "mind map" succinct peut également être envisagé en ne retenant que les *titres* des sous-propositions, sous-défis, sous-sous-propositions, etc. et pourrait très bien faire office de page d'accueil)
 
 * **Tous nouveaux élements** (références, arguments, etc.) **sont agrégés au fil des participations** (modification, ou proposition de modification possible par tous, Wiki-like) **et visibles facilement par tous** (vs. revue fastidieuse de posts souvent redondants, hors sujet, d'une file de discussion)
  * Constitue une expérience d'écriture collaborative
@@ -61,19 +64,23 @@ Inspiré de StackOverflow, Yahoo Q&A, Tricider... ou [autre](http://web.appstorm
 * **La fin du défi peut intervenir à tout moment**, lorsque les diverses propositions semblent être arrivées à "maturité" (par ex. en suivant un metric sur le nombre de propositions / edits par jour)
 
 
-### Fonctionnalités
+<a name="II.2"></a>
+### II.2. Fonctionnalités
 
-#### Questions/Réponses
+<a name="II.2.1"></a>
+#### II.2.1. Questions/Réponses
 * Au début du cycle de vie, seule la question principale (correspondant au défi) serait posée.
 * Chaque participant peut formuler une ou plusieurs propositions
 * Les propositions sont classées par "score" (nb. votes positifs + nb. votes négatifs) décroissant
 * Tout participant, dès qu'il l'estime nécessaire, peut créer une ou plusieurs sous-questions ("sous-défis"), permettant d'affiner les "propositions principales" (par ex. défi *"Peut-on envoyer l'humanité dans l'espace ?"*, une proposition est formulée sur l'idée de fusée, un participant peut créer la question associée : *"Quel est le meilleur système de propulsion pour une fusée ?"*).
 
-#### Votes
+<a name="II.2.2"></a>
+#### II.2.2. Votes
 * Chaque participant peut donner un seul vote positif ou négatif pour une réponse (proposition) donnée. Authentification obligatoire pour réduire les risques de votes automatiques.
 
-#### Réputation *(proposition)*
-Valorisant, motivant, reflète le niveau de confiance accordé à un participant par la communauté.
+<a name="II.2.3"></a>
+#### II.2.3. Réputation *(proposition)*
+Valorisant, motivant, ludique. Reflète le niveau de confiance accordé à un participant par la communauté.
 
 Peut permettre à terme de "débloquer" certaines fonctionnalités avancées (alerter un modo, modifier une définition de hashtag...), par défaut inacessibles.
 
@@ -85,14 +92,17 @@ Peut permettre à terme de "débloquer" certaines fonctionnalités avancées (al
 Ce mécanisme de réputation peut être combiné à des participations sur la *plateforme de discussion*, notamment en cas de vote par catégorie
 * +3 pour un vote "intéressant" reçu
 
-#### Modération
+<a name="II.2.4"></a>
+#### II.2.4. Modération
 * Possibilité de modifier tout (sous-)défi, et (sous-)proposition, avec versionnage
 
-#### Possibilité d'éditer les questions et réponses de manière collaborative (= [posts versionnés](https://github.com/sveinburne/lets-play-science/blob/master/THE_APP.MD#b-post-versionné))
+<a name="II.2.5"></a>
+#### II.2.5. Possibilité d'éditer les questions et réponses de manière collaborative (= [posts versionnés](https://github.com/sveinburne/lets-play-science/blob/master/THE_APP.MD#b-post-versionné))
 * L'auteur de la question/proposition, un modo, ou un participant authentifié (avec validation par modo), peut modifier son contenu (titre, description, hashtags...), avec versionnage, permettant ainsi une *rédaction collaborative* des (sous-)propositions.
 * Modifications concurrentes : dans un premier temps, je propose un simple "c'est le dernier commit qui gagne" étant donné qu'on aurait le versionnage d'entrée de jeu. A voir dans le temps et selon le succès de la plateforme, pour une gestion plus poussée.
 
-#### Structuration sémantique (tags, sous-questions...)
+<a name="II.2.6"></a>
+#### II.2.6. Structuration sémantique (tags, sous-questions...)
 * Chaque (sous-)défi et (sous-)proposition peut être associé à des hashtags.
 * Si possible, ces hashtags et la gestion de leurs définitions seront partagés avec les autres espaces d'échange sur la plateforme (interface de gestion commune).
 * Il devra être possible à tout moment de rechercher les défis/propositions correspondant à un ou plusieurs hashtags, mots clés, etc. via un moteur de recherche
@@ -100,7 +110,8 @@ Ce mécanisme de réputation peut être combiné à des participations sur la *p
  * Aux sous-défis associés à chaque proposition
  * Au "défi parent" s'il existe
 
-#### Authentification
+<a name="II.2.7"></a>
+#### II.2.7. Authentification
 * Autant que possible, elle doit être partagée avec le reste de la *plateforme Let's Play Science*
 * Support authentification via Google+ / Facebook souhaitable, plus simple pour de nombreux utilisateurs.
 
@@ -137,7 +148,7 @@ Voici **les critères** pour qu'une pull request de VE soit acceptée :
 //  6. Politique de rôles ?
 //- elle doit expliciter un cycle de vie d'un défi
 //- elle doit proposer une priorisation de ses fonctionnalités
-- elle doit offrir un titre qui explicite le parti pris de cette vision
+//- elle doit offrir un titre qui explicite le parti pris de cette vision
 //- le nom du fichier markdown doit être `VE-nomAuteur.MD`, elle sera renommée lors du merge.
 
 Remarques importantes :
