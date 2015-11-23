@@ -51,6 +51,8 @@ II. Espace Q&A + écriture collaborative
 
 Inspiré de StackOverflow, Yahoo Q&A, Tricider... ou [autre](http://web.appstorm.net/roundups/18-awesome-survey-poll-apps/), ou "fait maison" si on ne trouve rien qui correspond aux fonctionnalités que l'on souhaite en gratuit.
 
+Implique que Léo mette en avant l'existence de l'outil, dans la vidéo + dans les liens en dessous.
+
 <a name="II.1"></a>
 ### II.1. Avantages
 
@@ -89,7 +91,7 @@ Peut permettre à terme de "débloquer" certaines fonctionnalités avancées (al
 * -1 par vote négatif donné ou reçu
 * *[Dev de priorité moindre]* +1 par vote positif reçu sur une proposition à laquelle on a participé (par ex. édition d'au moins 100 caractères, approuvée par un modo)
 
-Ce mécanisme de réputation peut être combiné à des participations sur la *plateforme de discussion*, notamment en cas de vote par catégorie
+Ce mécanisme de réputation peut être combiné à des participations sur l'[*espace de discussion*](#1), notamment en cas de vote par catégorie
 * +3 pour un vote "intéressant" reçu
 
 <a name="II.2.4"></a>
