@@ -74,7 +74,7 @@ Implique que Léo mette en avant l'existence de l'outil, dans la vidéo + dans l
 * Au début du cycle de vie, seule la question principale (correspondant au défi) serait posée.
 * Chaque participant peut formuler une ou plusieurs propositions
 * Les propositions sont classées par "score" (nb. votes positifs + nb. votes négatifs) décroissant
-* Tout participant, dès qu'il l'estime nécessaire, peut créer une ou plusieurs sous-questions ("sous-défis"), permettant d'affiner les "propositions principales" (par ex. défi *"Peut-on envoyer l'humanité dans l'espace ?"*, une proposition est formulée sur l'idée de fusée, un participant peut créer la question associée : *"Quel est le meilleur système de propulsion pour une fusée ?"*).
+* Tout participant, dès qu'il l'estime nécessaire, peut créer une ou plusieurs sous-questions ("sous-défis"), permettant d'affiner les "propositions principales" (par ex. défi *"Peut-on envoyer l'humanité dans l'espace ?"*, une proposition est formulée sur l'idée de fusée, un participant peut créer la question associée : *"Quel est le meilleur système de propulsion pour une fusée ?"*), et formant ainsi une arborescence (défi :arrow_right: proposition :arrow_right: sous-défi :arrow_right: etc.)
 
 <a name="II.2.2"></a>
 #### II.2.2. Votes
@@ -96,7 +96,10 @@ Ce mécanisme de réputation peut être combiné à des participations sur l'[*e
 
 <a name="II.2.4"></a>
 #### II.2.4. Modération
-* Possibilité de modifier tout (sous-)défi, et (sous-)proposition, avec versionnage
+Possibilité de :
+* modifier tout (sous-)défi, et (sous-)proposition, avec versionnage
+* supprimer des sous-défis, (sous-)propositions, hashtags...
+* réorganiser l'arborescence de défis/propositions (au minimum : pouvoir changer la "proposition parente" d'un sous-défi)
 
 <a name="II.2.5"></a>
 #### II.2.5. Possibilité d'éditer les questions et réponses de manière collaborative (= [posts versionnés](https://github.com/sveinburne/lets-play-science/blob/master/THE_APP.MD#b-post-versionné))
@@ -110,7 +113,7 @@ Ce mécanisme de réputation peut être combiné à des participations sur l'[*e
 * Il devra être possible à tout moment de rechercher les défis/propositions correspondant à un ou plusieurs hashtags, mots clés, etc. via un moteur de recherche
 * En consultant un défi, pouvoir accéder facilement :
  * Aux sous-défis associés à chaque proposition
- * Au "défi parent" s'il existe
+ * A la "proposition parente" et son défi s'ils existent
 
 <a name="II.2.7"></a>
 #### II.2.7. Authentification
