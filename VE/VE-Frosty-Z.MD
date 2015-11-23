@@ -1,7 +1,12 @@
 Vision d'Ensemble de [Frosty-Z](https://github.com/Frosty-Z)
 ==
 
-**TODO INTRO A REDIGER**
+Principe
+-
+**Dans un premier temps**, exploiter au maximum les données des commentaires Youtube / Facebook tel que décrit dans le [`Readme`](https://github.com/sveinburne/lets-play-science/blob/master/README.md) via une **application intégrée**. En parallèle, mettre en avant un **[espace Q&A](#II)** aussi adapté que possible au cas de *Let's Play Science*, afin d'exploiter la grande efficacité collaborative mise en évidence par ce type d'outil (s'il ne fallait citer qu'un exemple : [Biology StackExchange](http://biology.stackexchange.com/)).
+Evidemment, l'ensemble devra rester simple pour être exploitable rapidement, et éviter de se perdre dans des développements trop coûteux et/ou complexes.
+
+**Dans un deuxième temps**, selon le succès et l'efficacité montrés par ces outils "mis à l'épreuve", des fonctionnalités plus avancées pourront être développées, les performances soignées et améliorées, voire de nouveaux outils (si nécessaire) pourront compléter la plateforme.
 
 
 <a name="I"></a>
@@ -9,7 +14,7 @@ I. Espace de discussion (fil de commentaires, forum...)
 -
 
 <a name="I.1"></a>
-### I.1. Cas 1 : Application intégrée (Youtube + Facebook + interface de "suivi")
+### I.1. Application intégrée (Youtube + Facebook + interface de "suivi")
 
 **Fonctionnalités** disponibles sur la "plateforme externe"
 * Soumettre un commentaire/post
@@ -18,14 +23,16 @@ I. Espace de discussion (fil de commentaires, forum...)
 
 **Fonctionnalités** disponibles sur la *plateforme Let's Play Science* suite à un traitement des commentaires "bruts" :
 * Exploitation de données type metrics (nombre de posts, occurrences de mots...)
-* Possibilité d'une structuration sémantique automatique ?
-* Revue collaborative ? Par ex. pour écriture d'un document agrégeant les propositions comme le `Readme` ?
-(mêmes problématiques pour toutes les VE)
+* Moteur de recherche de commentaires simple
+* Toute autre fonctionnalité simple à mettre en oeuvre (analyseurs syntaxiques existants...) qui peuvent apporter une information générale sur la masse de commentaires bruts sans être trop coûteux.
 
-<a name="I.1"></a>
-### I.1. Cas 2 : Application souveraine
 
-Implique que Léo doit bloquer les commentaires Youtube, et indiquer sur Youtube et Facebook un lien vers la plateforme de collaboration pour Let's Play Science (par ex. page d'accueil du défi en cours).
+<a name="I.2"></a>
+### I.2. Application souveraine
+
+**Coût global certainement sensiblement plus élevé** que le cas de l'[application intégrée](#I.1). A voir **dans un deuxième temps**.
+
+Implique que Léo bloque les commentaires Youtube, et indique sur Youtube et Facebook un lien vers la plateforme de collaboration pour Let's Play Science (par ex. page d'accueil du défi en cours).
 
 **Fonctionnalités** qui seraient disponibles en plus du cas de l'[application intégrée](#I.1), correspondant autant que possible au [**II.1** du `Readme`](https://github.com/sveinburne/lets-play-science/blob/master/README.md#II), et *à prioriser* :
 * Votes par catégorie sur chaque post
@@ -34,7 +41,7 @@ Implique que Léo doit bloquer les commentaires Youtube, et indiquer sur Youtube
 
 Excepté la notion de [posts versionnés](https://github.com/sveinburne/lets-play-science/blob/master/THE_APP.MD#b-post-versionné) car déjà présente dans [l'espace Q&A](#II). Les posts seraient tout de même éditables par l'auteur + les modos, mais sans gestion d'historique de versions.
 
-Coût global certainement sensiblement plus élevé que le cas de l'[application intégrée](#I.1).
+
 
 <a name="II"></a>
 II. Espace Q&A + écriture collaborative
@@ -49,12 +56,15 @@ Inspiré de StackOverflow, Yahoo Q&A, Tricider... ou [autre](http://web.appstorm
 * **Tous nouveaux élements** (références, arguments, etc.) **sont agrégés au fil des participations** (modification, ou proposition de modification possible par tous, Wiki-like) **et visibles facilement par tous** (vs. revue fastidieuse de posts souvent redondants, hors sujet, d'une file de discussion)
  * Constitue une expérience d'écriture collaborative
  * Favorise la revue entre pairs
+ * Chaque participant choisit à tout moment le(s) rôle(s) qu'il souhaite jouer, quelle contribution il souhaite apporter et sur quel sujet / sous-sujet, sans nécessiter de tâches d'administration ou d'adaptation de l'application (seule exception : le rôle de modérateur).
+
+* **La fin du défi peut intervenir à tout moment**, lorsque les diverses propositions semblent être arrivées à "maturité" (par ex. en suivant un metric sur le nombre de propositions / edits par jour)
 
 
 ### Fonctionnalités
 
 #### Questions/Réponses
-* Au départ, seule la question principale (correspondant au défi) serait posée.
+* Au début du cycle de vie, seule la question principale (correspondant au défi) serait posée.
 * Chaque participant peut formuler une ou plusieurs propositions
 * Les propositions sont classées par "score" (nb. votes positifs + nb. votes négatifs) décroissant
 * Tout participant, dès qu'il l'estime nécessaire, peut créer une ou plusieurs sous-questions ("sous-défis"), permettant d'affiner les "propositions principales" (par ex. défi *"Peut-on envoyer l'humanité dans l'espace ?"*, une proposition est formulée sur l'idée de fusée, un participant peut créer la question associée : *"Quel est le meilleur système de propulsion pour une fusée ?"*).
@@ -122,13 +132,13 @@ Voici **les critères** pour qu'une pull request de VE soit acceptée :
 //  1. Application Souveraine vs Application intégrée ?
 //  2. Posts Versionnés vs posts simples
 //  3. Type de modération
-  4. Choix technologique sur la sémantique
-  5. Vote simple vs vote catégorique
-  6. Politique de rôles ?
-- elle doit expliciter un cycle de vie d'un défi
-- elle doit proposer une priorisation de ses fonctionnalités
+//  4. Choix technologique sur la sémantique
+//  5. Vote simple vs vote catégorique
+//  6. Politique de rôles ?
+//- elle doit expliciter un cycle de vie d'un défi
+//- elle doit proposer une priorisation de ses fonctionnalités
 - elle doit offrir un titre qui explicite le parti pris de cette vision
-- le nom du fichier markdown doit être `VE-nomAuteur.MD`, elle sera renommée lors du merge.
+//- le nom du fichier markdown doit être `VE-nomAuteur.MD`, elle sera renommée lors du merge.
 
 Remarques importantes :
 - Une solution ne s'oppose pas nécessairement à sa concurrente, elle peut être offerte provisoirement en attendant le développement de fonctionnalités plus avancées, cf. priorités.
