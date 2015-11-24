@@ -24,14 +24,17 @@ I. [Participer](#I)
   1.  [Ouvrir une issue](#I.1)
   2.  [Faire une requête](#I.2)
 
-II. [Créer/Trouver une plateforme qui offrirait...](#II)  
-  1. [Un choix entre différents types de likes](#II.1)
-  2. [Une forme de modération](#II.2)
-  3. [Une association sémantique des posts](#II.3)
-  4. [La possibilité de marquer un post comme "évalué"](#II.4)
-  5. [Une interface qui favorise l'évaluation entre pairs](#II.5)
-  6. [L'édition collaborative des posts](#II.6)
-  7. [L'organisation une comunauté qui prémache le filtrage](#II.7)
+II. [Créer/Trouver une plateforme qui offrirait...](#II)
+  1. [Un espace de discussion (commentaires, forum...)](#II.1)
+    1. [Un choix entre différents types de likes](#II.1.1)
+    2. [Une forme de modération](#II.1.2)
+    3. [Une association sémantique des posts](#II.1.3)
+    4. [La possibilité de marquer un post comme "évalué"](#II.1.4)
+    5. [Une interface qui favorise l'évaluation entre pairs](#II.1.5)
+    6. [L'édition collaborative des posts](#II.1.6)
+    7. [L'organisation une comunauté qui prémache le filtrage](#II.1.7)
+  2. [Un espace Q&A](#II.2)
+  3. [Un espace d'écriture collaborative](#II.3)
 
 III. [Candidats possibles et sources d'inspiration](#III)  
   1. [Discourse](#III.1)
@@ -75,10 +78,15 @@ IV. [On est des fous et on code le truc open source!](#IV)
 
 **Un nombre très majoritaire de contributeurs s'accordent sur la nécessité de déplacer la discussion sur une plateforme 'augmentée' qui améliorerait de façon drastique la circulation des idées et favoriserait l'évaluation des propositions peu exposées**
 
-**[Voter pour les fonctionnalités les plus prioritaires](http://www.tricider.com/brainstorming/34O75F4FgG7)** [(lien admin)](https://www.tricider.com/admin/34O75F4FgG7/CN8kK1IcbOt)
+**[Voter pour les outils et fonctionnalités générales prioritaires](http://www.tricider.com/brainstorming/2vvPwC7VeKt)** [(lien admin)](https://www.tricider.com/admin/2vvPwC7VeKt/2wRDRxsHv8f)
 
 <a name="II.1"></a>
-#### 1. Un choix entre différents types de likes pour les posts
+#### 1. Un espace de discussion (commentaires, forum...)
+
+**[Voter pour les fonctionnalités prioritaires pour l'espace de discussion](http://www.tricider.com/brainstorming/34O75F4FgG7)** [(lien admin)](https://www.tricider.com/admin/34O75F4FgG7/CN8kK1IcbOt)
+
+<a name="II.1.1"></a>
+##### 1. Un choix entre différents types de likes pour les posts
 *proposé par [koukaloukaki](https://www.youtube.com/user/koukaloukaki)*  
 
 L'idée est de faire du filtrage collaboratif en catégorisant subjectivement l'intérêt
@@ -96,8 +104,8 @@ L'idée est de faire du filtrage collaboratif en catégorisant subjectivement l'
 
 Ainsi on peut basculer entre différentes vues suivant notre approche, "érudite" ou "détente" !
 
-<a name="II.2"></a>
-#### 2. Une forme de modération
+<a name="II.1.2"></a>
+##### 2. Une forme de modération
 *proposé par une vaste majorité*  
 
 - **a** Gestion du trolling et des contenus sans valeur ajoutée
@@ -107,8 +115,8 @@ Ainsi on peut basculer entre différentes vues suivant notre approche, "érudite
 
 **Remarque** Certains comme [PhilocrateV](https://www.youtube.com/user/PhilocrateV) émettent des réserves à la **2.b**, qui favorisait un "système de castes". Je trouve au contraire que le droit de modérer est acquis par mérite, par les contributeurs qui s'investissent le plus.
 
-<a name="II.3"></a>
-#### 3. Une association sémantique des posts
+<a name="II.1.3"></a>
+##### 3. Une association sémantique des posts
 
 **[Voter pour les différentes options](http://www.tricider.com/brainstorming/2wLfQJ6DBuN)** [(lien admin)](https://www.tricider.com/admin/2wLfQJ6DBuN/20cLRM1Jdav)
 
@@ -153,14 +161,14 @@ Comment transporter l'humanité dans l'espace ?
 Le but à terme est de voir instantanément les commentaires qui ont des arguements favorables ou défavorables au sein de chaque catégorie. L'affichage serait semblable à une discussion sms : les commentaires **pour** l'hypothèse de la propulsion alignés à gauche, et ceux **contre** à droite (et les **neutre** au milieu).
 On pourrait également proposer un filtre sur ce nouveau critère.
 
-<a name="II.4"></a>
-#### 4. La possibilité de marquer un post comme "évalué"
+<a name="II.1.4"></a>
+##### 4. La possibilité de marquer un post comme "évalué"
 *proposé par [Jules Randolph](https://github.com/sveinburne/)*  
 Extension de la proposition **3** :
 Si on a ni liké, ni jugé le contenu extraordinaire, ni merdique, on peut le marquer comme **"évalué"**, cf la proposition **5.a**. L'objectif est de favoriser la navigation entre ce qui a été lu / pas lu.
 
-<a name="II.5"></a>
-#### 5. Une interface qui favorise l'évaluation entre pairs
+<a name="II.1.5"></a>
+##### 5. Une interface qui favorise l'évaluation entre pairs
 
 **[Voter pour les différentes options](http://www.tricider.com/brainstorming/3QOMxjuDJBZ)** [(lien admin)](https://www.tricider.com/admin/3QOMxjuDJBZ/3mqN5RRaZa7)
 
@@ -207,8 +215,8 @@ Dans ce mode, **seuls les contenus non marqués (comme "vu", "pas con", "spam" o
 *Proposé par [Jean Baptiste Dallara](https://www.youtube.com/user/a46production)*
 - **e** Un peu à la facemash, proposer des paires de propositions et demander à l'évaluateur celle qu'il trouve la plus pertinente.  
 
-<a name="II.6"></a>
-#### 6. L'édition collaborative des posts
+<a name="II.1.6"></a>
+##### 6. L'édition collaborative des posts
 *[proposé par hackedbrain17](https://www.youtube.com/user/hackedbrain17)*  
 Avec notamment :
 - **a** La proposition **1**
@@ -216,12 +224,32 @@ Avec notamment :
 
 **6.b** aussi proposé par [luffyetgaara](https://www.youtube.com/user/luffyetgaara)
 
-<a name="II.7"></a>
-#### **7** L'organisation une comunauté qui prémache le filtrage
+<a name="II.1.7"></a>
+##### **7** L'organisation une comunauté qui prémache le filtrage
 *proposé par [pistachemolle](https://www.youtube.com/user/pistachemolle) et [cizalto](https://www.youtube.com/user/cizalto)*  
 > Peut-être qu'un groupe de personnes plus ou moins en affinité avec la thématique de la question pourrait fouiller au fur et à mesure le fil des réponses et à partir de là éditer et remettre à jour en permanence une sorte de résumé des réponses des spectateurs. En les regroupant et classant par similarité, en prenant en compte leur récurrences et leur pertinence, (et surement plein d'autres facteurs) dans le but d'arriver à un schéma en ramifications. Il s'en dégagerait sûrement des axes principaux avec leur subdivision selon les variantes, et quelques pistes moins denses d'idées plus originales. Ce schéma, cet sorte "d'arbre scénaristique" serait accessible (pas au tout début du sondage bien sûr, après un premier tri) et remis à jour régulièment, ainsi les gens qui souhaitent répondre pourraient déjà voir comment s'organisent les idées autours du sujet et dans quelles branche ranger leur réponse, ou carrément en créer une nouvelle.
 - Les premiers à répondre ne bénéficieraient donc pas du classement des réponses et se lanceraient donc un peu à l'aveugle comme actuellement sur les commentaires youtube.
 - Cette organisation n'est pas du tout horizontale, voire même carrément pyramidale, et ça me chiffonne un peu (voire déprime carrément) de n'avoir que ça comme idée en tête à proposer comme réponse ! ^_^
+
+<a name="II.2"></a>
+#### **2** Un espace Q&A
+
+*proposé par [Frosty-Z](https://github.com/Frosty-Z)*
+
+Inspiré de StackOverflow, Yahoo Q&A, Tricider... Où au moins la question principale (défi) serait posée.
+
+Dès qu'il l'estime nécessaire, tout utilisateur pourrait créer une ou plusieurs sous-questions ("sous-défis"), permettant d'affiner les "propositions principales" (par ex. *"Quel est le meilleur système de propulsion pour une fusée ?"*).
+
+<a name="II.3"></a>
+#### **3** Un espace d'écriture collaborative
+
+Etherpad, Wiki, Github, "fait maison"...
+
+Permet d'effectuer une synthèse et rassembler des références de manière collaborative sur chaque proposition offrant une réponse (même partielle) au défi.
+
+*proposé par [Frosty-Z](https://github.com/Frosty-Z)*
+
+Dans l'éventualité d'un *espace Q&A*, on peut envisager que chaque proposition (et sous-proposition) soit modifiable de manière collaborative. L'*espace Q&A* et l'*espace d'écriture collaborative* seraient donc confondus.
 
 <a name="III"></a>
 ## III. Candidats possibles et sources d'inspiration
