@@ -24,25 +24,23 @@ I. [Participer](#I)
   1.  [Ouvrir une issue](#I.1)
   2.  [Faire une requête](#I.2)
 
-II. [Créer/Trouver une plateforme qui offrirait...](#II)
-  1. [Un espace de discussion (commentaires, forum...)](#II.1)
-    1. [Un choix entre différents types de likes](#II.1.1)
-    2. [Une forme de modération](#II.1.2)
-    3. [Une association sémantique des posts](#II.1.3)
-    4. [La possibilité de marquer un post comme "évalué"](#II.1.4)
-    5. [Une interface qui favorise l'évaluation entre pairs](#II.1.5)
-    6. [L'édition collaborative des posts](#II.1.6)
-    7. [L'organisation une comunauté qui prémache le filtrage](#II.1.7)
-  2. [Un espace Q&A](#II.2)
-  3. [Un espace d'écriture collaborative](#II.3)
+II. [Synthèse des commentaires Youtube](#II)
+  1. [Espace de discussion (60% des propositions)](#II.1)
+  2. [Espace Q&A / sondage (20%)](#II.2)
+  3. [Espace d'écriture collaborative (15%)](#II.3)
+  4. [Espace de T'chat (5%)](#II.4)
 
-III. [Candidats possibles et sources d'inspiration](#III)  
-  1. [Discourse](#III.1)
-  2. [Sites Q&A](#III.2)
-  3. [LaPrimaire.org](#III.3)
-  4. [republique-numerique.fr](#III.4)
-  5. [authorea.com](#III.5)
-  6. [MediaWiki](#III.6)
+III. [Agrégation des propositions de fonctionnalités pour une plateforme collaborative](#III)
+  1. [Espace de discussion (commentaires, forum...)](#III.1)
+    1. [Un choix entre différents types de likes](#III.1.1)
+    2. [Une forme de modération](#III.1.2)
+    3. [Une association sémantique des posts](#III.1.3)
+    4. [La possibilité de marquer un post comme "évalué"](#III.1.4)
+    5. [Une interface qui favorise l'évaluation entre pairs](#III.1.5)
+    6. [L'édition collaborative des posts](#III.1.6)
+    7. [L'organisation une comunauté qui prémache le filtrage](#III.1.7)
+  2. [Espace Q&A](#III.2)
+  3. [Espace d'écriture collaborative](#III.3)
 
 IV. [On est des fous et on code le truc open source!](#IV)  
 
@@ -73,19 +71,77 @@ IV. [On est des fous et on code le truc open source!](#IV)
 <a name="help"></a>
 **Si d'autres veulent me prêter la main pour la validation, [laissez un message ici](https://github.com/sveinburne/lets-play-science/issues/1)!**
 
+
+
 <a name="II"></a>
-## II. Créer/Trouver une plateforme qui offrirait...
+## II. Synthèse des commentaires Youtube
+
+<a name="II.1"></a>
+### 1. Espace de discussion (60% des propositions)
+
+#### 1.1 Forum souverain (75% des propositions du 1.)
+
+Beaucoup partent du constat que les fonctionnalités offertes par le système de commentaires Youtube est bien trop limité, ne serait-ce que par rapport à un forum classique.
+
+**Fonctionnalités qui reviennent le plus souvent :**
+  1. Hashtags sur les posts, les fils
+  2. Structuration du forum par défi / sous-défi / etc. (+ parfois mind mapping)
+  3. Votes par catégorie
+  4. Former un groupe de modos / contributeurs "reconnus"
+
+**Plateformes existantes évoquées** : Reddit (très souvent), Discourse.
+
+#### 1.2 Commentaires Youtube (25%)
+
+**Ceux qui se "contenteraient" de Youtube, proposent le plus souvent :**
+  1. De noter les commentaires (en réponse aux commentaires)
+  2. De structurer l'arborescence de commentaires (par type de message : réaction à la vidéo ou réflexion sur le défi suivant, par défi/sous-défi...)
+  3. De faire de l'analyse syntaxique pour dégager les principaux mots clés, tendances
+
+<a name="II.2"></a>
+### 2. Espace Q&A / sondage (20% des propositions)
+
+**Fonctionnalité particulière souvent proposée :**
+* Eviter l'effet "mouton" en masquant les votes, en ordonnant aléatoirement les propositions (pendant un temps limité ou non), etc.
+
+**Outils existants évoqués** (par ordre de fréquence décroissante) : StackOverflow/StackExchange, Quora, république-numérique.fr, jepolitique.fr, laprimaire.org, projet "Reboot la France", Tricider, straw poll divers
+
+Permettrait à moindre coût de faire ressortir facilement les grandes tendances se dégageant d'un groupe d'individus.
+
+Des comparaisons reviennent souvent avec des citoyens votant aux élections, des neurones / groupes de neurones "collaborant".
+
+Proposition qui revient souvent chez des personnes qui se présentent comme informaticiens / développeurs.
+
+<a name="II.3"></a>
+### 3. Espace d'écriture collaborative (15%)
+
+Ce qui ressort de la plupart de ces propositions, serait qu'un groupe d'internautes motivé ferait le travail de synthèse des commentaires Youtube sur une plateforme d'écriture collaborative.
+
+Dans une moindre mesure, l'idée de faire collaborer les internautes directement sur l'espace d'écriture a également été exprimée.
+
+**Outils existants évoqués** : Wikipedia/Wikis, authorea.com, GoogleDoc, workflowy
+
+<a name="II.4"></a>
+### 4. Espace de T'Chat (5%)
+
+Propositions de participants qui utilisent régulièrement IRC ou Twitch.
+
+
+
+
+<a name="III"></a>
+## III. Agrégation des propositions de fonctionnalités pour une plateforme collaborative
 
 **Un nombre très majoritaire de contributeurs s'accordent sur la nécessité de déplacer la discussion sur une plateforme 'augmentée' qui améliorerait de façon drastique la circulation des idées et favoriserait l'évaluation des propositions peu exposées**
 
 **[Voter pour les outils et fonctionnalités générales prioritaires](http://www.tricider.com/brainstorming/2vvPwC7VeKt)** [(lien admin)](https://www.tricider.com/admin/2vvPwC7VeKt/2wRDRxsHv8f)
 
-<a name="II.1"></a>
-#### 1. Un espace de discussion (commentaires, forum...)
+<a name="III.1"></a>
+#### 1. Espace de discussion (commentaires, forum...)
 
 **[Voter pour les fonctionnalités prioritaires pour l'espace de discussion](http://www.tricider.com/brainstorming/34O75F4FgG7)** [(lien admin)](https://www.tricider.com/admin/34O75F4FgG7/CN8kK1IcbOt)
 
-<a name="II.1.1"></a>
+<a name="III.1.1"></a>
 ##### 1. Un choix entre différents types de likes pour les posts
 *proposé par [koukaloukaki](https://www.youtube.com/user/koukaloukaki)*  
 
@@ -104,7 +160,7 @@ L'idée est de faire du filtrage collaboratif en catégorisant subjectivement l'
 
 Ainsi on peut basculer entre différentes vues suivant notre approche, "érudite" ou "détente" !
 
-<a name="II.1.2"></a>
+<a name="III.1.2"></a>
 ##### 2. Une forme de modération
 *proposé par une vaste majorité*  
 
@@ -115,7 +171,7 @@ Ainsi on peut basculer entre différentes vues suivant notre approche, "érudite
 
 **Remarque** Certains comme [PhilocrateV](https://www.youtube.com/user/PhilocrateV) émettent des réserves à la **2.b**, qui favorisait un "système de castes". Je trouve au contraire que le droit de modérer est acquis par mérite, par les contributeurs qui s'investissent le plus.
 
-<a name="II.1.3"></a>
+<a name="III.1.3"></a>
 ##### 3. Une association sémantique des posts
 
 **[Voter pour les différentes options](http://www.tricider.com/brainstorming/2wLfQJ6DBuN)** [(lien admin)](https://www.tricider.com/admin/2wLfQJ6DBuN/20cLRM1Jdav)
@@ -161,13 +217,13 @@ Comment transporter l'humanité dans l'espace ?
 Le but à terme est de voir instantanément les commentaires qui ont des arguements favorables ou défavorables au sein de chaque catégorie. L'affichage serait semblable à une discussion sms : les commentaires **pour** l'hypothèse de la propulsion alignés à gauche, et ceux **contre** à droite (et les **neutre** au milieu).
 On pourrait également proposer un filtre sur ce nouveau critère.
 
-<a name="II.1.4"></a>
+<a name="III.1.4"></a>
 ##### 4. La possibilité de marquer un post comme "évalué"
 *proposé par [Jules Randolph](https://github.com/sveinburne/)*  
 Extension de la proposition **3** :
 Si on a ni liké, ni jugé le contenu extraordinaire, ni merdique, on peut le marquer comme **"évalué"**, cf la proposition **5.a**. L'objectif est de favoriser la navigation entre ce qui a été lu / pas lu.
 
-<a name="II.1.5"></a>
+<a name="III.1.5"></a>
 ##### 5. Une interface qui favorise l'évaluation entre pairs
 
 **[Voter pour les différentes options](http://www.tricider.com/brainstorming/3QOMxjuDJBZ)** [(lien admin)](https://www.tricider.com/admin/3QOMxjuDJBZ/3mqN5RRaZa7)
@@ -215,7 +271,7 @@ Dans ce mode, **seuls les contenus non marqués (comme "vu", "pas con", "spam" o
 *Proposé par [Jean Baptiste Dallara](https://www.youtube.com/user/a46production)*
 - **e** Un peu à la facemash, proposer des paires de propositions et demander à l'évaluateur celle qu'il trouve la plus pertinente.  
 
-<a name="II.1.6"></a>
+<a name="III.1.6"></a>
 ##### 6. L'édition collaborative des posts
 *[proposé par hackedbrain17](https://www.youtube.com/user/hackedbrain17)*  
 Avec notamment :
@@ -224,15 +280,15 @@ Avec notamment :
 
 **6.b** aussi proposé par [luffyetgaara](https://www.youtube.com/user/luffyetgaara)
 
-<a name="II.1.7"></a>
+<a name="III.1.7"></a>
 ##### **7** L'organisation une comunauté qui prémache le filtrage
 *proposé par [pistachemolle](https://www.youtube.com/user/pistachemolle) et [cizalto](https://www.youtube.com/user/cizalto)*  
 > Peut-être qu'un groupe de personnes plus ou moins en affinité avec la thématique de la question pourrait fouiller au fur et à mesure le fil des réponses et à partir de là éditer et remettre à jour en permanence une sorte de résumé des réponses des spectateurs. En les regroupant et classant par similarité, en prenant en compte leur récurrences et leur pertinence, (et surement plein d'autres facteurs) dans le but d'arriver à un schéma en ramifications. Il s'en dégagerait sûrement des axes principaux avec leur subdivision selon les variantes, et quelques pistes moins denses d'idées plus originales. Ce schéma, cet sorte "d'arbre scénaristique" serait accessible (pas au tout début du sondage bien sûr, après un premier tri) et remis à jour régulièment, ainsi les gens qui souhaitent répondre pourraient déjà voir comment s'organisent les idées autours du sujet et dans quelles branche ranger leur réponse, ou carrément en créer une nouvelle.
 - Les premiers à répondre ne bénéficieraient donc pas du classement des réponses et se lanceraient donc un peu à l'aveugle comme actuellement sur les commentaires youtube.
 - Cette organisation n'est pas du tout horizontale, voire même carrément pyramidale, et ça me chiffonne un peu (voire déprime carrément) de n'avoir que ça comme idée en tête à proposer comme réponse ! ^_^
 
-<a name="II.2"></a>
-#### **2** Un espace Q&A
+<a name="III.2"></a>
+#### **2** Espace Q&A
 
 *proposé par [Frosty-Z](https://github.com/Frosty-Z)*
 
@@ -240,8 +296,10 @@ Inspiré de StackOverflow, Yahoo Q&A, Tricider... Où au moins la question princ
 
 Dès qu'il l'estime nécessaire, tout utilisateur pourrait créer une ou plusieurs sous-questions ("sous-défis"), permettant d'affiner les "propositions principales" (par ex. *"Quel est le meilleur système de propulsion pour une fusée ?"*).
 
-<a name="II.3"></a>
-#### **3** Un espace d'écriture collaborative
+<a name="III.3"></a>
+#### **3** Espace d'écriture collaborative
+
+*proposé par de nombreux intervenants*
 
 Etherpad, Wiki, Github, "fait maison"...
 
@@ -250,56 +308,6 @@ Permet d'effectuer une synthèse et rassembler des références de manière coll
 *proposé par [Frosty-Z](https://github.com/Frosty-Z)*
 
 Dans l'éventualité d'un *espace Q&A*, on peut envisager que chaque proposition (et sous-proposition) soit modifiable de manière collaborative. L'*espace Q&A* et l'*espace d'écriture collaborative* seraient donc confondus.
-
-<a name="III"></a>
-## III. Candidats possibles et sources d'inspiration
-
-**[Voter pour les outils les plus pertinents](http://www.tricider.com/brainstorming/2kR2A9QuQLR)** [(lien admin)](https://www.tricider.com/admin/2kR2A9QuQLR/6XC6fCOD7p)
-
-<a name="III.1">
-#### 1. [Discourse](https://www.discourse.org/)
-*proposé par [kokodroid](https://www.youtube.com/user/kokodroid)*  
-**Pros**
-- Open source
-- Moderne
-
-**Cons**
-- Ne supporte pas la personnalisation des likes à ma connaissance
-
-<a name="III.2"></a>
-#### 2. Sites Q&A
-
-**a** [StackExchange](http://stackexchange.com/)  
-*suggéré par [Josselin Massot](https://www.youtube.com/user/Dlul)*
-(à développer)
-
-> Une autre idée est celle proposée par des outils comme **StackOverFlow** (et toutes les versions propres à un domaine particulier qui en sont dérivés) qui consiste à poser une question (généralement l'exposition d'un problème informatique), un certain nombre de personnes répondent et on peut facilement aimer ou déprécier la réponse. En tout cas ce système de notation est beaucoup plus mis en avant et incité que sur Youtube. Donc le problème est peut-être la philosophie des communautés Youtube qui favorise les réponses courtes aux réponses longues (souvent plus complètes et constructives).
-
-
-**b** [Tricider](http://www.tricider.com)  
-*suggéré par [Maxime Pacary](https://github.com/Frosty-Z)*
-
-> Un outil de "vote social" dans la lignée de **StackOverflow** qui a retenu mon attention : [Tricider](http://www.tricider.com). Pour chaque réponse fournie, une colonne permet de donner des arguments pour ou contre, également soumis à vote et triés automatiquement. Service gratuit et sans obligation d'être inscrit pour participer aux questions/argumentations/votes. Par contre : anglais only, un peu lent.
-
-<a name="III.3"></a>
-#### 3. [LaPrimaire.org](https://laprimaire.org/)
-*proposé par [Raphael Deschamps](https://plus.google.com/105449596471161531134)*  
->  Ce qui est très intéressant dans leur système, c'est que les internautes ont un accès totalement aléatoire aux candidatures (donc un certain nombre de candidatures sont tirées au sort pour chaque internaute) et ces internautes sont chargés de faire un choix en fonction de la qualité des candidatures proposées. Les candidatures qui auront été les mieux notées / en tête du classement des internautes seront celles qui vont être retenues pour passer à l'étape suivante, ou les principales candidatures sont soumises au choix de l'ensemble des internautes.
-
-<a name="III.4"></a>
-#### 4. [republique-numerique.fr](republique-numerique.fr)
-*[proposé par hackedbrain17](https://www.youtube.com/user/hackedbrain17)*
-
-<a name="III.5"></a>
-#### 5. [authorea.com](https://www.authorea.com/)
-*proposé par [Jules Randolph]()*
-
-> authorea.com est une plateforme anglaise de rédaction d'articles collaboratifs pour étudiants et chercheurs du monde entier, lancée il y a un an à peine.... je trouve que ça rejoint pas mal de propositions allant dans le sens de "posts édités collaborativement"
-
-<a name="III.6"></a>
-#### 6. [MediaWiki](https://www.mediawiki.org/wiki/MediaWiki)
-
-Un bon nombre des participants ont proposé un wiki, sans donner de nom. Alors je propose ici le plus courant.
 
 
 
