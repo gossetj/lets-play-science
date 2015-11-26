@@ -4,9 +4,8 @@ Comparatif des outils existants
 
 ## I. Espace de discussion
 
-| Outil                                       |  Service en ligne   | Projet Github |   Fonctionnalité 1 |Fonctionnalité 2 |Fonctionnalité 3 |
-|----------------------------------------------|:--------------------:|:--------------------:|:-----------------:|:----------------:|
-:----------------:|
+| Outil                                       |  Service en ligne   | Projet Github |   Fonctionnalité 1 | Fonctionnalité 2 | Fonctionnalité 3 |
+|----------------------------------------------|:--------------------:|:---------------:|:-----------------:|:----------------:|:----------------:|
 | [Proboards.com](https://www.proboards.com)      | :white_check_mark: | | | | |
 | [Muut](https://muut.com)                       | :white_check_mark: | | | | |
 
@@ -27,6 +26,5 @@ Comparatif des outils existants
 ## III. Espace d'écriture collaborative
 
 | Outil                                       |  Service en ligne   | Projet Github |   Fonctionnalité 1 |Fonctionnalité 2 |Fonctionnalité 3 |
-|----------------------------------------------|:--------------------:|:--------------------:|:-----------------:|:----------------:|
-:----------------:|
+|----------------------------------------------|:--------------------:|:--------------------:|:-----------------:|:----------------:|:----------------:|
 |||||||
