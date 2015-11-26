@@ -2,14 +2,15 @@ Comparatif des outils existants
 ==
 
 
-# I. Espace de discussion
+## I. Espace de discussion
 
 | Outil      |  Service en ligne   |   Fonctionnalité 1 |Fonctionnalité 2 |Fonctionnalité 3 |
-| Outil 1      |        :tick:        |       | | |
+|--------------|:--------------------:|:--------------------:|:-----------------:|:----------------:|
+| Outil 1      |        :white_check_mark:        |       | | |
 | Outil 2        |                |       | | |
 
 
-# II. Espace Q&A
+## II. Espace Q&A
 
 
-# III. Espace d'écriture collaborative
+## III. Espace d'écriture collaborative
