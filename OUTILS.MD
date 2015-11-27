@@ -6,8 +6,8 @@ Comparatif des outils existants
 
 | Outil                                       |  Service en ligne   | Projet Github | Hashtags (posts) | Hashtags (files) | Structure files arborescente | Vote par catégorie (posts) |
 |----------------------------------------------|:------------------:|:-------------:|:----------------:|:----------------:|:---------------------------:|:--------------------------:|
-| [Proboards.com](https://www.proboards.com)      | :white_check_mark: | | | | | |
-| [Muut](https://muut.com)                       | :white_check_mark: | | | | | |
+| [Proboards.com](https://www.proboards.com)      | :white_check_mark: | | ?| ?| ?| ?|
+| [Muut](https://muut.com)                       | :white_check_mark: | | ?| ?| ?| ?|
 
 A parcourir en détail pour remplir le tableau ci dessus :
 
