@@ -30,5 +30,5 @@ A parcourir en détail pour remplir le tableau ci dessus :
 Uniquement des outils avec validation sinon on va automatiquement se retrouver dans un cas "Twitch for Pokémon" brut (ration coût / efficacité très faible).
 
 | Outil                                       |  Service en ligne   | Projet Github | Commentaires |
-|----------------------------------------------|:--------------------:|:-------------:|:-----------:|
+|----------------------------------------------|:--------------------:|:-------------:|:-----------|
 | GitHub                                       | :white_check_mark: |               | Il y a certainement plus "accessible" (plateformes type Wiki ?) |
