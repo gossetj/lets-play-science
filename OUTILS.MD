@@ -1,6 +1,7 @@
 Comparatif des outils existants
 ==
 
+**Attention : uniquement des outils ou services en ligne gratuits.**
 
 ## I. Espace de discussion
 
