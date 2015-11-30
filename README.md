@@ -334,3 +334,4 @@ Des développeurs qui ont signalé leur souhait de s'investir (merci de vous raj
 - [Thibaud Chominot](https://github.com/Phacocherman/)
 - [Aelerinya](https://github.com/Aelerinya)
 - [Sylvain Berthaud](https://github.com/akrib/)
+- [Pierre THEVENET](https://github.com/Gophys)
