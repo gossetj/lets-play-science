@@ -11,3 +11,4 @@ contributeurs
 | [Aelerinya](https://github.com/Aelerinya) | HTML5, CSS3, JS | MySQL | Gimp | - | HTML5, CSS3, Javascript, PHP | PHP |
 | [Thibaud Chominot](https://github.com/Phacocherman/) | HTML, CSS, (JS) | MySQL | Photoshop | - | Ocaml, C, C#, Python, Java, (C++) | (PHP) |
 | [François SAMIN](https://github.com/fsamin/) | HTML, CSS, JS | MySQL, PostgreSQL, Oracle, Mongodb, Elasticsearch, *et beaucoup d'autres* | Gimp | *beaucoup* | Java, Groovy, JS, Go  | J2EE, Nodejs, Go |
+| [Pierre THEVENET](https://github.com/Gophys) | HTML, CSS | MySQL, PostgreSQL | GIMP, Photoshop | Django | C++, Python | Python |
