@@ -1,8 +1,21 @@
 contributeurs
 ---------------------------------------------------
+
+---------------------------------------------------
+**Forum : **  
+- [**MEMBRES OBSERVATEURS**](https://github.com/sveinburne/lets-play-science/issues/37)
+- [**MEMBRES MODERATEURS**](https://github.com/sveinburne/lets-play-science/issues/1)
+
+#### Observateurs
+*Issus d'horizons divers et variés, ils souhaitent regarder de près l'avancement du projet et participer activement aux réflexions qui l'animent*
+
+| observateurs | domaines d'intérêt | spécialité |
+|--------------|--------------------|------------|
+
+#### Développeurs et Graphistes
 *Référencement des contributeurs et de leurs compétences*
 
-| contributeur | Front-end | SGBD | Web-design & graphismes | Frameworks | Langages | Serveur |
+| D/G | Front-end | SGBD | Web-design & graphismes | Frameworks | Langages | Serveur |
 |--------------|-----------|------|-------------------------|------------|----------|----------|
 | [Jules Randolph](https://github.com/sveinburne/) | html, css, scss | Mongodb, postgresql | - | Meteorjs, durandaljs | ECMA5, ECMA6, coffee, java | J2EE, Nodejs |
 | [Julien Monnet](https://github.com/roxtarmy/) | html, css, svg | mysql | - | - | PHP, C, C++ | PHP, Nodejs |

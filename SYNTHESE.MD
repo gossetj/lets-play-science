@@ -1,26 +1,16 @@
-﻿lets-play-science, à la recherche de la sagesse des foules
+synthèse des commentaires youtube
 ----------------------------------------------------------
-
-**Un petit repo** pour agréger les suggestions sur l'épisode 3 de **Lets Play Science** !  
-**C'est un document collaboratif** où chacun peut intégrer sa proposition de manière organisée.
-- Ce n'est **pas** un projet de développement ( [pas pour l'instant du moins, mais vous pouvez tous soumettre des idées](#IV) )  
-
 **Problématique** :  **"Comment collaborer à 5000 cerveaux sur la même question ?".**  
 - Les commentaires les plus pertinents ne sont pas forcément les plus likés
 - Aller à la recherche des commentaires pertinents est une tâche laborieuse!
 - Cette *navigation en eaux troubles* limite la circulation des idées, et cause de nombreux doublons
 
-Pourquoi github?
-----------------------------------------------------------
-Au même titre qu'un wiki, cette application permet de faire des **révisions avec validation [des responsables](https://github.com/sveinburne/lets-play-science/issues/1)** d'un document collaboratif.
-- L'idée est que chacun puisse éditer ce document en apportant des propositions (commentaires youtube) qui n'on pas encore été référencées dans la synthèse. Se rendre à la section [I. Participer](#I).
-- Pour suivre le projet et être notifié des mises à jour et interventions sur [le forum associé](https://github.com/sveinburne/lets-play-science/issues), cliquez sur le bouton ![Watch](img/watch.png) en haut à droite.
-- **Pour ne voir que les ajouts récents, et pas se refarcir tout le document à chaque fois**, faites un tour [du côté des *commits*](https://github.com/sveinburne/lets-play-science/commits/master)
+De nombreuses interventions sont venues apporter des éléments de réponse à ces problèmes, en voici la synthèse! 
 
 Sommaire
 ----------------------------------------------------------
 
-I. [Participer](#I)
+I. [Participer à la synthèse](#I)
   1.  [Ouvrir une issue](#I.1)
   2.  [Faire une requête](#I.2)
 
@@ -42,16 +32,16 @@ III. [Agrégation des propositions de fonctionnalités pour une plateforme colla
   2. [Espace Q&A](#III.2)
   3. [Espace d'écriture collaborative](#III.3)
 
-IV. [On est des fous et on code le truc open source!](#IV)  
+
 
 <a name="I"></a>
-## I. Participer
+## I. Participer à la synthèse
 **Pour faire une proposition d'édition**, deux options
 
 <a name="I.1"></a>
 #### 1. Ouvrir une issue
 - [Créez un compte github](https://github.com/join)
-- Ouvrez une issue avec **le point concerné** (ex [II.2.b] : influence sur l'algorithme de tri), en vous rendant [à cette adresse](https://github.com/sveinburne/lets-play-science/issues) puis en cliquant sur ![New Issue](img/new_issue.png)
+- Ouvrez une issue avec **le point concerné** (ex [II.2.b] : influence sur l'algorithme de tri), en vous rendant [à cette adresse](https://github.com/sveinburne/lets-play-science/issues) puis en cliquant sur ![New Issue](img/new_issue.png). Les modérateurs vont taguer l'issue comme `synthèse`
 
 <a name="I.2"></a>
 #### 2. Faire une requête
@@ -313,25 +303,3 @@ Dans l'éventualité d'un *espace Q&A*, on peut envisager que chaque proposition
 
 <a name="IV"></a>
 ## IV. On est des fous et on code le truc open source!
-
-#### 1. Faire des suggestions sur l'application, pas besoin d'être dev'
-*Sans nécessairement voir le projet se lancer, ça peut être une excellente expérience de pensée de se représenter l'application "idéale".*
-
-- Consultez l'ébauche de spécifications : [THE_APP.MD](THE_APP.MD)
-- Lisez [ce billet](https://github.com/sveinburne/lets-play-science/issues/11)
-- Consulter les issues avec le [`label:enhancement`](https://github.com/sveinburne/lets-play-science/issues?q=label%3Aenhancement)
-
-
-
-#### 2. Se signaler comme intéressé pour le developpement
-
-Des développeurs qui ont signalé leur souhait de s'investir (merci de vous rajouter à la main avec votre lien github)
-
-- [Jules Randolph](https://github.com/sveinburne/)
-- [Julien Monnet](https://github.com/Roxtarmy)
-- [François Samin](https://github.com/fsamin/)
-- [Maxime Pacary](https://github.com/Frosty-Z)
-- [Thibaud Chominot](https://github.com/Phacocherman/)
-- [Aelerinya](https://github.com/Aelerinya)
-- [Sylvain Berthaud](https://github.com/akrib/)
-- [Pierre THEVENET](https://github.com/Gophys)

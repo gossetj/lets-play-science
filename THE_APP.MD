@@ -1,9 +1,18 @@
-Les specs collectives de l'application hypo-thétique
+La réflexion autour de l'application
 ---------------------------------------------------
-*Avant de concevoir une application, c'est une bonne idée de savoir à quoi elle ressemble, d'analyser quels sont les enjeux techniques de sa réalisation.*
+*Avant de concevoir une application, c'est une bonne idée de savoir à quoi elle ressemble, d'analyser quels sont les enjeux techniques de sa réalisation.*  
 
-- Ce document n'est pas du tout destiné spécifiquement aux développeurs, bien au contraire. On a tous une expérience utilisateur à faire valoir.
-- Sont répertoriées ici
+**Forum : **  
+- [**META-TOPIC DEFINITIONS**](https://github.com/sveinburne/lets-play-science/issues/40)  
+- [**META-TOPIC VISIONS D'ENSEMBLE**](https://github.com/sveinburne/lets-play-science/issues/41)  
+- [**LABELS**](https://github.com/sveinburne/lets-play-science/issues/39):
+  - [`label:définitions`](https://github.com/sveinburne/lets-play-science/issues?utf8=%E2%9C%93&q=label%3Ad%C3%A9finitions+) au sujet d'une [**définition**](#I)
+  - [`label:visions d'ensemble`](https://github.com/sveinburne/lets-play-science/issues?q=label%3A%22vision+d%27ensemble%22) pour organiser la discussion autour d'une [**vision d'ensemble**](#II)
+
+**Document :**  
+
+- Il n'est pas du tout destiné spécifiquement aux développeurs, bien au contraire. On a tous une expérience utilisateur à faire valoir.
+- Il répertorie
   - les [**définitions**](#I) qui nous permettent de savoir de quoi on parle
   - les [**visions d'ensemble** (VE)](#II), qui sont des solutions intégralement cohérentes mais pas nécessairement figées.
 

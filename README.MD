@@ -11,7 +11,7 @@ LetsPlayScience #3 - A la recherche de la sagesse des foules
 Les objectifs de ce repo ?
 ----------------------------------------------------------
 
-1. Faire la synthèse des propositions sur youtube -  [c'est ici : SYNTHSESE.MD](SYNTHSESE.MD)
+1. Faire la synthèse des propositions sur youtube -  [c'est ici : SYNTHSESE.MD](SYNTHESE.MD)
 2. Rechercher et partager un maximum de connaissances sur le sujet, qu'elles soient issues du monde académique, d'auteurs en tout genre, de projets web inspirants ou d'expérimentations ... -  [c'est ici : INSPIRATION.MD](INSPIRATION.MD)
 3. Faire l'inventaire des outils existants répondant à nos besoins - [c'est ici : OUTILS.MD ](OUTILS.MD)
 4. Imaginer des solutions inspirées des démarches **1.**, **2.** et **3.** - [guide pour participer](https://github.com/sveinburne/lets-play-science/issues/11)
@@ -22,17 +22,18 @@ Les objectifs de ce repo ?
 <a name="OS"></a>
 On est des fous et on fait l'application en Open Source!
 ----------------------------------------------------------
-**REMARQUE** : Un projet de développement comme celui-ci **a besoin de participants qui ne sont pas issus de l'informatique**. Plus il y a de transdisciplinairté, meilleur sera le produit final.
+**REMARQUE** : Un projet de développement comme celui-ci **a aussi besoin de participants qui ne sont pas issus de l'informatique**. Plus il y a de transdisciplinairté, meilleur sera le produit final.
 
 #### 1. Participer à la réflexion sur l'application, pas besoin d'être dev'
 *Sans nécessairement voir le projet se lancer, ça peut être une excellente expérience de pensée de se représenter l'application "idéale".*
 
-- Consultez le document dédié : [THE_APP.MD](THE_APP.MD)
+- Consultez les documents dédiés : [THE_APP.MD](THE_APP.MD) et [INSPIRATION.MD](#INSPIRATION.MD)
 - Lisez [ce billet](https://github.com/sveinburne/lets-play-science/issues/11)
 - Consulter les issues taguées avec
   - [`label:vision d'ensemble`,](https://github.com/sveinburne/lets-play-science/issues?utf8=%E2%9C%93&q=+is%3Aissue+label%3A%22vision+d%27ensemble%22+)
   - [`label:définitions`](https://github.com/sveinburne/lets-play-science/issues?q=is%3Aissue+label%3Ad%C3%A9finitions)
   - [`label:recherche`](https://github.com/sveinburne/lets-play-science/issues?utf8=%E2%9C%93&q=is%3Aissue+label%3Arecherche+)  
+  - [`label:inspiration`](https://github.com/sveinburne/lets-play-science/issues?utf8=%E2%9C%93&q=+is%3Aissue+label%3Ainspiration+)  
 - Eventuellement [vous signaler comme observateur](#observer) si vous souhaitez regarder de près le projet **sans être développeur**, ça n'a rien d'engageant alors n'hésitez pas! Ca nous permettra de communiquer avec vous plus facilement.
 
 
