@@ -1,6 +1,8 @@
 
 LetsPlayScience #3 - A la recherche de la sagesse des foules
 ---------------------------------------------------
+
+[![Join the chat at https://gitter.im/sveinburne/lets-play-science](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/sveinburne/lets-play-science?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 ***"Comment collaborer à 5000 cerveaux sur la même question ?"***
 
 **Un petit repo** pour organiser les réflexions sur l'épisode 3 de **Lets Play Science** !  
