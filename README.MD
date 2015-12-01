@@ -60,6 +60,7 @@ Des **développeurs** et **graphistes / intégrateurs web** qui ont signalé leu
 - [Pierre THEVENET](https://github.com/Gophys)
 - [Pierre THEVENET](https://github.com/Gophys)
 - [Victor GOURON](https://github.com/hantropi)
+
 Pourquoi github?
 ----------------------------------------------------------
 Au même titre qu'un wiki, cette application permet de faire des **révisions avec validation [des responsables](https://github.com/sveinburne/lets-play-science/issues/1)** d'un document collaboratif.
