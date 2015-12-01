@@ -259,7 +259,7 @@ On pourrait aussi imaginer une syntaxe pour que l'application "filtre" les messa
 #### 1. Critères de soumission d'une VE
 Une **vision d'ensemble** se présente sous la forme d'un fichier markdown situé dans le répertoire **VE** depuis la racine du projet. Voici **les critères** pour qu'une pull request de VE soit acceptée :
 - elle doit être sensiblement différente d'une VE existante
-- elle doit s'appuyez rigoureusement sur le vocabulaire définit en [**I**](#I)
+- elle doit s'appuyer rigoureusement sur le vocabulaire définit en [**I**](#I)
 - elle doit être rédigée avec **concision** et esprit de **synthèse**
 - elle doit offrir une **perspective** à minima sur les points suivants :
   1. Application Souveraine vs Application intégrée ?
