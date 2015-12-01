@@ -48,6 +48,9 @@ Sommaire
       - b [Arbre sémantique](#I.4.b)
       - c [Hash sémantique](#I.4.c)
       - d [Filtre sémantique](#I.4.d)
+      - e [Niveau de détail](#I.4.e)
+      - f [Ontologie](#I.4.f)
+      - g [Définitions chaînées](#I.4.g)
 
     5. [Versionnement](#I.5)
       - a [Version](#I.5.a)
@@ -192,8 +195,9 @@ Affiche tous les posts référés dans le chemin `Propulsion:Fusées`.
 **Remarque** :  
 > `#Fusées`
 
-<a name="I.4.e"></a>
 Va agréger (fusionner) tous les noeuds appellés `Fusées`
+
+<a name="I.4.e"></a>
 ##### e. Niveau de Détail
 Au sujet d'une représentation visuelle (arbre), choix des noeuds à afficher pour conserver un bon niveau de lisibilité.
 
