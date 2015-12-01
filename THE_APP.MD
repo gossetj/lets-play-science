@@ -58,6 +58,9 @@ Sommaire
       - c [Soumission](#I.5.c)
       - d [Post Cible](#I.5.d)
       - e [Post Source](#I.5.e)
+      - f [Hôte](#I.5.f)
+      - g [Amendeur](#I.5.g)
+      - h [Amendement](#I.5.h)
 
     6. [Sources de données](#I.6)
       - a [Application Souveraine](#I.6.a)
@@ -244,11 +247,24 @@ Action de soumettre à l'auteur d'un post une nouvelle **version** du document.
 
 <a name="I.5.d"></a>
 ##### d. Post Cible
-C'est la destination (reçu par l'hôte) de la fusion
+C'est la destination, reçu par l'*hôte*, de la *fusion*.
 
 <a name="I.5.e"></a>
 ##### e. Post Source
-C'est l'origine (proposé par l'offreur) de la fusion
+C'est le document *amendé* (proposé par l'amendeur) de la fusion.
+
+<a name="I.5.f"></a>
+##### f. Hôte
+Celui qui peut accepter ou refuser une *fusion* provenant d'un *amendeur* souhaitant fusionnner son *post source* avec le *post cible*.
+
+<a name="I.5.g"></a>
+##### g. Amendeur
+Auteur d'un *amendement*.
+
+<a name="I.5.h"></a>
+##### h. Amendement
+L'ensemble des modifications demandées par l'*amendeur* à l'*hôte*. A ne pas confondre avec la *fusion* qui est l'action d'accepter un *amendement*.
+
 
 <a name="I.6"></a>
 #### 6. Sources de données
