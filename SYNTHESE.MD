@@ -5,7 +5,7 @@ synthèse des commentaires youtube
 - Aller à la recherche des commentaires pertinents est une tâche laborieuse!
 - Cette *navigation en eaux troubles* limite la circulation des idées, et cause de nombreux doublons
 
-De nombreuses interventions sont venues apporter des éléments de réponse à ces problèmes, en voici la synthèse! 
+De nombreuses interventions sont venues apporter des éléments de réponse à ces problèmes, en voici la synthèse!
 
 Sommaire
 ----------------------------------------------------------
@@ -298,8 +298,3 @@ Permet d'effectuer une synthèse et rassembler des références de manière coll
 *proposé par [Frosty-Z](https://github.com/Frosty-Z)*
 
 Dans l'éventualité d'un *espace Q&A*, on peut envisager que chaque proposition (et sous-proposition) soit modifiable de manière collaborative. L'*espace Q&A* et l'*espace d'écriture collaborative* seraient donc confondus.
-
-
-
-<a name="IV"></a>
-## IV. On est des fous et on code le truc open source!
