@@ -1,8 +1,8 @@
 Comparatif des outils existants
 ==
-
+*Des outils que nous pourrions utiliser au moins provisoirement pour répondre à répondre à certains aspects de la problématique.*
 **Forum**  
-- [MÉTA-TOPIC]()
+- [**MÉTA-TOPIC**](https://github.com/sveinburne/lets-play-science/issues/42)
 - [**LABELS**](https://github.com/sveinburne/lets-play-science/issues/39):
     - [`label:outils`](https://github.com/sveinburne/lets-play-science/issues?utf8=%E2%9C%93&q=label%3Aoutils+)
 

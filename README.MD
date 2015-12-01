@@ -11,7 +11,7 @@ LetsPlayScience #3 - A la recherche de la sagesse des foules
 Les objectifs de ce repo ?
 ----------------------------------------------------------
 
-1. Faire la synthèse des propositions sur youtube -  [c'est ici : SYNTHSESE.MD](SYNTHESE.MD)
+1. Faire la synthèse des propositions sur youtube -  [c'est ici : SYNTHESE.MD](SYNTHESE.MD)
 2. Rechercher et partager un maximum de connaissances sur le sujet, qu'elles soient issues du monde académique, d'auteurs en tout genre, de projets web inspirants ou d'expérimentations ... -  [c'est ici : INSPIRATION.MD](INSPIRATION.MD)
 3. Faire l'inventaire des outils existants répondant à nos besoins - [c'est ici : OUTILS.MD ](OUTILS.MD)
 4. Imaginer des solutions inspirées des démarches **1.**, **2.** et **3.** - [guide pour participer](https://github.com/sveinburne/lets-play-science/issues/11)

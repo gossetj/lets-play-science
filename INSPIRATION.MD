@@ -1,6 +1,6 @@
 Inspiration & Recherches
 ---------------------------------------------------
-**Forum : **  
+**Forum :**  
 - [**META-TOPIC**](https://github.com/sveinburne/lets-play-science/issues/38)  
 - [**PROPOSITIONS DE RECHERCHES**](https://github.com/sveinburne/lets-play-science/issues/32)
 - [**LABELS**](https://github.com/sveinburne/lets-play-science/issues/39):
