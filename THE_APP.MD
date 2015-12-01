@@ -2,7 +2,7 @@ La réflexion autour de l'application
 ---------------------------------------------------
 *Avant de concevoir une application, c'est une bonne idée de savoir à quoi elle ressemble, d'analyser quels sont les enjeux techniques de sa réalisation.*  
 
-**Forum : **  
+**Forum :**  
 - [**META-TOPIC DEFINITIONS**](https://github.com/sveinburne/lets-play-science/issues/40)  
 - [**META-TOPIC VISIONS D'ENSEMBLE**](https://github.com/sveinburne/lets-play-science/issues/41)  
 - [**LABELS**](https://github.com/sveinburne/lets-play-science/issues/39):
