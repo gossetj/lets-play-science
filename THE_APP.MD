@@ -103,7 +103,7 @@ C'est l'ensemble des étapes aboutissant à la réponse de la *communauté* au *
 Texte structuré qui répond au *défi*, éditable par son auteur seulement.
 <a name="I.2.b"></a>
 ##### b. Post Versionné
-Document collaboratif qui offre une réponse possible au *défi*. Se référer à [versionnement](#V) pour plus de détails.
+Document collaboratif qui offre une réponse possible au *défi*. Se référer à [versionnement](#I.V) pour plus de détails.
 **Problème** : comment correctement circonscrire le périmètre de la réponse ?
 
 <a name="I.2.c"></a>
@@ -224,7 +224,7 @@ Et une balise optionnelle:
 
 
 <a name="I.5.a"></a>
-#### a. Version
+##### a. Version
 Une version figée d'un [*post versionné*](#I.2.b), qu'on peut rétablir plus tard.
 **Remarque** : Une *fusion* créée automatiquement une nouvelle version du *post cible*.
 
@@ -234,16 +234,16 @@ Action de fusionner deux posts sémantiquement proches.
 *Questions* : qui propose la fusion ? Un utilisateur peut-il suggérer la fusion de deux posts qu'il trouve proches? P'tet une option "proposer une fusion", cette dernière devant être validée par les deux auteurs...
 
 <a name="I.5.c"></a>
-#### c. Soumission
+##### c. Soumission
 *Non, pas le machin de Houellebecq*  
 Action de soumettre à l'auteur d'un post une nouvelle **version** du document.
 
 <a name="I.5.d"></a>
-#### d. Post Cible
+##### d. Post Cible
 C'est la destination (reçu par l'hôte) de la fusion
 
 <a name="I.5.e"></a>
-#### e. Post Source
+##### e. Post Source
 C'est l'origine (proposé par l'offreur) de la fusion
 
 <a name="I.6"></a>
@@ -271,7 +271,7 @@ Créer une source de données spécifique et propre, une nouvelle base de donné
 - Séparé de Youtube, effort pour le participant
 
 <a name="I.6.b"></a>
-#### b. Application Intégrée
+##### b. Application Intégrée
 Utiliser pour les données primaires les commentaires de Youtube et leurs réponses. Cela limitera certain cas d'utilisation, mais cela permettra de ne pas perturber les utilisateurs de Youtube, qui pourront continuer à faire des propositions, faire leurs réponses comme d'habitude ! Les utilisateurs qui voudrons prendre du recul pourrons alors passer sur la présente application pour gérer ces commentaires, les regrouper, les tagger, etc... Les données d'associations sémantiques seraient, quant à elle, stockées spécifiquement. Ce qui est interessant c'est que cette mécanique serait accessible alors pour toutes les chaines Youtube.
 
 On pourrait aussi imaginer une syntaxe pour que l'application "filtre" les messages qui ont un rapport, permettant par exemple une intégration avec les hashs sémantiques!
