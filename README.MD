@@ -5,7 +5,8 @@ LetsPlayScience #3 - A la recherche de la sagesse des foules
 **Un petit repo** pour organiser les réflexions sur l'épisode 3 de **Lets Play Science** !  
 - **C'est un document collaboratif** où chacun peut intégrer sa proposition de manière organisée.
 - Ce n'est **pas** un projet de développement ( [pas pour l'instant du moins, mais vous pouvez tous soumettre des idées](#OS) )  
-
+- **On y écrit en Markdown, [un langage de mise en page très simple qu'on peut apprendre en cinq minutes](http://www.remarq.io/articles/five-minutes-to-markdown-mastery/)**
+- Pour participer, [inscrivez-vous sur git-hub](https://github.com/join). Si vous êtes un peu perdu ou avez besoin d'aide [Ouvrez-alors une *issue*](https://github.com/sveinburne/lets-play-science/issues/new), on viendra gentilment vous accueillir !
 
 
 Les objectifs de ce repo ?
