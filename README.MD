@@ -1,6 +1,7 @@
 
 LetsPlayScience #3 - A la recherche de la sagesse des foules
 ---------------------------------------------------
+***"Comment collaborer à 5000 cerveaux sur la même question ?"***
 
 **Un petit repo** pour organiser les réflexions sur l'épisode 3 de **Lets Play Science** !  
 - **C'est un document collaboratif** où chacun peut intégrer sa proposition de manière organisée.
