@@ -58,7 +58,6 @@ Des **développeurs** et **graphistes / intégrateurs web** qui ont signalé leu
 - [Aelerinya](https://github.com/Aelerinya)
 - [Sylvain Berthaud](https://github.com/akrib/)
 - [Pierre THEVENET](https://github.com/Gophys)
-- [Pierre THEVENET](https://github.com/Gophys)
 - [Victor GOURON](https://github.com/hantropi)
 
 Pourquoi github?
