@@ -42,6 +42,7 @@ Sommaire
       - g [Vote Catégorique](#I.3.g)
       - h [Filtre Catégorique](#I.3.h)
       - i [Rôle](#I.3.i)
+      - j [Badges](#I.3.j)
 
     4. [Sémantique](#I.4)
       - a [Carte Heuristique / Mind map](#I.4.a)
@@ -152,6 +153,15 @@ Un filtre catégorique permet à l'utilisateur de l'application de ne sélection
 ##### i. Rôle
 Un *Rôle* est une mission assumée par un membre le temps d'un *défi*.
 > Ex : Aggrégateur de [*références*](#I.1.d)
+
+<a name="I.3.j"></a>
+##### i. Badge
+Distinction récompensant l'investissement et la bonne volonté d'un participant.
+Exemples (proposés par [Gophys](https://github.com/Gophys)) :
+
+* **Policier**: personne mettant en avant les comportements non respectueux
+* **Expert**: personne proposant de nouvelles solutions ou des modifications pertinentes dans un domaine particulier
+* **Journaliste**: personne donnant souvent un "pouce vert" aux nouvelles idées/modifications, avant d'être suivie par la foule
 
 <a name="I.4"></a>
 #### 4. Sémantique
