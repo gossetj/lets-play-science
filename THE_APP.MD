@@ -203,7 +203,7 @@ Elle associe des concepts pour ensuite tirer des inférences...
 
 ##### g. Défininitions chaînées
 Un peu comme dans un wiki, des définitions sont référées les une aux autres par des *relations sémantiques* qualifiées.
-Les différentes natures de ces relations (proposées par Frosty-Z) sont :
+Les différentes natures de ces relations (proposées par Piratdu52) sont :
 
 **Spécialisation**: Pour les liens de type un carré est un rectangle. Il sera surement obligatoire de créer une balise "généralisation" simplement pour ne pas avoir la liste de tout les modelés d'avions sur la page du concept d'avion.
 **Association**: Pour définir un concept n'ayant pas de nom a proprement parler, tel qu'un couple (jockey, cheval), on fait un ovale avec les concept lié entre eux , tel un graphe dans le graphe et on lie a un autre concept.
