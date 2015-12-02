@@ -55,8 +55,8 @@ IV. [Projets inspirants](#IV)
 
 <a name="II.3"></a>
 #### 3. [Les CLOMS/MOOCS](https://fr.wikipedia.org/wiki/Formation_en_ligne_ouverte_%C3%A0_tous)
+Formations en ligne ouvertes à tous, certaines formations pouvant rassembler jusqu'à 100 000 personnes.
 
-*Une ontologie est une organisation non-ambigue du savoir*.
 <a name="III"></a>
 ### III. Approches transdisciplinaires
 
