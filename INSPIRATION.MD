@@ -21,6 +21,24 @@ Inspiration & Recherches
 
 Sommaire
 ---------------------------------------------------
+I. [L'étude de la colaboration en sciences](#I)  
+
+  1. [Le connectivisme](#I.1)  
+
+II. [L'informatique et la construction du savoir](#II)  
+
+  1. [Les ontologies](#II.1)
+  2. [Le web sémantique](#II.2)
+  3. [Les CLOMS/MOOCS](#II.3)
+
+III. [Approches transdisciplinaires](#III)
+
+  1. [La cybernétique](#III.1)
+
+IV. [Projets inspirants](#IV)
+
+
+
 I. [Théorie de la collaboration](#I)  
 
   1. [Le connectivisme](#I.1)  
