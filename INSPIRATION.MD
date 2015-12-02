@@ -41,7 +41,7 @@ IV. [Projets inspirants](#IV)
 ### I. Théorie de la collaboration
 <a name="I.1"></a>
 #### 1. [Le connectivisme](https://fr.wikipedia.org/wiki/Connectivisme)
-*Il propose  une vision de l'apprentissage à l'aire des nouvelles technologies.*
+*Il propose  une vision de l'apprentissage à l'ère des nouvelles technologies.*
 
 <a name="II"></a>
 ### II. L'informatique et la construction du savoir
